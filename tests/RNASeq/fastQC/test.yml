@@ -1,0 +1,11 @@
+- name: Test fastQC
+  command: nextflow run ./tests/RNASeq/fastQC/ -profile standard -entry test_fastQC -with-singularity skeletalvis-transcriptomics.img
+  tags:
+    - fastQC
+  files:
+    - path: "data/test/fastqc/reads_1_fastqc.html"
+
+
+
+
+

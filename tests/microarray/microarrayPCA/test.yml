@@ -1,0 +1,11 @@
+- name: Test microarrayPCA
+  command: nextflow run ./tests/microarray/microarrayPCA/ -profile standard -entry test_microarrayPCA
+  tags:
+    - microarrayPCA
+  files:
+    - path: "data/E-GEOD-68760/E-GEOD-68760_pcaPlot.png"
+    - path: "data/E-GEOD-68760/E-GEOD-68760_geneInfluence.txt"
+    - path: "data/E-GEOD-68760/E-GEOD-68760_normalisedExp.txt"
+
+
+

@@ -1,0 +1,10 @@
+- name: Test enaDownload
+  command: nextflow run ./tests/RNASeq/enaDownload/ -profile standard -entry test_enaDownload
+  tags:
+    - enaDownload
+  files:
+    - path: "data/testDownload/fastqFiles/SRR11140746.fastq.gz"
+    - path: "data/testDownload/fastqFiles/SRR11140744.fastq.gz"
+
+
+

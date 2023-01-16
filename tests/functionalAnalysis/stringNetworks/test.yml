@@ -1,0 +1,11 @@
+- name: Test stringNetworks
+  command: nextflow run ./tests/functionalAnalysis/stringNetworks/ -profile standard -entry test_stringNetworks
+  tags:
+    - stringNetworks
+  files:
+    - path: "data/E-GEOD-68760/E-GEOD-68760_networks_string_1.RDS"
+    - path: "data/E-GEOD-68760/E-GEOD-68760_summaryTable_string_1.txt"
+
+
+
+

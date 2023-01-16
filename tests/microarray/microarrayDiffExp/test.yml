@@ -1,0 +1,7 @@
+- name: Test microarrayDiffExp
+  command: nextflow run ./tests/microarray/microarrayDiffExp/ -profile standard -entry test_microarrayDiffExp -with-singularity skeletalvis-transcriptomics.img
+  tags:
+    - microarrayDiffExp
+  files:
+    - path: "data/E-GEOD-68760/E-GEOD-68760_foldChangeTable.txt"
+

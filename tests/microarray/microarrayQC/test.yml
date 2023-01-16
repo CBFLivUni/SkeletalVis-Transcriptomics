@@ -1,0 +1,10 @@
+- name: Test microarrayQC
+  command: nextflow run ./tests/microarray/microarrayQC/ -profile standard -entry test_microarrayQC
+  tags:
+    - microarrayQC
+  files:
+    - path: "data/E-GEOD-68760/qc/E-GEOD-68760_qc.html"
+
+
+
+

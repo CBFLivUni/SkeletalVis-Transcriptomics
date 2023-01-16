@@ -1,0 +1,9 @@
+- name: Test makeGeneLengths
+  command: nextflow run ./tests/functionalAnalysis/makeGeneLengths/ -profile standard -entry test_makeGeneLengths -with-singularity library://jsoul/default/skeletalvis-pipeline:sha256.d239598af8e3fb6e02b1b9261e13580997e84a62a9a36245c1d7b35fd8af8ed7
+  tags:
+    - makeGeneLengths
+  files:
+    - path: "references/test_humanGeneLengths.txt"
+
+
+

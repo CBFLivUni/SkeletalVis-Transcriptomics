@@ -1,0 +1,11 @@
+- name: Test kallistoQuant
+  command: nextflow run ./tests/RNASeq/kallistoQuant/ -profile standard -entry test_kallistoQuant -with-singularity library://jsoul/default/skeletalvis-pipeline:sha256.d239598af8e3fb6e02b1b9261e13580997e84a62a9a36245c1d7b35fd8af8ed7
+  tags:
+    - kallistoQuant
+  files:
+    - path: "data/test/kallisto/testSample/testSample.abundances"
+    - path: "data/test/kallisto/testSample/testSample_kallisto.log"
+
+
+
+

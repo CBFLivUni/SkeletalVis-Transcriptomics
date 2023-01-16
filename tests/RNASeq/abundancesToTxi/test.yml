@@ -1,0 +1,11 @@
+- name: Test abundancesToTxi
+  command: nextflow run ./tests/RNASeq/abundancesToTxi/ -profile standard -entry test_abundancesToTxi -with-singularity library://jsoul/default/skeletalvis-pipeline:sha256.d239598af8e3fb6e02b1b9261e13580997e84a62a9a36245c1d7b35fd8af8ed7
+  tags:
+    - abundancesToTxi
+  files:
+    - path: "data/test/test_txi.RDS"
+    - path: "data/test/test_txiScaledTPM.RDS"
+
+
+
+

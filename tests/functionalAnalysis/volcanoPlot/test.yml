@@ -1,0 +1,9 @@
+- name: Test volcanoPlot
+  command: nextflow run ./tests/functionalAnalysis/volcanoPlot/ -profile standard -entry test_volcanoPlot
+  tags:
+    - volcanoPlot
+  files:
+    - path: "data/E-GEOD-68760/E-GEOD-68760_volcanoPlot_1.png"
+
+
+

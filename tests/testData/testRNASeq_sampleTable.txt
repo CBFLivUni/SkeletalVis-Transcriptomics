@@ -1,0 +1,7 @@
+Sample	File	Condition
+Control_2h_1	SRR2094288	Control_2h
+Flow_2h_1	SRR2094289	Flow_2h
+Control_2h_2	SRR2094290	Control_2h
+Flow_2h_2	SRR2094291	Flow_2h
+Control_2h_3	SRR2094292	Control_2h
+Flow_2h_3	SRR2094293	Flow_2h

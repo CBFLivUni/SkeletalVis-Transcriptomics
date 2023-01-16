@@ -1,0 +1,10 @@
+- name: Test cutFoldChangeTables
+  command: nextflow run ./tests/functionalAnalysis/cutFoldChangeTables/ -profile standard -entry test_cutFoldChangeTables
+  tags:
+    - cutFoldChangeTables
+  files:
+    - path: "data/E-GEOD-68760/E-GEOD-68760_cutTable_1.txt"
+
+
+
+

@@ -1,0 +1,11 @@
+- name: Test RNASeqPCA
+  command: nextflow run ./tests/RNASeq/RNASeqPCA/ -profile standard -entry test_RNASeqPCA -with-singularity library://jsoul/default/skeletalvis-pipeline:sha256.d239598af8e3fb6e02b1b9261e13580997e84a62a9a36245c1d7b35fd8af8ed7
+  tags:
+    - RNASeqPCA
+  files:
+    - path: "data/testRNASeq/testRNASeq_pcaPlot.png"
+    - path: "data/testRNASeq/testRNASeq_geneInfluence.txt"
+    - path: "data/testRNASeq/testRNASeq_normalisedExp.txt"
+
+
+

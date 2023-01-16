@@ -1,0 +1,11 @@
+- name: Test pathwayEnrichment
+  command: nextflow run ./tests/functionalAnalysis/pathwayEnrichment/ -profile standard -entry test_pathwayEnrichment
+  tags:
+    - pathwayEnrichment
+  files:
+    - path: "data/E-GEOD-68760/E-GEOD-68760_pathways_1_1.5_0.05.txt"
+    - path: "data/E-GEOD-68760/E-GEOD-68760_pathways_1_1_0.05.txt"
+
+
+
+

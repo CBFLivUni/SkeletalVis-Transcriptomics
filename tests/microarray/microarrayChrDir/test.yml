@@ -1,0 +1,7 @@
+- name: Test microarrayChrDir
+  command: nextflow run ./tests/microarray/microarrayChrDir/ -profile standard -entry test_microarrayChrDir
+  tags:
+    - chrdir
+  files:
+    - path: "data/E-GEOD-68760/E-GEOD-68760_chrDirTable.txt"
+

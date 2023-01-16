@@ -1,0 +1,15 @@
+- name: Test goEnrichment
+  command: nextflow run ./tests/functionalAnalysis/goEnrichment/ -profile standard -entry test_goEnrichment -with-singularity skeletalvis-transcriptomics.img
+  tags:
+    - goEnrichment
+  files:
+    - path: "data/E-GEOD-68760/E-GEOD-68760_goterms_1_1.5_0.05.txt"
+    - path: "data/E-GEOD-68760/E-GEOD-68760_goterms_1_1_0.05.txt"
+    - path: "data/E-GEOD-68760/E-GEOD-68760_goterms_reduced_1_1.5_0.05.txt"
+    - path: "data/E-GEOD-68760/E-GEOD-68760_goterms_reduced_1_1_0.05.txt"
+    - path: "data/E-GEOD-68760/E-GEOD-68760_GO.MDS_1_1.5_0.05.html"
+    - path: "data/E-GEOD-68760/E-GEOD-68760_GO.MDS_1_1_0.05.html"
+
+
+
+

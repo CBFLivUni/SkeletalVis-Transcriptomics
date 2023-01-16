@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+FactorValue..treatment.	X50.µg.ml.Galectin.1.for.24h.in.starvation.medium	untreated

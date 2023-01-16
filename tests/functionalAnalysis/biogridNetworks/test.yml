@@ -1,0 +1,11 @@
+- name: Test biogridNetworks
+  command: nextflow run ./tests/functionalAnalysis/biogridNetworks/ -profile standard -entry test_biogridNetworks
+  tags:
+    - biogridNetworks
+  files:
+    - path: "data/E-GEOD-68760/E-GEOD-68760_networks_biogrid_1.RDS"
+    - path: "data/E-GEOD-68760/E-GEOD-68760_summaryTable_biogrid_1.txt"
+
+
+
+

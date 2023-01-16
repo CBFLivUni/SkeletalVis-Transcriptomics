@@ -1,0 +1,4 @@
+- name: Test getGeneExpressionData
+  command: nextflow run ./tests/microarray/getGeneExpressionData/ -profile standard -entry test_getGeneExpressionData -with-singularity skeletalvis-transcriptomics.img
+  tags:
+    - getGeneExpressionData
