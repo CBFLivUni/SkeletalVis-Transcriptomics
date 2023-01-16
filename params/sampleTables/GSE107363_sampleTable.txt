@@ -1,0 +1,3 @@
+Sample	File	Condition
+Hob	SRR6324192	Hob
+HobRA	SRR6324193	HobRA
