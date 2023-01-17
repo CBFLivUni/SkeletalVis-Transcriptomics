@@ -19,10 +19,10 @@ process SETUP {
     mkdir networks
     mkdir enrichment
 
-    #Rscript ${params.scriptDir}/install/makeHomologyTables.R
+    Rscript ${params.scriptDir}/install/makeHomologyTables.R
 
     #download the fasta and gtf files needed
-    #bash ${params.scriptDir}/install/downloadReferences.sh
+    bash ${params.scriptDir}/install/downloadReferences.sh
 
     #make all the supporting files needed for the pipeline
     

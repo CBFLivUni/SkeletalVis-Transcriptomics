@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #make the subdirectories
-mkdir transcriptomics
+mkdir transcriptomes
 mkdir homology
 mkdir networks
 mkdir enrichment
