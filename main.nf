@@ -36,6 +36,9 @@ params.outdir = "$baseDir/data/${params.accessionNumber}"
 //site to download the sra/fastq files if needed
 params.downloadSite = "ENA"
 
+//accession number for ENA
+params.ENA = ""
+
 //directory with the fastqFiles
 params.fastqFileDir = "$params.outdir/fastqFiles/*.fastq.gz"
 downloadFiles = file(params.fastqFileDir).isEmpty()
@@ -64,8 +67,8 @@ params.scriptDir = "$baseDir/scripts"
 params.fastq_screen_conf = "$params.referenceDir/fastqscreen/FastQ_Screen_Genomes/fastq_screen.conf"
 
 //index for kallisto
-indexName = "${params.species}_release${params.ensemblRelease}IndexFile"
-params.index = "$params.referenceDir/$indexName"
+params.indexName = "${params.species}_release${params.ensemblRelease}IndexFile"
+params.index = "$params.referenceDir/$params.indexName"
 
 //stranded library option for kallisto?
 params.stranded = false
@@ -267,7 +270,7 @@ workflow RNASeqData {
 
   if(!file(params.index).exists()){
 
-  	index = kallistoIndex(indexName,params.fasta)
+  	index = kallistoIndex(params.indexName,params.fasta)
 
   } else {
     index = file(params.index)
