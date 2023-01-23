@@ -183,7 +183,7 @@ workflow setup {
 //main entry point for the transcriptomics analysis
 workflow skeletalvis {
 
-	if(params.type=="RNASeq") {
+	if(params.Type=="Microarray") {
 
 	MicroarrayData()
 
