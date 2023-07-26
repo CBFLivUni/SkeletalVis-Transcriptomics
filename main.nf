@@ -40,7 +40,8 @@ params.downloadSite = "ENA"
 params.ENA = ""
 
 //directory with the fastqFiles
-params.fastqFileDir = "$params.outdir/fastqFiles/*.fastq.gz"
+//ignoring R0 fastq files(usually discarded reads in trimming) by default
+params.fastqFileDir = "$params.outdir/fastqFiles/*[!_R0].fastq.gz"
 downloadFiles = file(params.fastqFileDir).isEmpty()
 
 
