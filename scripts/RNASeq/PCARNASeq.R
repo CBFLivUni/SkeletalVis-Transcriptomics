@@ -47,22 +47,25 @@ PCA <- function(object, intgroup, ntop = 30000, correctedMatrix) {
 
   if (length(intgroup) > 1) {
     
+    color <- sym(colnames(intgroup.df)[2])
+    shape <- sym(colnames(intgroup.df)[1])
     if (length(unique(levels(intgroup.df[,2])) > 1)) {
-      g <- ggplot(data = d, aes_string(x = "PC1", y = "PC2", color = intgroup.df[, 2], shape = intgroup.df[,1])) +
+      g <- ggplot(data = d, aes(x = PC1, y = PC2, color = !!color, shape = !!shape)) +
         geom_point(size = 3) +
         xlab(paste0("PC1: ",round(percentVar[1] * 100), "% variance")) + 
         ylab(paste0("PC2: ", round(percentVar[2] * 100),"% variance")) + 
         coord_fixed() + scale_colour_discrete(name = colnames(intgroup.df)[2]) + 
         scale_shape_discrete(name = colnames(intgroup.df)[1])
     } else {
-      g <- ggplot(data = d, aes_string(x = "PC1", y = "PC2", color = intgroup.df[, 1], shape = intgroup.df[,2])) +
+      g <- ggplot(data = d, aes(x = PC1, y = PC2, color = !!color, shape = !!shape)) +
         geom_point(size = 3) + xlab(paste0("PC1: ",round(percentVar[1] * 100), "% variance")) + 
         ylab(paste0("PC2: ", round(percentVar[2] * 100),"% variance")) +
         coord_fixed() + scale_colour_discrete(name = colnames(intgroup.df)[1]) + 
         scale_shape_discrete(name = colnames(intgroup.df)[2])
     }
   }  else {
-    g <- ggplot(data = d, aes_string(x = "PC1", y = "PC2",color = intgroup.df[, 1])) +
+    color <- sym(colnames(intgroup.df)[1])
+    g <- ggplot(data = d, aes(x = PC1, y = PC2, color = !!color)) +
       geom_point(size = 3) + xlab(paste0("PC1: ", round(percentVar[1] * 100), "% variance")) +
       ylab(paste0("PC2: ", round(percentVar[2] * 100), "% variance")) + 
       coord_fixed() + scale_colour_discrete(name = colnames(intgroup.df)[1])
