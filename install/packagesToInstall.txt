@@ -87,6 +87,7 @@ hta20transcriptcluster.db
 htmg430pm.db
 huex10sttranscriptcluster.db
 hugene10sttranscriptcluster.db
+hugene20sttranscriptcluster.db
 hugene21sttranscriptcluster.db
 mgu74a.db
 mgu74av2.db
