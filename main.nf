@@ -74,6 +74,9 @@ params.index = "$params.referenceDir/$params.indexName"
 //stranded library option for kallisto?
 params.stranded = false
 
+//should trimming be skipped?
+params.skipTrimming = false
+
 //sample table for the experiment
 params.sampleTable = "$baseDir/params/sampleTables/${params.accessionNumber}_sampleTable.txt"
 
@@ -282,8 +285,12 @@ workflow RNASeqData {
     .groupTuple()
     .map{id,fastq -> tuple(id,fastq.flatten().sort())}.view()
 
+	if(params.skipTrimming){
+		trimmedSamples = groupedSamples
+	} else {
+		trimmedSamples = trimFastqFiles(groupedSamples)
+	}
 
-  trimmedSamples = trimFastqFiles(groupedSamples)
   fastQC(trimmedSamples)
   fastqScreen(trimmedSamples)
   trimmedSamples.view()
