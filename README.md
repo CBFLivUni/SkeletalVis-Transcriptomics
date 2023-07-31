@@ -58,12 +58,19 @@ Note for microarray data the metadata is retrived directly from GEO and we inste
 
 2. Define the configuration
 
-Most parameters are set to sensible defaults within the main nextflow script, with only a few parameters required to be altered with typical use:
+Most parameters are set to sensible defaults within the main nextflow script, with only a few parameters required to be altered with typical use. Note the use of Groovy, python and R booleans.
 
-
-**TOADD**
+|Parameter|Description|Options|
+| ---|---|---|
+|accession|A unique identifier for the experiment to be analysed e.g the GEO accession of the data - used to name output data and download fastq files||
+|species|The species the reads originate from - used to create the kallisto index	|Human, Mouse, Rat, Cow, Pig|
+|single|Is the data single ended RNA-seq?	|true, false|
+|batchCorrect|Should batch effect correction (sva) be used?	|TRUE, FALSE|
+|skipTrimming|Should read trimming be skipped?|false (default), true|
 
 Parameters should be defined within a yaml file. See `params/GSE152805.yaml` for an example.
+
+The `accession` parameter defines the default search path for fastq.gz files (data/`accession`/fastqFiles/). Trimmed unpaired reads e.g "*_R0.fastq.gz" are skipped by default. If fastq files are not found locally the data will be downloaded using the provided `accession` number.
 
 3. Run the pipeline with your own parameters
 
