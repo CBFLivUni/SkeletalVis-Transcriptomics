@@ -87,7 +87,7 @@ getEnrichedGOTerms <- function(diffExp, sigDiffExp, geneLengths,
                           Enrichment = GOTerms.sig$enrichment)
   if(nrow(GOResults)==1) return(list(GOResults = GOResults,GOResults.reduced=NULL))
 
-  GOResults.reduced <- simplify(GOResults, gene2GO,species)
+  GOResults.reduced <- try(simplify(GOResults, gene2GO,species))
   return(list(GOResults = GOResults, GOResults.reduced = GOResults.reduced))
 }
 simplify <- function(GORes, gene2GO,species) {
