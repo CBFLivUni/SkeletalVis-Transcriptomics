@@ -39,6 +39,7 @@ Try the pipeline on an example dataset (all inputs will be automatically downloa
 4. [`Configure`](https://www.nextflow.io/docs/latest/config.html) the resource profile for your HPC or local computer. A template for slurm schedulers is provided as an example in `nextflow.config`
 
 There is a utility function provided to help replace paths within the config text files:
+
     ```console
      bash scripts/install/replacePath.sh nextflow.config /mnt/hc-storage/groups/cbf/Nextflow/SkeletalVis-Transcriptomics `pwd -P`
     ```
