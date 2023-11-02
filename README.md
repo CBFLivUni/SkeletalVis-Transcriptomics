@@ -32,14 +32,20 @@ Try the pipeline on an example dataset (all inputs will be automatically downloa
 
 2. Install [`Singularity`](https://www.sylabs.io/guides/3.0/user-guide/)
 
-3. [`Configure`](https://www.nextflow.io/docs/latest/config.html) the resource profile for your HPC or local computer. A template for slurm schedulers is provided as an example in `nextflow.config`
+3. Download the pipeline
+   ```console
+     nextflow clone CBFLivUni/SkeletalVis-Transcriptomics
+   ```
+4. [`Configure`](https://www.nextflow.io/docs/latest/config.html) the resource profile for your HPC or local computer. A template for slurm schedulers is provided as an example in `nextflow.config`
 
-4. Download the pipeline and test on the example dataset with a single command:
+There is a utility function provided to help replace paths within the config text files:
+    ```console
+     bash scripts/install/replacePath.sh nextflow.config /mnt/hc-storage/groups/cbf/Nextflow/SkeletalVis-Transcriptomics `pwd -P`
+    ```
+5. Test on the example dataset:
 
     ```console
-     nextflow clone CBFLivUni/SkeletalVis-Transcriptomics
-     cd SkeletalVis-Transcriptomics
-     nextflow run main.nf -profile slurm -params-file params/GSE152805.yaml -with-singularity library://jsoul/default/skeletalvis-transcriptomics:latest
+      nextflow run main.nf -profile slurm -params-file params/GSE152805.yaml -with-singularity library://jsoul/default/skeletalvis-transcriptomics:latest
     ```
 ### Analyse your own data
 
