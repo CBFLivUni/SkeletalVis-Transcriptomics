@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+source_name_ch1	Rheumatoid.arthritis.synovial.fibroblast..HDAC1..25.nm.siRNA.knockdown..48.h	Rheumatoid.arthritis.synovial.fibroblast..NTC..25.nm.siRNA.knockdown..48.h
+source_name_ch1	Rheumatoid.arthritis.synovial.fibroblast..C5orf30..50nm.siRNA..knockdown.24h	Rheumatoid.arthritis.synovial.fibroblast..NTC..50nm.siRNA..knockdown.24h

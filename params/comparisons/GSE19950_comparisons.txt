@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+cell.type	prothrombin adherent cells from long bone	osteopontin adherent cells from long bone

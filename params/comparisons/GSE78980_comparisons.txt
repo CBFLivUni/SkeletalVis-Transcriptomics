@@ -1,0 +1,11 @@
+Factor	Numerator	Denominator
+title	TO+/+ 1g no treatment	TO+/+ 0g no treatment
+title	TO+/+ 1g treated	TO+/+ 1g no treatment
+title	TO+/+ 0g treated	TO+/+ 0g no treatment
+title	TO-/- 1g no treatment	TO-/- 0g no treatment
+title	TO-/- 1g treated	TO-/- 1g no treatment
+title	TO-/- 0g treated	TO-/- 0g no treatment
+title	TO-/- 1g no treatment	TO+/+ 1g no treatment
+title	TO-/- 0g no treatment	TO+/+ 0g no treatment
+title	TO-/- 1g treated	TO+/+ 1g treated
+title	TO-/- 0g treated	TO+/+ 0g treated

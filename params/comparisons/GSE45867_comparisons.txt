@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+title	Synovial tissue after to Tocilizumab therapy	Synovial tissue prior to Tocilizumab therapy
+title	Synovial tissue after to Methotrexate therapy	Synovial tissue prior to Methotrexate therapy

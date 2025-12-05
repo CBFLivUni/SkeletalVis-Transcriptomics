@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+tissue	Acetabulum	Ilium
+tissue	Ischium	Ilium
+tissue	Pubis	Ilium

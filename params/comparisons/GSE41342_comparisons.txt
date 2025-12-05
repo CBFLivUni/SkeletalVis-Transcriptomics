@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+description	Gene expression data from DMM joints 2 weeks after surgery	Gene expression data from sham controls 2 weeks after surgery
+description	Gene expression data from DMM joints 4 weeks after surgery	Gene expression data from sham controls 4 weeks after surgery
+description	Gene expression data from DMM joints 8 weeks after surgery	Gene expression data from sham controls 8 weeks after surgery
+description	Gene expression data from DMM joints 16 weeks after surgery	Gene expression data from sham controls 16 weeks after surgery

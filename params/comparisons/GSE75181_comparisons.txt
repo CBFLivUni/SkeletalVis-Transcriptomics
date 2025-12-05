@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	cultured chondrocytes from cartilage_COT	cultured chondrocytes from cartilage_control
+source_name_ch1	cultured chondrocytes from cartilage_ctrl_IL1B	cultured chondrocytes from cartilage_control
+source_name_ch1	cultured chondrocytes from cartilage_COT_IL1B	cultured chondrocytes from cartilage_control

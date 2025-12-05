@@ -1,0 +1,2 @@
+Factor1	Factor2	Numerator	Denominator
+Characteristics.disease.	Characteristics.organism.part.	psoriatic arthritis.synovial fluid	healthy.synovial fluid

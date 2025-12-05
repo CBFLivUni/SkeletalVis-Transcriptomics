@@ -1,0 +1,10 @@
+Sample	File	cell.type
+chondrocytes_1	SRR14736904	chondrocytes
+chondrocytes_2	SRR14736905	chondrocytes
+chondrocytes_3	SRR14736906	chondrocytes
+mesenchymal.stromal.cells_1	SRR14736907	mesenchymal_stromal_cells
+mesenchymal.stromal.cells_2	SRR14736908	mesenchymal_stromal_cells
+mesenchymal.stromal.cells_3	SRR14736909	mesenchymal_stromal_cells
+senescent.mesenchymal.stromal.cells_1	SRR14736910	senescent_mesenchymal_stromal_cells
+senescent.mesenchymal.stromal.cells_2	SRR14736911	senescent_mesenchymal_stromal_cells
+senescent.mesenchymal.stromal.cells_3	SRR14736912	senescent_mesenchymal_stromal_cells

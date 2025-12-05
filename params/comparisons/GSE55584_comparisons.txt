@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+clinical.status	rheumatoid arthritis	osteoarthritis

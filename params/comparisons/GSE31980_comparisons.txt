@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	MSC.aggregates.cultured.in.hanging.drop.culture.for.3.days	MSCs.in.a.monolayer.culture

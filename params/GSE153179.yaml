@@ -1,0 +1,7 @@
+Type: Microarray
+accessionNumber: GSE153179
+site: GEO
+platform: Affy-ST
+annotationFile: mogene20sttranscriptcluster.db
+species: Mouse
+foldChangeOnly: 'FALSE'

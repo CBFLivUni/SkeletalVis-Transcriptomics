@@ -1,0 +1,5 @@
+Sample	File	Treatment
+NC-Pre-miR_1	SRR3734792	NC-Pre-miR
+Pre-miR-17_1	SRR3734793	Pre-miR-17
+NC-Pre-miR_2	SRR3734794	NC-Pre-miR
+Pre-miR-17_2	SRR3734795	Pre-miR-17

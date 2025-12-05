@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+tissue	cartilage, middle zone	cartilage, deep zone
+tissue	cartilage, superficial zone	cartilage, deep zone
+tissue	cartilage, superficial zone	cartilage, middle zone

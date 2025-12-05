@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	IL-1b treated	Untreated

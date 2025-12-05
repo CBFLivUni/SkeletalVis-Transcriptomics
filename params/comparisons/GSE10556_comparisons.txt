@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	chondrocyte Slc39a13 knockout	chondrocyte wild type

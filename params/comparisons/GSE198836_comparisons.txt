@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+condition	STZ_injected	Control

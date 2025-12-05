@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Genotype	Sox9Pos	Lrg5Pos
+Genotype	Sox9Pos	Lrg5Neg
+Genotype	Lrg5Pos	Lrg5Neg

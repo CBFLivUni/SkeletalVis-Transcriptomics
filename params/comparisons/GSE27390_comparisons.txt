@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+disease	rheumatoid arthritis	osteoarthritis

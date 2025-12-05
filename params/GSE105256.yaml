@@ -1,0 +1,11 @@
+Type: Microarray
+accessionNumber: GSE105256
+site: GEO
+platform: Affy
+annotationFile: mouse4302.db
+species: Mouse
+foldChangeOnly: 'TRUE'
+split: 'FALSE'
+splitField: ''
+splitSep: ''
+splitPos: 1

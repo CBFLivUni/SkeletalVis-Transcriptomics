@@ -1,0 +1,11 @@
+Type: Microarray
+accessionNumber: GSE148728
+site: GEO
+platform: Affy
+annotationFile: hugene10sttranscriptcluster.db
+species: Human
+foldChangeOnly: 'FALSE'
+split: 'TRUE'
+splitField: title
+splitSep: ', biological replicate'
+splitPos: 1

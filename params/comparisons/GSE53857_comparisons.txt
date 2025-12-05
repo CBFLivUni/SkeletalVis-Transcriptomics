@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	X2.wks.post.surgery_treated	X2.wks.post.surgery_untreated
+source_name_ch1	X4.wks.post.surgery_treated	X4.wks.post.surgery_untreated
+source_name_ch1	X8.wks.post.surgery_treated	X8.wks.post.surgery_untreated

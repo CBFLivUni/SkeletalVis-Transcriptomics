@@ -1,0 +1,4 @@
+Factor1	Factor2	Numerator	Denominator
+Factor.Value.stimulus.	Factor.Value.time.	25 MPa pressure.1	no hydrostatic pressure.NA
+Factor.Value.stimulus.	Factor.Value.time.	25 MPa pressure.4	no hydrostatic pressure.NA
+Factor.Value.stimulus.	Factor.Value.time.	25 MPa pressure.24	no hydrostatic pressure.NA

@@ -6,12 +6,12 @@ process microarrayDiffExp {
       val diffData
 
       output:
-      path "foldChangeTable.txt"
-
+      path "sampleSizes.txt"
+      path "foldChangeTable.txt", emit: diffTables
 
       script:
       """
-      Rscript ${params.scriptDir}/microarray/differentialExpressionMicroarray.R --inputfile=$diffData --comparisonsTable="${params.comparisonsTable}" --platform="${params.platform}" --annotationFile="${params.annotationFile}" --foldChangeOnly="${params.foldChangeOnly}" --offset="${params.offset}" --foldChangeTable="foldChangeTable.txt"
+      Rscript ${params.scriptDir}/microarray/differentialExpressionMicroarray.R --inputfile=$diffData --comparisonsTable="${params.comparisonsTable}" --platform="${params.platform}" --annotationFile="${params.annotationFile}" --foldChangeOnly="${params.foldChangeOnly}" --offset="${params.offset}" --covariates="${params.covariates}" --covariate_types="${params.covariate_types}" --foldChangeTable="foldChangeTable.txt"
 
       """
 }

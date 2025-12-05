@@ -1,0 +1,7 @@
+Sample	File	developmental.stage
+Week.15.multi.tissue.organoid_1	SRR15862304	Week_15
+Week.8.multi.tissue.organoid_1	SRR15862305	Week_8
+Week.8.multi.tissue.organoid_2	SRR15862306	Week_8
+Week.11.multi.tissue.organoid_1	SRR15862307	Week_11
+Week.11.multi.tissue.organoid_2	SRR15862308	Week_11
+Week.15.multi.tissue.organoid_2	SRR15862309	Week_15

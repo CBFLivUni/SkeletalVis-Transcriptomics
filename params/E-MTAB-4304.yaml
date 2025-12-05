@@ -1,0 +1,12 @@
+Type: RNASeq
+ENA: PRJEB12436
+accessionNumber: E-MTAB-4304
+batchCorrect: 'TRUE'
+foldChangeOnly: 'FALSE'
+single: false
+site: ENA
+species: Human
+stranded: true
+supervised: 'TRUE'
+technicalReplicates: 'FALSE'
+aspera: true

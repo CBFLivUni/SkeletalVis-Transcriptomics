@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+source_name_ch1	MMP-8 KO control mouse	MMP-8 wild type control mouse
+source_name_ch1	MMP-8 KO arthritic mouse	MMP-8 wild type arthritic mouse
+source_name_ch1	MMP-8 wild type arthritic mouse	MMP-8 wild type control mouse
+source_name_ch1	MMP-8 KO arthritic mouse	MMP-8 KO control mouse

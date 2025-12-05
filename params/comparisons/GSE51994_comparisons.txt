@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	SZ	MZ
+source_name_ch1	SZ	DZ
+source_name_ch1	MZ	DZ

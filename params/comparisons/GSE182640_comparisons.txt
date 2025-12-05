@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	Hbb_conditional_knockout_in_chondrocytes	wildtype

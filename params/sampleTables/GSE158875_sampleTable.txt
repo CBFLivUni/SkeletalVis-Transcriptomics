@@ -1,0 +1,9 @@
+Sample	File	treatment
+PBS_1	SRR12756447	PBS
+PBS_2	SRR12756448	PBS
+PBS_3	SRR12756449	PBS
+PBS_4	SRR12756450	PBS
+treated.with.10.ng.mL.IL.1β.and.10.ng.mL.TNF.α.for.4.hours_1	SRR12756451	IL1B_TNF_4hrs
+treated.with.10.ng.mL.IL.1β.and.10.ng.mL.TNF.α.for.4.hours_2	SRR12756452	IL1B_TNF_4hrs
+treated.with.10.ng.mL.IL.1β.and.10.ng.mL.TNF.α.for.4.hours_3	SRR12756453	IL1B_TNF_4hrs
+treated.with.10.ng.mL.IL.1β.and.10.ng.mL.TNF.α.for.4.hours_4	SRR12756454	IL1B_TNF_4hrs

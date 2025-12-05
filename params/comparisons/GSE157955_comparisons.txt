@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+source_name_ch1	day 56 of induction	day -1 of induction
+source_name_ch1	day 28 of induction	day -1 of induction

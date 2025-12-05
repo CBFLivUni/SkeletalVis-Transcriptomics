@@ -1,0 +1,17 @@
+Sample	File	Factor
+Scramble.shRNA_TGFalpha_1	SRR15414920	Scramble_shRNA_TGFalpha
+Creb5.3.shRNA_TGFalpha_1	SRR15414921	Creb5_TGFalpha
+Scramble.shRNA_TGFalpha.and.TGFβ2_1	SRR15414922	Scramble_shRNA_TGFalpha_and_TGFβ2
+Creb5.3.shRNA_TGFalpha.and.TGFβ2_1	SRR15414923	Creb5_TGFalpha_and_TGFβ2
+Scramble.shRNA_TGFalpha_2	SRR15414924	Scramble_shRNA_TGFalpha
+Creb5.3.shRNA_TGFalpha_2	SRR15414925	Creb5_TGFalpha
+Scramble.shRNA_TGFalpha.and.TGFβ2_2	SRR15414926	Scramble_shRNA_TGFalpha_and_TGFβ2
+Creb5.3.shRNA_TGFalpha.and.TGFβ2_2	SRR15414927	Creb5_TGFalpha_and_TGFβ2
+Scramble.shRNA_TGFalpha_3	SRR15414928	Scramble_shRNA_TGFalpha
+Scramble.shRNA_TGFalpha.and.TGFβ2_3	SRR15414929	Scramble_shRNA_TGFalpha_and_TGFβ2
+Creb5.3.shRNA_TGFalpha_3	SRR15414930	Creb5_TGFalpha
+Creb5.3.shRNA_TGFalpha.and.TGFβ2_3	SRR15414931	Creb5_TGFalpha_and_TGFβ2
+Scramble.shRNA_TGFalpha_4	SRR15414932	Scramble_shRNA_TGFalpha
+Scramble.shRNA_TGFalpha.and.TGFβ2_4	SRR15414933	Scramble_shRNA_TGFalpha_and_TGFβ2
+Creb5.3.shRNA_TGFalpha_4	SRR15414934	Creb5_TGFalpha
+Creb5.3.shRNA_TGFalpha.and.TGFβ2_4	SRR15414935	Creb5_TGFalpha_and_TGFβ2

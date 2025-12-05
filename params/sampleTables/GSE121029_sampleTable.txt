@@ -1,0 +1,13 @@
+Sample	File	treatment
+Non.invasive_1	SRR7989549	Non invasive
+Non.invasive_2	SRR7989550	Non invasive
+Non.invasive_3	SRR7989551	Non invasive
+Lentiviruses.expressing.Luc_1	SRR7989552	Lentiviruses expressing Luc
+Lentiviruses.expressing.Luc_2	SRR7989553	Lentiviruses expressing Luc
+Lentiviruses.expressing.Luc_3	SRR7989554	Lentiviruses expressing Luc
+Lentiviruses.expressing.WT.DGCR8_1	SRR7989555	Lentiviruses expressing WT DGCR8
+Lentiviruses.expressing.WT.DGCR8_2	SRR7989556	Lentiviruses expressing WT DGCR8
+Lentiviruses.expressing.WT.DGCR8_3	SRR7989557	Lentiviruses expressing WT DGCR8
+Lentiviruses.expressing.mtDRBD.DGCR8_1	SRR7989558	Lentiviruses expressing mtDRBD DGCR8
+Lentiviruses.expressing.mtDRBD.DGCR8_2	SRR7989559	Lentiviruses expressing mtDRBD DGCR8
+Lentiviruses.expressing.mtDRBD.DGCR8_3	SRR7989560	Lentiviruses expressing mtDRBD DGCR8

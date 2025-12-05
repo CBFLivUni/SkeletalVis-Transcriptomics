@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+title	chondrocytes_day28	MSC_day0
+title	chondrocytes_day28	MSC_day28
+title	MSC_day28	MSC_day0

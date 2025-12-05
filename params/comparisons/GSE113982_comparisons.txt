@@ -1,0 +1,7 @@
+Factor	Numerator	Denominator
+Factor	p2_Proliferative zone	p2_Hypertrophic zone
+Factor	p2_Resting zone	p2_Hypertrophic zone
+Factor	p2_Proliferative zone	p2_Resting zone
+Factor	p28_Proliferative zone	p28_Hypertrophic zone
+Factor	p28_Resting zone	p28_Hypertrophic zone
+Factor	p28_Proliferative zone	p28_Resting zone

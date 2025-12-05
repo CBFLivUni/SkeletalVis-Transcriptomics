@@ -1,0 +1,3 @@
+Sample	File	treatment
+shNC_1	SRR17130659	shNC
+shGpx4_1	SRR17130660	shGpx4

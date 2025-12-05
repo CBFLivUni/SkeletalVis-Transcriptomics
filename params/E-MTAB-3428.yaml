@@ -1,0 +1,11 @@
+Type: RNASeq
+ENA: PRJEB8913
+accessionNumber: E-MTAB-3428
+batchCorrect: 'FALSE'
+foldChangeOnly: 'TRUE'
+single: false
+site: ENA
+species: Mouse
+stranded: true
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'

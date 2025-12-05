@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Factor	IL-1Beta_AD	Control_AD
+Factor	IL-1Beta_FT	Control_FT
+Factor	IL-1Beta_OC-O	Control_OC-O
+Factor	IL-1Beta_OC-C	Control_OC-C

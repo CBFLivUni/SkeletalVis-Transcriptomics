@@ -1,0 +1,6 @@
+Factor	Numerator	Denominator
+source_name_ch1	bone marrow cells, adiponectin, 4 hrs	bone marrow cells, unterated, 4 hrs
+source_name_ch1	bone marrow cells, adiponectin, 10 hrs	bone marrow cells, unterated, 10 hrs
+source_name_ch1	bone marrow cells, adiponectin, 24 hrs	bone marrow cells, unterated, 24 hrs
+source_name_ch1	bone marrow cells, adiponectin, 72 hrs	bone marrow cells, unterated, 72 hrs
+source_name_ch1	bone marrow cells, adiponectin, 120 hrs	bone marrow cells, unterated, 120 hrs

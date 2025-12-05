@@ -1,0 +1,2 @@
+Paired1	Paired2	Numerator	Denominator
+Characteristics.donor.	Characteristics.DISEASE STATE.	Lesional	Non-lesional

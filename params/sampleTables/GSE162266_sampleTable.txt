@@ -1,0 +1,9 @@
+Sample	File	genotype.variation
+wildtype.for.the.CG.mutants_1	SRR13159380	wildtype.for.the.CG.mutants
+X3p.seed.region.mutation_1	SRR13159381	three.p.seed.region.mutation
+X3p.seed.region.mutation_2	SRR13159382	three.p.seed.region.mutation
+wild.type.for.the.CG.mutants_1	SRR13159383	wildtype.for.the.CG.mutants
+C.T.base.change_1	SRR13159384	CT.base.change
+C.T.base.change_2	SRR13159385	CT.base.change
+wild.type.for.the.C.T.mutant_1	SRR13159386	wildtype.for.the.CT.mutant
+wild.type.for.the.C.T.mutant_2	SRR13159387	wildtype.for.the.CT.mutant

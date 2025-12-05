@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+title	Mouse synovial fibroblast IL-1beta, indomethacin, iloprost	Mouse synovial fibroblast none
+title	Mouse synovial fibroblast IL-1beta, indomethacin	Mouse synovial fibroblast none
+title	Mouse synovial fibroblast IL-1beta	Mouse synovial fibroblast none

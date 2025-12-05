@@ -1,0 +1,13 @@
+Type: Microarray
+accessionNumber: GSE129147
+site: GEO
+platform: Affy
+annotationFile: primeview.db
+species: Human
+foldChangeOnly: 'FALSE'
+split: 'TRUE'
+splitField: 'title'
+splitPos: '2'
+splitSep: 'Patient'
+covariates: "title"
+covariate_types: "factor"

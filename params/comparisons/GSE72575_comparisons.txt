@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+treatment.group	IL-1β-stimulated in the presence of alloxan	non-stimulated
+treatment.group	IL-1β-stimulated in the presence of GlcN	non-stimulated
+treatment.group	IL-1β-stimulated in the presence of GlcN and alloxan	non-stimulated
+treatment.group	IL-1β-stimulated MH7A	non-stimulated

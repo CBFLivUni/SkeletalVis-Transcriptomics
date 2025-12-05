@@ -1,0 +1,13 @@
+Sample	File	Factor
+F2rl1...._Unconditioned.medium_1	SRR9972641	F2rl1KO_Unconditioned medium
+F2rl1...._MDA.PCa.2b.conditioned.medium_1	SRR9972642	F2rl1KO_MDA PCa 2b-conditioned medium
+F2rl1...._Unconditioned.medium_2	SRR9972643	F2rl1KO_Unconditioned medium
+F2rl1...._MDA.PCa.2b.conditioned.medium_2	SRR9972644	F2rl1KO_MDA PCa 2b-conditioned medium
+F2rl1...._Unconditioned.medium_3	SRR9972645	F2rl1KO_Unconditioned medium
+F2rl1...._MDA.PCa.2b.conditioned.medium_3	SRR9972646	F2rl1KO_MDA PCa 2b-conditioned medium
+F2rl1...._Unconditioned.medium_4	SRR9972647	F2rl1KO_Unconditioned medium
+Wildtype_MDA.PCa.2b.conditioned.medium_1	SRR9972648	Wildtype_MDA PCa 2b-conditioned medium
+Wildtype_Unconditioned.medium_1	SRR9972649	Wildtype_Unconditioned medium
+Wildtype_MDA.PCa.2b.conditioned.medium_2	SRR9972650	Wildtype_MDA PCa 2b-conditioned medium
+Wildtype_Unconditioned.medium_2	SRR9972651	Wildtype_Unconditioned medium
+Wildtype_MDA.PCa.2b.conditioned.medium_3	SRR9972652	Wildtype_MDA PCa 2b-conditioned medium

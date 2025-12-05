@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	high_shear_stress_treatment	untreated

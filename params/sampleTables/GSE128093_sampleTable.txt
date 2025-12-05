@@ -1,0 +1,7 @@
+Sample	File	source_name_ch1
+rat.knee.joints.treated.with.BNTA..1.5.mg.kg.1..twice.a.week.for.4.w_1	SRR8707357	rat knee joints treated with BNTA
+rat.knee.joints.treated.with.BNTA..1.5.mg.kg.1..twice.a.week.for.4.w_2	SRR8707358	rat knee joints treated with BNTA
+rat.knee.joints.treated.with.BNTA..1.5.mg.kg.1..twice.a.week.for.4.w_3	SRR8707359	rat knee joints treated with BNTA
+rat.knee.joints.treated.with.normal.saline..vehicle..twice.a.week.for.4.w_1	SRR8707360	rat knee joints treated with normal saline
+rat.knee.joints.treated.with.normal.saline..vehicle..twice.a.week.for.4.w_2	SRR8707361	rat knee joints treated with normal saline
+rat.knee.joints.treated.with.normal.saline..vehicle..twice.a.week.for.4.w_3	SRR8707362	rat knee joints treated with normal saline

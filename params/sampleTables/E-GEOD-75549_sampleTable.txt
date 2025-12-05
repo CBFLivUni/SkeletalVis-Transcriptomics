@@ -1,0 +1,3 @@
+Sample	File	Genotype
+WT	SRR2968069	WT
+hdac3KO	SRR2968068	hdac3KO

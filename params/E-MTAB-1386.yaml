@@ -1,0 +1,11 @@
+Type: RNASeq
+ENA: PRJEB1185
+accessionNumber: E-MTAB-1386
+batchCorrect: 'TRUE'
+foldChangeOnly: 'FALSE'
+single: 'FALSE'
+site: ENA
+species: Horse
+stranded: 'FALSE'
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'

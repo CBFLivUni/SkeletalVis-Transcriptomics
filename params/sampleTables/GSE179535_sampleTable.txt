@@ -1,0 +1,7 @@
+Sample	File	treatment
+control.siRNA.transfection_1	SRR15049525	control_siRNA_transfection
+control.siRNA.transfection_2	SRR15049526	control_siRNA_transfection
+control.siRNA.transfection_3	SRR15049527	control_siRNA_transfection
+Sephs1.siRNA.transfection_1	SRR15049528	Sephs1_siRNA_transfection
+Sephs1.siRNA.transfection_2	SRR15049529	Sephs1_siRNA_transfection
+Sephs1.siRNA.transfection_3	SRR15049530	Sephs1_siRNA_transfection

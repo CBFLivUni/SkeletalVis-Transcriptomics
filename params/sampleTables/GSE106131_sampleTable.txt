@@ -1,0 +1,17 @@
+Sample	File	Condition
+Morphant_TCDD_1	SRR6215426	Morphant_TCDD
+Morphant_TCDD_2	SRR6215425	Morphant_TCDD
+Morphant_TCDD_3	SRR6215424	Morphant_TCDD
+Morphant_TCDD_4	SRR6215423	Morphant_TCDD
+Morphant_DMSO_1	SRR6215422	Morphant_DMSO
+Morphant_DMSO_2	SRR6215421	Morphant_DMSO
+Morphant_DMSO_3	SRR6215420	Morphant_DMSO
+Morphant_DMSO_4	SRR6215419	Morphant_DMSO
+Control_TCDD_1	SRR6215418	Control_TCDD
+Control_TCDD_2	SRR6215417	Control_TCDD
+Control_TCDD_3	SRR6215416	Control_TCDD
+Control_TCDD_4	SRR6215415	Control_TCDD
+Control_DMSO_1	SRR6215414	Control_DMSO
+Control_DMSO_2	SRR6215413	Control_DMSO
+Control_DMSO_3	SRR6215412	Control_DMSO
+Control_DMSO_4	SRR6215411	Control_DMSO

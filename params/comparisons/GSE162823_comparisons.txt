@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+tissue	Femoral condylar cartilage (FCC)	Hypertrophic chondrocytes Zone (HZ) of mandibular condylar cartilage (MCC)
+tissue	Fibrous Zone (FZ) of mandibular condylar cartilage (MCC)	Hypertrophic chondrocytes Zone (HZ) of mandibular condylar cartilage (MCC)
+tissue	Proliferative Zone (PZ) of mandibular condylar cartilage (MCC)	Hypertrophic chondrocytes Zone (HZ) of mandibular condylar cartilage (MCC)
+tissue	Mature chondrocytes Zone (MZ) of mandibular condylar cartilage (MCC)	Hypertrophic chondrocytes Zone (HZ) of mandibular condylar cartilage (MCC)

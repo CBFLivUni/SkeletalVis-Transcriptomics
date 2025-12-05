@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	C4-2B-MDVR_no treatment	C4-2B_no treatment

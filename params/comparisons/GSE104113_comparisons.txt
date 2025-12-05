@@ -1,0 +1,3 @@
+Factor1	Factor2	Numerator	Denominator
+cell.type	group	chondrocyte.Adult	chondrocyte.Juvenile
+cell.type	group	Stem cells.Adult	chondrocyte.Juvenile

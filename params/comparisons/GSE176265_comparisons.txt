@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+title	BMMs_RANKL_24h	BMMs_RANKL_0h
+title	BMMs_RANKL_48h	BMMs_RANKL_0h
+title	BMMs_RANKL_72h	BMMs_RANKL_0h

@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+genotype.variation	Xbp1Cart{delta}Ex2 HZ	Wt HZ
+genotype.variation	ColXN617K HZ	Wt HZ
+genotype.variation	C/X HZ	Wt HZ

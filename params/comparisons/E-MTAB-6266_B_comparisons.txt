@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Disease	OA_SubgroupA	nonOA
+Disease	OA_SubgroupB	nonOA
+Disease	OA_SubgroupB	OA_SubgroupA
+

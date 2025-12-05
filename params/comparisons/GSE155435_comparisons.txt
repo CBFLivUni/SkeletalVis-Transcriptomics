@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Factor	10uM BPDP_3 hours	DMSO_3 hours
+Factor	1uM BPDP_3 hours	DMSO_3 hours
+Factor	10uM BPDP_24 hours	DMSO_24 hours
+Factor	1uM BPDP_24 hours	DMSO_3 hours

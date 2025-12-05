@@ -1,0 +1,2 @@
+Cy5	Cy3	Numerator	Denominator	Factor
+Factor.Value.DISEASE_STATE..x	Factor.Value.DISEASE_STATE..y	Kashin-beck disease	primary osteoarthritis	DISEASE_STATE

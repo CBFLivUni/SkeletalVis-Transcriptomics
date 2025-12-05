@@ -1,0 +1,11 @@
+accessionNumber: GSE162823
+Type: Microarray
+site: GEO
+platform: Affy
+annotationFile: rat2302.db
+species: Rat
+foldChangeOnly: 'TRUE'
+split: 'FALSE'
+splitField: title
+splitSep: ''
+splitPos: 1

@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+treated.with	low (0.01mg/ml) concentration of polyphosphates	none (control)
+treated.with	high (1mg/ml) concentration of polyphosphates	none (control)
+treated.with	high (1mg/ml) concentration of polyphosphates	low (0.01mg/ml) concentration of polyphosphates

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	osteoblast induction	none

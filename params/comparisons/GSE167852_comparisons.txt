@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	semaphorin_4D	control

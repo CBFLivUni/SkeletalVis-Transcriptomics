@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+title	MSC-Day1 Induction-ApoA1	MSC-Day1-Induction
+title	MSC-Day3-Induction-ApoA1	MSC-Day3-Induction
+title	MSC-Day5-Induction-ApoA-1	MSC-Day5-Induction

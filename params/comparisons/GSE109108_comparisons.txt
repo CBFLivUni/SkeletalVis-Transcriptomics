@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Treatment	mir138_day2	NS_control_day2
+Treatment	mir138_day7	NS_control_day7
+Treatment	mir181_day2	NS_control_day2
+Treatment	mir181_day7	NS_control_day7

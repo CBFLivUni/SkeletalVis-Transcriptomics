@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype.variation	Il15ra null	Ctrl

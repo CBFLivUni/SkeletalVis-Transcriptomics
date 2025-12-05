@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+title	Lipo-CGS	Liposome
+title	Liposome	Uninvolved knee

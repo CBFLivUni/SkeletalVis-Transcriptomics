@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+source_name_ch1	Osteoblastic in vitro differentiation of Kusa4b10 mouse cell line.	Kusa4b10 mouse cell line
+source_name_ch1	Osteoblastic in vitro differentiation of Kusa4b10 mouse cell line.	Osteosarcoma cell line

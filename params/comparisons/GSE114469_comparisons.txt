@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype.variation	Y1 deficient mouse	WT mouse

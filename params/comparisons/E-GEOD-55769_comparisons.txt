@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Treatment	Ad-NOER_E2	Ad-NOER
+Treatment	Ad-NERKI_E2	Ad-NERKI
+Treatment	Ad-Era_E2	Ad-Era

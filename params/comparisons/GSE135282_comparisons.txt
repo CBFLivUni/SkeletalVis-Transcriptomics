@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	Piezo1KO	WT

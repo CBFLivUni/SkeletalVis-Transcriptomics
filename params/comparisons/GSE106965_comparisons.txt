@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	Hif1a knockdown chondrocytes	Control chondrocytes

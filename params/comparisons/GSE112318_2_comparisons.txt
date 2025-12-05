@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	hBMSC_2_week	hBMSC_0_week

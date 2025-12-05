@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+title	Normal_plus	Normal_minus
+title	Microtia_plus	Microtia_minus
+title	Microtia_minus	Normal_minus

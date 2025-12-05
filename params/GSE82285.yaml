@@ -1,0 +1,7 @@
+Type: Microarray
+accessionNumber: GSE82285
+site: GEO
+platform: Affy
+annotationFile: htmg430pm.db
+species: Mouse
+foldChangeOnly: 'FALSE'

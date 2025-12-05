@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+strain	LG/J	SM/J

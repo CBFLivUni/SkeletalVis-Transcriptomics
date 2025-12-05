@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+cell.type	Irx5KO	WT

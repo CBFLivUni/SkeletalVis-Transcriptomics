@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+characteristics_ch1	TET1KO	TET1WT

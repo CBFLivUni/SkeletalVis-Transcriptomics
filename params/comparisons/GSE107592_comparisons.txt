@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+tissue	Adult Cartilage	Embryonic Cartilage

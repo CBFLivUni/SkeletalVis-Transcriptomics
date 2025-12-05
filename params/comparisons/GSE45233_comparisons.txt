@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+source_name_ch1	Knee meniscus, old, chondrosis	Knee meniscus, young, chondrosis
+source_name_ch1	Knee meniscus, old, chondrosis	Knee meniscus, old, no chondrosis
+source_name_ch1	Knee meniscus, young, chondrosis	Knee meniscus, young, no chondrosis
+source_name_ch1	Knee meniscus, old, no chondrosis	Knee meniscus, young, no chondrosis

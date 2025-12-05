@@ -1,0 +1,7 @@
+Sample	File	treatment
+treated.with.DMSO.for.24.hours_1	SRR14270311	DMSO
+treated.with.DMSO.for.24.hours_2	SRR14270312	DMSO
+treated.with.DMSO.for.24.hours_3	SRR14270313	DMSO
+treated.with.SR3335.for.24.hours_1	SRR14270314	SR3335
+treated.with.SR3335.for.24.hours_2	SRR14270315	SR3335
+treated.with.SR3335.for.24.hours_3	SRR14270316	SR3335

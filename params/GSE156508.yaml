@@ -1,0 +1,11 @@
+Type: Microarray
+accessionNumber: GSE156508
+site: GEO
+platform: Affy-ST
+annotationFile: hugene20sttranscriptcluster.db
+species: Human
+foldChangeOnly: 'FALSE'
+split: 'TRUE'
+splitField: title
+splitSep: ' '
+splitPos: 1

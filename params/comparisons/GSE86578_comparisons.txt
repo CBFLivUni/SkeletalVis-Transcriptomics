@@ -1,0 +1,4 @@
+Factor1	Factor2	Numerator	Denominator
+stimulated.with	timepoint.hrs	IL.1.OSM.1	none (control).0
+stimulated.with	timepoint.hrs	IL.1.OSM.1.25	none (control).0
+stimulated.with	timepoint.hrs	IL.1.OSM.24	none (control).0

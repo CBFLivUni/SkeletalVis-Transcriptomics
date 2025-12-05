@@ -1,0 +1,2 @@
+Cy5	Cy3	Numerator	Denominator	Factor
+Cy5	Cy3	damaged	undamaged	test

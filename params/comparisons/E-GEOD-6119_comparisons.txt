@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Factor.Value..COMPOUND.	IL-1	control
+Factor.Value..COMPOUND.	glucosamine	control
+Factor.Value..COMPOUND.	IL-1 and glucosamine	control

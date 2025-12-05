@@ -1,0 +1,10 @@
+Factor1	Factor2	Numerator	Denominator
+Characteristics.disease.	Characteristics.treatment.	rheumatoid arthritis.disease modifying antirheumatic drugs	rheumatoid arthritis.non-steroidal anti-inflammatory drugs
+Characteristics.disease.	Characteristics.treatment.	rheumatoid arthritis.steroids, disease modifying antirheumatic drugs and non-steroidal anti-inflammatory drugs	rheumatoid arthritis.non-steroidal anti-inflammatory drugs
+Characteristics.disease.	Characteristics.treatment.	rheumatoid arthritis.steroids, disease modifying antirheumatic drugs and non-steroidal anti-inflammatory drugs	rheumatoid arthritis.disease modifying antirheumatic drugs
+Characteristics.disease.	Characteristics.treatment.	rheumatoid arthritis.disease modifying antirheumatic drugs	normal.none
+Characteristics.disease.	Characteristics.treatment.	rheumatoid arthritis.steroids, disease modifying antirheumatic drugs and non-steroidal anti-inflammatory drugs	normal.none
+Characteristics.disease.	Characteristics.treatment.	rheumatoid arthritis.non-steroidal anti-inflammatory drugs	normal.none
+Characteristics.disease.	Characteristics.treatment.	osteoarthritis.non-steroidal anti-inflammatory drugs	normal.none
+Characteristics.disease.	Characteristics.treatment.	osteoarthritis.none	normal.none
+Characteristics.disease.	Characteristics.treatment.	osteoarthritis.non-steroidal anti-inflammatory drugs	osteoarthritis.none

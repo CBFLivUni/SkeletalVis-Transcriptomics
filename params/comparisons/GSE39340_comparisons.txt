@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	ankylosing spondylitis	rheumatoid arthritis
+source_name_ch1	osteoarthritis	rheumatoid arthritis
+source_name_ch1	ankylosing spondylitis	osteoarthritis

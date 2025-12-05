@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+Genotype	diaphysis_KO	diaphysis_WT
+Genotype	metaphysis_KO	metaphysis_WT

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype.variation	Col2a1Cre;Idh1 fl/+	Col2a1Cre

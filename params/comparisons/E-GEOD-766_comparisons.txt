@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+CellLine	RASF Ik-B	RASF control

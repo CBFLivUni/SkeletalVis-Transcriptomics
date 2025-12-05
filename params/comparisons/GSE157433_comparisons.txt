@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Factor	Cntl_SFZ chondrocytes	Cntl_DZ chondrocytes
+Factor	Runx3cKO_SFZ chondrocytes	Runx3cKO_DZ chondrocytes
+Factor	Runx3cKO_SFZ chondrocytes	Cntl_SFZ chondrocytes
+Factor	Runx3cKO_DZ chondrocytes	Cntl_DZ chondrocytes

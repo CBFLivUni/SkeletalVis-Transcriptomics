@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	Ezh2 KO proximal tibia PZ	WT proximal tibia PZ
+source_name_ch1	Ezh2 KO proximal tibia HZ	WT proximal tibia HZ
+source_name_ch1	WT proximal tibia PZ	WT proximal tibia HZ

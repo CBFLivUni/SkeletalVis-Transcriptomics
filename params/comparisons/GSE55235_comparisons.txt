@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	synovial tissue from rheumatoid arthritis joint	synovial tissue from osteoarthritic joint
+source_name_ch1	synovial tissue from rheumatoid arthritis joint	synovial tissue from healthy joint
+source_name_ch1	synovial tissue from osteoarthritic joint	synovial tissue from healthy joint

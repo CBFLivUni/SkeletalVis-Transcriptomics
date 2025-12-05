@@ -1,0 +1,3 @@
+Factor1	Factor2	Numerator	Denominator
+stress	post.surgery.time.point	DMM.1 wk	sham.1 wk
+stress	post.surgery.time.point	DMM.6 wk	sham.6 wk

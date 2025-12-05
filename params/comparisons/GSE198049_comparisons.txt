@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+characteristics_ch1.2	CD200pos sorted cells	CD200neg sorted cells

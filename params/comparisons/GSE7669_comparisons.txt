@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	fibroblasts_RA	fibroblasts_OA

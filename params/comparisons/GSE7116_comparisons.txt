@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+description	Multiple Myeloma patient with osteonecrosis of the jaw	Multiple Myeloma patient on bisphosphonate therapy without osteonecrosis of the jaw
+description	Multiple Myeloma patient with osteonecrosis of the jaw	Healthy volunteer
+description	Multiple Myeloma patient on bisphosphonate therapy without osteonecrosis of the jaw	Healthy volunteer

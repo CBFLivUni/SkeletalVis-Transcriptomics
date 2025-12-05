@@ -1,0 +1,13 @@
+Sample	File	treatment
+Control_1	SRR19895083	Control
+Control_2	SRR19895082	Control
+Control_3	SRR19895081	Control
+CTGF.TGFB1.treatment_1	SRR19895080	CTGF_TGF treatment
+CTGF.TGFB1.treatment_2	SRR19895079	CTGF_TGF treatment
+CTGF.TGFB1.treatment_3	SRR19895078	CTGF_TGF treatment
+Control_4	SRR19895077	Control
+Control_5	SRR19895076	Control
+Control_6	SRR19895075	Control
+Docetaxel.treatment_1	SRR19895074	Docetaxel treatment
+Docetaxel.treatment_2	SRR19895073	Docetaxel treatment
+Docetaxel.treatment_3	SRR19895072	Docetaxel treatment

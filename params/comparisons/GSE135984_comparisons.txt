@@ -1,0 +1,11 @@
+Factor	Numerator	Denominator
+Factor	X10ng_per_ml_BMP2_day 1	Vehicle_day 1
+Factor	X50ng_per_ml_BMP2_day 1	Vehicle_day 1
+Factor	X5microM_GSK126_day 1	Vehicle_day 1
+Factor	X10ng_per_ml_BMP2__5microM_GSK126_day 1	Vehicle_day 1
+Factor	X50ng_per_ml_BMP2__5microM_GSK126_day 1	Vehicle_day 1
+Factor	X10ng_per_ml_BMP2_day 6	Vehicle_day 6
+Factor	X50ng_per_ml_BMP2_day 6	Vehicle_day 6
+Factor	X5microM_GSK126_day 6	Vehicle_day 6
+Factor	X10ng_per_ml_BMP2__5microM_GSK126_day 6	Vehicle_day 6
+Factor	X50ng_per_ml_BMP2__5microM_GSK126_day 6	Vehicle_day 6

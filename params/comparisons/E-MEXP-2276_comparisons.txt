@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+Factor.Value..disease.state.	thanatophoric dysplasia	normal

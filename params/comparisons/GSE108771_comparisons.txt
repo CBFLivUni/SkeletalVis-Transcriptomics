@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+treatment	Activin	control
+treatment	Activin + CP-724714	control
+treatment	Activin + Lapatinib	control
+treatment	Activin + TAK	control

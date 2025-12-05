@@ -1,0 +1,9 @@
+Sample	File	genotype
+wild.type.control_1	SRR10977153	wild-type control
+wild.type.control_2	SRR10977154	wild-type control
+wild.type.control_3	SRR10977155	wild-type control
+wild.type.control_4	SRR10977156	wild-type control
+Mir140.null_1	SRR10977157	Mir140-null
+Mir140.null_2	SRR10977158	Mir140-null
+Mir140.null_3	SRR10977159	Mir140-null
+Mir140.null_4	SRR10977160	Mir140-null

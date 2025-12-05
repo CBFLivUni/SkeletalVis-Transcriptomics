@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Condition	Morphant_TCDD	Morphant_DMSO
+Condition	Control_TCDD	Control_DMSO
+Condition	Morphant_DMSO	Control_DMSO
+Condition	Morphant_TCDD	Control_TCDD

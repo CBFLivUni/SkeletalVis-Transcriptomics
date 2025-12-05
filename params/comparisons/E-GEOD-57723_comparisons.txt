@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Treatment	TNF	none
+Treatment	co-culture with fibroblast	none
+Treatment	TNF and co-culture with fibroblast	none

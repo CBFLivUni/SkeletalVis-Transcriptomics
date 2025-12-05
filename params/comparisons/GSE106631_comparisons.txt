@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	galectin-8 treated (50nM, 24hrs)	none

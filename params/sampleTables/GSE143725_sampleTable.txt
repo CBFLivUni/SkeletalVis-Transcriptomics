@@ -1,0 +1,8 @@
+Sample	File	condition
+Deletion_1	SRR10898929	Deletion
+Deletion_2	SRR10898930	Deletion
+Deletion_3	SRR10898931	Deletion
+Deletion_4	SRR10898932	Deletion
+Control_1	SRR10898933	Control
+Control_2	SRR10898934	Control
+Control_3	SRR10898935	Control

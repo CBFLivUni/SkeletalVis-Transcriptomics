@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Tissue	Mature_cartilage	Immature_cartilage
+Tissue	Bone	Mature_cartilage
+Tissue	Bone	Immature_cartilage

@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Condition	Runx2HET_vehicle	WT_vehicle
+Condition	WT_MS275	WT_vehicle
+Condition	Runx2HET_MS275	Runx2HET_vehicle
+Condition	Runx2HET_MS275	WT_MS275

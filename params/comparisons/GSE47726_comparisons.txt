@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	Responder	NONResponder

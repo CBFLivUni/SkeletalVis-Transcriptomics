@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	siStat3 at 24 hours and DMSO 24 hours later	siScramble at 24 hours and DMSO 24 hours later
+source_name_ch1	siStat3 at 24 hours and RANKL 24 hours later	siScramble at 24 hours and RANKL 24 hours later
+source_name_ch1	siScramble at 24 hours and RANKL 24 hours later	siScramble at 24 hours and DMSO 24 hours later

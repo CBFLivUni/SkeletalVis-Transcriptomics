@@ -1,0 +1,5 @@
+Sample	File	Condition
+WT_1	SRR5951914	WT
+WT_2	SRR5951915	WT
+Senp6-Mut_1	SRR5951916	Senp6-Mut
+Senp6-Mut_2	SRR5951917	Senp6-Mut

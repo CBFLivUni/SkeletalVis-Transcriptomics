@@ -1,0 +1,11 @@
+Type: RNASeq
+accessionNumber: E-MTAB-6857
+site: ENA
+species: Mouse
+foldChangeOnly: 'TRUE'
+ENA: PRJEB27136
+stranded: 'FALSE'
+batchCorrect: 'TRUE'
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'
+single: 'FALSE'

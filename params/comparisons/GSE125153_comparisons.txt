@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Factor	Bcl3 knockout_1 day	Wild-type_1 day
+Factor	Bcl3 knockout_3 days	Wild-type_3 days
+Factor	Wild-type_3 days	Wild-type_1 day
+Factor	Bcl3 knockout_3 days	Bcl3 knockout_1 day

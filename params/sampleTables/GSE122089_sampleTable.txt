@@ -1,0 +1,4 @@
+Sample	File	title
+Wild.type.chondrocyte..1605272._1	SRR8146182	Wild type chondrocyte
+Ezh2.cKO.exostoses.cells..1612295._1	SRR8146183	Ezh2-cKO exostoses cells
+Utx.cKO.exostoses.cells..1612297._1	SRR8146184	Utx-cKO exostoses cells

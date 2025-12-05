@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Factor.Value.CELL_TYPE.	intermediate cell derived from dendritic cells	dendritic cell
+Factor.Value.CELL_TYPE.	osteoclast derived from dendritic cells	intermediate cell derived from dendritic cells
+Factor.Value.CELL_TYPE.	intermediate cell derived from monocytes	monocyte
+Factor.Value.CELL_TYPE.	osteoclast derived from monocytes	intermediate cell derived from monocytes

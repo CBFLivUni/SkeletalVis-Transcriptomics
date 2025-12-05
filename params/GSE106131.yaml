@@ -1,0 +1,11 @@
+Type: RNASeq
+ENA: PRJNA415709
+accessionNumber: GSE106131
+batchCorrect: 'TRUE'
+foldChangeOnly: 'FALSE'
+single: 'FALSE'
+site: ENA
+species: Zebrafish
+stranded: 'FALSE'
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'

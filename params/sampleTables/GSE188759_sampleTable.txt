@@ -1,0 +1,7 @@
+Sample	File	treatment
+Control_1	SRR16938792	Control
+Chondrogenesis_1	SRR16938793	Chondrogenesis
+Control_2	SRR16938794	Control
+Chondrogenesis_2	SRR16938795	Chondrogenesis
+Control_3	SRR16938796	Control
+Chondrogenesis_3	SRR16938797	Chondrogenesis

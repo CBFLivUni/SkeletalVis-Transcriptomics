@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype.variation	Adamts17-/-	wild type

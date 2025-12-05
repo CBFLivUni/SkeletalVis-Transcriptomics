@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	X13del.tg.mutant.with.bone.overgrowth	wild.type

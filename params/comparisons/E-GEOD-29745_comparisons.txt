@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+description	Gene expression of human amnion infected 5 genes	Gene expression of human fetal re-differentiation chondrocytes
+description	 Gene expression of human adult re-differentiation chondrocytes	Gene expression of human fetal re-differentiation chondrocytes
+description	  Gene expression of human amnion infected 5 genes	Gene expression of human amnion

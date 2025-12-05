@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	LRCs	Non-LRCs

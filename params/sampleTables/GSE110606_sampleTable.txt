@@ -1,0 +1,5 @@
+Sample	File	diagnosis
+healthy_1	SRR6726496	healthy
+osteoarthritis_1	SRR6726497	osteoarthritis
+healthy_2	SRR6726498	healthy
+osteoarthritis_2	SRR6726499	osteoarthritis

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	NU7441	DMSO

@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Factor	SMG_F	Static_F
+Factor	CHP_F	Static_F
+Factor	SMG_M	Static_M
+Factor	CHP_M	Static_M

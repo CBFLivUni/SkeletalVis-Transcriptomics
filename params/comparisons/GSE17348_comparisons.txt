@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+source_name_ch1	conditioned medium of MDA-PCa2b cells	conditioned medium of PC-3 cells

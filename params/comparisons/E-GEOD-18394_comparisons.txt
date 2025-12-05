@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Factor.Value..CELL.TYPE.	chondrocyte	chondrogenic mesenchymal stem cells
+Factor.Value..CELL.TYPE.	chondrogenic mesenchymal stem cells	undifferentiated mesenchymal stem cells
+
+

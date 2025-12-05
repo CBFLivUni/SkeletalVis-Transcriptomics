@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+exposed.to	fluoride (8 ppm) for 30 days	none (untreated control)

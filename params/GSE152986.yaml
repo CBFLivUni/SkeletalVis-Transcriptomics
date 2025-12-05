@@ -1,0 +1,11 @@
+Type: Microarray
+accessionNumber: GSE152986
+site: GEO
+platform: Affy-ST
+annotationFile: mogene20sttranscriptcluster.db
+species: Mouse
+foldChangeOnly: 'FALSE'
+split: 'TRUE'
+splitField: source_name_ch1
+splitSep: 'with '
+splitPos: 2

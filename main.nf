@@ -104,6 +104,12 @@ params.geneLengths= "$params.referenceDir/$geneLengthsFile"
 //other species to human homology files for mapping genes to pathway databases
 params.homology= "$params.referenceDir/homology/Homology.${species}.txt"
 
+
+//covariates to adjust for in the linear modelling
+params.covariates=""
+params.covariate_types=""
+
+
 //thresholds to interate through to define differentially expressed genes for the downstream analysis
 params.foldchange = [1,1.5,2]
 
@@ -129,12 +135,14 @@ params.splitPos = ""
 params.remove = "FALSE"
 params.removeSample = ""
 params.offset = 80
+params.newColumns = ""
 
 params.setup = false
 
 
 params.asperaKey = "$params.referenceDir/asperaweb_id_dsa.openssh"
 
+params.txiDataPath = "$params.outdir/${params.accessionNumber}_txi.RDS"
 
 //setup module
 include { SETUP } from './modules/install/setup'
@@ -300,10 +308,9 @@ workflow RNASeqData {
   abundanceMatrix = abundancesToTxi(kallistoQuant.out.abundances.collect())
 
   RNASeqPCA(abundancesToTxi.out.txiData)
-  RNASeqChrDir(abundancesToTxi.out.txiData)
+
   diffTables = RNASeqDiffExp(abundancesToTxi.out.txiData)
   cutTables = cutFoldChangeTables(diffTables,numberComps)
-  functionalAnalysis(cutTables,geneLengths,params.padj,params.foldchange)
 
 }
 
@@ -328,11 +335,10 @@ workflow MicroarrayData {
 		rawData = getGeneExpressionData()
 	}
  
-    microarrayQC(rawData)
-    microarrayChrDir(rawData)
-    microarrayPCA(rawData)
-    diffTables = microarrayDiffExp(rawData)
-    cutTables = cutFoldChangeTables(diffTables,numberComps)
-    functionalAnalysis(cutTables,geneLengths,params.padj,params.foldchange)
+   microarrayQC(rawData)
+
+  microarrayPCA(rawData)
+  diffTables = microarrayDiffExp(rawData)
+  cutTables = cutFoldChangeTables(microarrayDiffExp.out.diffTables,numberComps)
 
 }

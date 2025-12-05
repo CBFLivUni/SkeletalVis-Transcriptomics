@@ -1,0 +1,7 @@
+Sample	File	genotype
+Hbb.conditional.knockout.in.chondrocytes_1	SRR15593630	Hbb_conditional_knockout_in_chondrocytes
+Hbb.conditional.knockout.in.chondrocytes_2	SRR15593631	Hbb_conditional_knockout_in_chondrocytes
+Hbb.conditional.knockout.in.chondrocytes_3	SRR15593632	Hbb_conditional_knockout_in_chondrocytes
+wildtype_1	SRR15593633	wildtype
+wildtype_2	SRR15593634	wildtype
+wildtype_3	SRR15593635	wildtype

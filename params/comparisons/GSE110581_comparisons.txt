@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+infected.with	Zfp36l1 shRNA Adenovirus	Null Control Adenovirus
+infected.with	Zfp36l1 Adenovirus	Null Control Adenovirus

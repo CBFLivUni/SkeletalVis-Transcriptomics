@@ -1,0 +1,6 @@
+Factor	Numerator	Denominator
+Condition	Ze14_10percent	control
+Condition	Ze14_20percent	control
+Condition	IL_1	control
+Condition	IL_1_Ze14_10percent	control
+Condition	IL_1_Ze14_20percent	control

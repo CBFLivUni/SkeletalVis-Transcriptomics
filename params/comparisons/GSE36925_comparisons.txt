@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+treatment	BMP2(-),LOXL2(+)	BMP2(-),LOXL2(-)
+treatment	BMP2(+),LOXL2(-)	BMP2(-),LOXL2(-)
+treatment	BMP2(+),LOXL2(+)	BMP2(-),LOXL2(-)

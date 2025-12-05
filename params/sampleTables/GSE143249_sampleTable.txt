@@ -1,0 +1,7 @@
+Sample	File	cell.type
+Wild.type.primary.chondrocytes_1	SRR10843660	Wild-type primary chondrocytes
+Wild.type.primary.chondrocytes_2	SRR10843661	Wild-type primary chondrocytes
+Wild.type.primary.chondrocytes_3	SRR10843662	Wild-type primary chondrocytes
+Jab1.chondrocyte.specific.knockout.Jab1flox.flox..Col2a1.Cre..cKO..mutants_1	SRR10843663	Jab1 chondrocyte-specific knockout 
+Jab1.chondrocyte.specific.knockout.Jab1flox.flox..Col2a1.Cre..cKO..mutants_2	SRR10843664	Jab1 chondrocyte-specific knockout 
+Jab1.chondrocyte.specific.knockout.Jab1flox.flox..Col2a1.Cre..cKO..mutants_3	SRR10843665	Jab1 chondrocyte-specific knockout 

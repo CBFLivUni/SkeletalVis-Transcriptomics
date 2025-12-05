@@ -1,0 +1,4 @@
+Sample	File	Genotype
+Sox9Pos	SRR6681071	Sox9Pos
+Lrg5Pos	SRR6681072	Lrg5Pos
+Lrg5Neg	SRR6681073	Lrg5Neg

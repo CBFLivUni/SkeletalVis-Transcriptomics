@@ -1,0 +1,10 @@
+Factor	Numerator	Denominator
+source_name_ch1	mesenchymal stem cells treated 8 hours with BMP6, and harvested at 8 hours	mesenchymal stem cells cultured 8 hours without BMP6
+source_name_ch1	mesenchymal stem cells treated 8 hours with BMP6, and harvested at 24 hours	mesenchymal stem cells cultured 8 hours without BMP6
+source_name_ch1	mesenchymal stem cells treated 8 hours with BMP6, and harvested at 96 hours	mesenchymal stem cells cultured 8 hours without BMP6
+source_name_ch1	mesenchymal stem cells treated 8 hours with BMP6, and harvested at 10 days	mesenchymal stem cells cultured 8 hours without BMP6
+source_name_ch1	mesenchymal stem cells treated 24 hours with BMP6, and harvested at 24 hours	mesenchymal stem cells cultured 8 hours without BMP6
+source_name_ch1	mesenchymal stem cells treated 24 hours with BMP6, and harvested at 96 hours	mesenchymal stem cells cultured 8 hours without BMP6
+source_name_ch1	mesenchymal stem cells treated 24 hours with BMP6, and harvested at 10 days	mesenchymal stem cells cultured 8 hours without BMP6
+source_name_ch1	mesenchymal stem cells treated 96 hours with BMP6, and harvested at 96 hours	mesenchymal stem cells cultured 8 hours without BMP6
+source_name_ch1	mesenchymal stem cells treated 96 hours with BMP6, and harvested at 10 days	mesenchymal stem cells cultured 8 hours without BMP6

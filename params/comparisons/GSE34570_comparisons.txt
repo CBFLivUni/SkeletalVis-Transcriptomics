@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+source_name_ch1	osteoblasts_2uM PP1_24hr	osteoblasts_DMSO_24hr

@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+treated.with	IWR-1	DMSO
+treated.with	XAV939	DMSO
+treated.with	siTnks/2	siCtrl

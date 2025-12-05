@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+growth.plate.layer	Hypertrophic cell layer	Flat cell layer
+growth.plate.layer	Flat cell layer	Round cell layer
+growth.plate.layer	Hypertrophic cell layer	Round cell layer

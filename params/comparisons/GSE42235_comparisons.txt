@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+characteristics_ch1.2	passage: 2	passage: 0
+characteristics_ch1.2	passage: 4	passage: 0
+characteristics_ch1.2	passage: 6	passage: 0
+characteristics_ch1.2	passage: 8	passage: 0

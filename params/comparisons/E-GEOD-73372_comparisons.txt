@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Stage	P1	E18.5
+Stage	P3	E18.5
+Stage	P3	P1

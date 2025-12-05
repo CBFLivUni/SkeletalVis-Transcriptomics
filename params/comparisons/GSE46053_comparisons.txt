@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+source_name_ch1	MSCs from healthy Donor cocultured with MM.1S cells	MSCs from healthy Donor cultured in solitary (i.e. no cocultured)
+source_name_ch1	MSCs from MM patient cocultured with MM.1S cells	MSCs from healthy Donor cultured in solitary (i.e. no cocultured)

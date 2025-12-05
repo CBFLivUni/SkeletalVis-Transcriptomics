@@ -1,0 +1,4 @@
+Factor1	Factor2	Numerator	Denominator
+treatment	day	monosodium iodoacetate (MIA).2	naive.0
+treatment	day	monosodium iodoacetate (MIA).14	naive.0
+treatment	day	monosodium iodoacetate (MIA).28	naive.0

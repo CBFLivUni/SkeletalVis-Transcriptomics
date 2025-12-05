@@ -1,0 +1,20 @@
+Type: Microarray
+accessionNumber: "GSE57218"
+site: "GEO"
+platform: "Illumina"
+annotationFile: "lumiHumanIDMapping"
+species: "Human"
+foldChangeOnly: 'FALSE'
+grepExpression: 'TRUE'
+grepString: "expression"
+numberLinesSkip: 0
+split: True
+splitField: "title"
+splitSep: "_"
+splitPos: 3
+remove: True
+removeSample: "X4778071002_B_1_expression_AND_X4778071002_D_2_expression_AND_X4778071031_A_31_expression_AND_X4778071031_C_70_expression_AND_X4778071048_I_71_expression_AND_X4778071048_K_72_expression_AND_X4778071048_L_73_expression"
+offset: 80
+covariates: "title"
+covariate_types: "factor"
+

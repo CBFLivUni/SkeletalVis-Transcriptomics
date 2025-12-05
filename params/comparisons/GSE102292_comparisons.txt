@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+days.in.culture	15 days	12 days
+days.in.culture	12 days	9 days
+days.in.culture	9 days	6 days
+days.in.culture	6 days	2 days

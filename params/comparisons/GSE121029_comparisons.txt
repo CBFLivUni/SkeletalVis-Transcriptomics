@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+treatment	Lentiviruses expressing WT DGCR8	Lentiviruses expressing Luc
+treatment	Lentiviruses expressing mtDRBD DGCR8	Lentiviruses expressing Luc

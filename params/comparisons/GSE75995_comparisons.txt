@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	Mouse chondrocyte pellet culture in the absence of pterosin B	Mouse chondrocyte pellet culture in the presence of pterosin B

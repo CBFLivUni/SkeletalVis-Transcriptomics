@@ -1,0 +1,7 @@
+Sample	File	tissue
+bone_1	SRR8121148	bone
+bone_2	SRR8121149	bone
+bone_3	SRR8121150	bone
+osteoblasts_1	SRR8121151	osteoblasts
+osteoblasts_2	SRR8121152	osteoblasts
+osteoblasts_3	SRR8121153	osteoblasts

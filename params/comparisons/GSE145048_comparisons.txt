@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+tissue	human_joint_progenitor-like_cells	human_embryonic_chondroprogenitors

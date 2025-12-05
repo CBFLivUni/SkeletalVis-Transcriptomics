@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Factor.Value..time.	X15	X12
+Factor.Value..time.	X12	X9
+Factor.Value..time.	X9	X6
+Factor.Value..time.	X6	X3

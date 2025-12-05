@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	Ad-Zip8 infected	Ad-null infected

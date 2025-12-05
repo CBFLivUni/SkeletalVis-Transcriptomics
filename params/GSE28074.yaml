@@ -1,0 +1,7 @@
+Type: Microarray
+accessionNumber: GSE28074
+site: GEO
+platform: Affy
+annotationFile: hgu133plus2.db
+species: Human
+foldChangeOnly: 'TRUE'

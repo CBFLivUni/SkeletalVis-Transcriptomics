@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+characteristics_ch1.2	type: Metopic Synostosis	type: Control
+characteristics_ch1.2	type: Coronal Synostosis R	type: Control
+characteristics_ch1.2	type: Coronal Synostosis L	type: Control
+characteristics_ch1.2	type: Sagittal Synostosis 	type: Control

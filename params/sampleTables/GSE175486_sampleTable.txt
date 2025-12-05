@@ -1,0 +1,13 @@
+Sample	File	source_name_ch1
+Knee.cartilage...control.non.operated.left.leg.._1	SRR14638120	control
+Knee.cartilage...control.non.operated.left.leg.._2	SRR14638121	control
+Knee.cartilage...control.non.operated.left.leg.._3	SRR14638122	control
+Knee.cartilage...DMM..operated.right.leg.._1	SRR14638123	DMM
+Knee.cartilage...DMM..operated.right.leg.._2	SRR14638124	DMM
+Knee.cartilage...DMM..operated.right.leg.._3	SRR14638125	DMM
+Knee.cartilage...control.non.operated.left.leg.._4	SRR14638126	control
+Knee.cartilage...control.non.operated.left.leg.._5	SRR14638127	control
+Knee.cartilage...control.non.operated.left.leg.._6	SRR14638128	control
+Knee.cartilage...DMM..operated.right.leg.._4	SRR14638129	DMM
+Knee.cartilage...DMM..operated.right.leg.._5	SRR14638130	DMM
+Knee.cartilage...DMM..operated.right.leg.._6	SRR14638131	DMM

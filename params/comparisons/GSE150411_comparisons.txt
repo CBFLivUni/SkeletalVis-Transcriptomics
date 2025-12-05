@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+treatment	FNF, 3 hours	PBS, 3 hours
+treatment	FNF, 6 hours	PBS, 6 hours
+treatment	FNF, 18 hours	PBS, 18 hours

@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+title	CorticalBone_ExcessVitA	CorticalBone_Control
+title	CorticalBone.Marrow_ExcessVitA	CorticalBone.Marrow_Control

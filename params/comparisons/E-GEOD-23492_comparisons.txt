@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+Comment..Sample_source_name.	Chondrocytes from articular cartilage	Articular cartilage
+Comment..Sample_source_name.	Chondrocytes from growth plate	Growth plate cartilage

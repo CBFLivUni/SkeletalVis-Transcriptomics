@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+cell.type	Jab1 chondrocyte-specific knockout 	Wild-type primary chondrocytes

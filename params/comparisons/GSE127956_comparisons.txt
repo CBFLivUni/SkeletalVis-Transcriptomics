@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+characteristics_ch1.2	Wisp1 KO	WT

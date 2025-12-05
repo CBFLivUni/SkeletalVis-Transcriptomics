@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+source_name_ch1	osteoclast precursors treated by CT-26 CM	osteoclast precursors treated by normal culture medium

@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Factor	Wildtype_MDA PCa 2b-conditioned medium	Wildtype_Unconditioned medium
+Factor	F2rl1KO_MDA PCa 2b-conditioned medium	F2rl1KO_Unconditioned medium
+Factor	F2rl1KO_Unconditioned medium	Wildtype_Unconditioned medium

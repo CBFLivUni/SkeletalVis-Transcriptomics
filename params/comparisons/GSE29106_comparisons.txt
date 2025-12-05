@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	Measles Virus Nucleocapsid Protein	Empty Vector

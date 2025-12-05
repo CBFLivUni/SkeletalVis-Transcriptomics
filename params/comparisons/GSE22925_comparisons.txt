@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+source_name_ch1	Wild type mice, endothelial, G-CSF	Wild type mice, endothelial, untreated
+source_name_ch1	Wild type mice, osteoblasts, G-CSF	Wild type mice, osteoblasts, untreated

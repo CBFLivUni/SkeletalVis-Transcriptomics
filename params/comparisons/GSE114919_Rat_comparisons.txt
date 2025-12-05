@@ -1,0 +1,6 @@
+Factor	Numerator	Denominator
+Tissue	Phalanx_PZ_1wk	Phalanx_HZ_1wk
+Tissue	Tibia_PZ_4wk	Tibia_PZ_1wk
+Tissue	Tibia_PZ_4wk	Tibia_HZ_4wk
+Tissue	Tibia_PZ_1wk	Tibia_HZ_1wk
+Tissue	Tibia_HZ_4wk	Tibia_HZ_1wk

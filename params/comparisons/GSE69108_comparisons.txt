@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+cell.type	Nasal chondrocyte	Rib Chondrocyte

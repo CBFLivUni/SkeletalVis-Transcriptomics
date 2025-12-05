@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+Factor.Value.infect.	Staphylococcus aureus strain SK2	none

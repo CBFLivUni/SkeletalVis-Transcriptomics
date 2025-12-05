@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+treatment	αKlotho and sTGFBR2	none (SHAM)
+treatment	none (OAC)	none (SHAM)

@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+title	SXR_Et	DsRed_Et
+title	SXR_VK2	DsRed_VK2

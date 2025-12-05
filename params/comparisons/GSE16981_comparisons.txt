@@ -1,0 +1,7 @@
+Factor1	Factor2	Numerator	Denominator
+growth.plate.zone	age	Hypertrophic zone.1 week	Proliferative zone.1 week
+growth.plate.zone	age	Resting zone.1 week	Proliferative zone.1 week
+growth.plate.zone	age	Hypertrophic zone.1 week	Resting zone.1 week
+growth.plate.zone	age	Proliferative and early hypertrophic zone.6weeks	Proliferative and early hypertrophic zone.3weeks
+growth.plate.zone	age	Proliferative and early hypertrophic zone.9weeks	Proliferative and early hypertrophic zone.6weeks
+growth.plate.zone	age	Proliferative and early hypertrophic zone.12weeks	Proliferative and early hypertrophic zone.9weeks

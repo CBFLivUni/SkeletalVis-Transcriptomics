@@ -1,0 +1,7 @@
+Sample	File	treatment
+cultured.alone..control._1	SRR17244433	cultured_alone
+cultured.alone..control._2	SRR17244432	cultured_alone
+cultured.alone..control._3	SRR17244431	cultured_alone
+cocultured.with.BMSCs_1	SRR17244430	cocultured_with_BMSCs
+cocultured.with.BMSCs_2	SRR17244429	cocultured_with_BMSCs
+cocultured.with.BMSCs_3	SRR17244428	cocultured_with_BMSCs

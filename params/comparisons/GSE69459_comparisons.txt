@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+source_name_ch1	resFOP-iMSCs (+ActA)	resFOP-iMSCs (-ActA)
+source_name_ch1	FOP-iMSCs (+ActA)	FOP-iMSCs (-ActA)
+source_name_ch1	FOP-iMSCs (+ActA)	resFOP-iMSCs (+ActA)
+source_name_ch1	FOP-iMSCs (+ActA)	resFOP-iMSCs (-ActA)

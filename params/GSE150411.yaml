@@ -1,0 +1,11 @@
+Type: RNASeq
+accessionNumber: GSE150411
+site: ENA
+species: Human
+foldChangeOnly: 'FALSE'
+ENA: PRJNA631993
+stranded: false
+batchCorrect: 'TRUE'
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'
+single: false

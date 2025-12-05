@@ -1,0 +1,9 @@
+Factor	Numerator	Denominator
+Comment..Sample_source_name.	Pooled_6_MSCs_d3	Pooled_5_MSCs_d0
+Comment..Sample_source_name.	Pooled_7_MSCs_d7	Pooled_5_MSCs_d0
+Comment..Sample_source_name.	Pooled_8_MSCs_d14	Pooled_5_MSCs_d0
+Comment..Sample_source_name.	Pooled_7_MSCs_d7	Pooled_6_MSCs_d3
+Comment..Sample_source_name.	Pooled_8_MSCs_d14	Pooled_7_MSCs_d7
+Comment..Sample_source_name.	Pooled_10_Chondros_d3	Pooled_9_Chondros_d0
+Comment..Sample_source_name.	Pooled_11_Chondros_d7	Pooled_10_Chondros_d3
+Comment..Sample_source_name.	Pooled_12_Chondros_d14	Pooled_11_Chondros_d7

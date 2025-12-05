@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+disease.state	osteoarthiritis	reference
+disease.state	degenerated cartilage	reference
+disease.state	degenerated cartilage	osteoarthiritis

@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+title	KO_Sham_2w	WT_Sham_2w
+title	KO_Sham_4w	WT_Sham_4w
+title	KO_DMM_2w	WT_DMM_2w
+title	KO_DMM_4w	WT_DMM_4w

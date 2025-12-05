@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	exposed.to.cartilage.fragments	control

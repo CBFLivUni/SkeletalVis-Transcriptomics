@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	MiR34aKO	wild_type

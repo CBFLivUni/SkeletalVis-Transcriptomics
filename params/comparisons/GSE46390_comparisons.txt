@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	CSF1	control

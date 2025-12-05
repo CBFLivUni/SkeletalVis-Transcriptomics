@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+title	Plastic-Pellet	Plastic-Cell
+title	ECM-Pellet	ECM-Cell
+title	ECM-Pellet	Plastic-Pellet

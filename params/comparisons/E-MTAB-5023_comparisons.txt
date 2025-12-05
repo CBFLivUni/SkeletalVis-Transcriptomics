@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+Characteristics.genotype.	Mesenchymal cell-specific homozygous deletion of Sbds	Sbds wildtype

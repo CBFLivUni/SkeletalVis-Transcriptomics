@@ -1,0 +1,10 @@
+Factor	Numerator	Denominator
+Condition	t15m	t0h
+Condition	t30m	t0h
+Condition	t1h	t0h
+Condition	t2h	t0h
+Condition	t4h	t0h
+Condition	t8h	t0h
+Condition	t16h	t0h
+Condition	t121d	t0h
+Condition	Mono	t0h

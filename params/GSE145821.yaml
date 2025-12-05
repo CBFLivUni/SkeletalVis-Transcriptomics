@@ -1,0 +1,11 @@
+Type: Microarray
+accessionNumber: GSE145821
+site: GEO
+platform: Affy
+annotationFile: mouse4302.db
+species: Mouse
+foldChangeOnly: 'FALSE'
+split: 'TRUE'
+splitField: title
+splitSep: ', biological rep'
+splitPos: 1

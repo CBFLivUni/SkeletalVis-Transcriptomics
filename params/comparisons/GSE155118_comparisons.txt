@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	Sox5_6_9_OE	control

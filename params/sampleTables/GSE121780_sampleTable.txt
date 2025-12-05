@@ -1,0 +1,19 @@
+Sample	File	Factor
+Apert.syndrome_mandibular.bone_1	SRR8110027	Apert syndrome_mandibular bone
+Apert.syndrome_Meckel.s.cartilage_1	SRR8110028	Apert syndrome_Meckel's cartilage
+Apert.syndrome_mandibular.condylar.cartilage_1	SRR8110029	Apert syndrome_mandibular condylar cartilage
+Apert.syndrome_mandibular.bone_2	SRR8110030	Apert syndrome_mandibular bone
+Apert.syndrome_Meckel.s.cartilage_2	SRR8110031	Apert syndrome_Meckel's cartilage
+Apert.syndrome_mandibular.condylar.cartilage_2	SRR8110032	Apert syndrome_mandibular condylar cartilage
+Apert.syndrome_mandibular.bone_3	SRR8110033	Apert syndrome_mandibular bone
+Apert.syndrome_Meckel.s.cartilage_3	SRR8110034	Apert syndrome_Meckel's cartilage
+Apert.syndrome_mandibular.condylar.cartilage_3	SRR8110035	Apert syndrome_mandibular condylar cartilage
+control_mandibular.bone_1	SRR8110036	control_mandibular bone
+control_Meckel.s.cartilage_1	SRR8110037	control_Meckel's cartilage
+control_mandibular.condylar.cartilage_1	SRR8110038	control_mandibular condylar cartilage
+control_mandibular.bone_2	SRR8110039	control_mandibular bone
+control_Meckel.s.cartilage_2	SRR8110040	control_Meckel's cartilage
+control_mandibular.condylar.cartilage_2	SRR8110041	control_mandibular condylar cartilage
+control_mandibular.bone_3	SRR8110042	control_mandibular bone
+control_Meckel.s.cartilage_3	SRR8110043	control_Meckel's cartilage
+control_mandibular.condylar.cartilage_3	SRR8110044	control_mandibular condylar cartilage

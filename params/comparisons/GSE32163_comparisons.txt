@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype.variation	del175k mutant	wild-type

@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+Treatment	OA_C9	OA_Mock
+Treatment	OA_CHIKV	OA_Mock

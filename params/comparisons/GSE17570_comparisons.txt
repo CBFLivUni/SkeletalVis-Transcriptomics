@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+phenotype	PDGFRa(+) Sca-1(+)	PDGFRa(-) Sca-1(-)
+phenotype	PDGFRa(+) Sca-1(-)	PDGFRa(-) Sca-1(-)

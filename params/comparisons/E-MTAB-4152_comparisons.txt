@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Factor.Value.growth.condition.	direct co-culture with human umbilical vein endothelial cells	indirect co-culture with human umbilical vein endothelial cells
+Factor.Value.growth.condition.	indirect co-culture with human umbilical vein endothelial cells	monoculture
+Factor.Value.growth.condition.	direct co-culture with human umbilical vein endothelial cells	monoculture

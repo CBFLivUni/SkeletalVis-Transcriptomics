@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	hsa-miR-27b-3p_mimic	control

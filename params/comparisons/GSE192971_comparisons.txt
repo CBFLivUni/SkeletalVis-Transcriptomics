@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+genotype	LDH_KO	LDH
+genotype	Acly_KO	Acly

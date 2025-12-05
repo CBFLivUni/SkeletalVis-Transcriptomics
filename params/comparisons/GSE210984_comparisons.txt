@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	Day7_Diff	Mesenchymal stem cells MSC
+source_name_ch1	Day14_Diff	Mesenchymal stem cells MSC
+source_name_ch1	Day21_Diff	Mesenchymal stem cells MSC

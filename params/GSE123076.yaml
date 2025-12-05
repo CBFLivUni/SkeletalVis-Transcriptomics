@@ -1,0 +1,11 @@
+Type: RNASeq
+accessionNumber: GSE123076
+site: ENA
+species: Mouse
+foldChangeOnly: 'FALSE'
+ENA: PRJNA507446
+stranded: 'FALSE'
+batchCorrect: 'TRUE'
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'
+single: 'TRUE'

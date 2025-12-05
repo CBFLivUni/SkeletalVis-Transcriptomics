@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	Over expression day 1	Control day 1

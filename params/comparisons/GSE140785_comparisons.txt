@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+source_name_ch1	DRG DMM+4wk	DRG sham+4wk
+source_name_ch1	DRG DMM+16wk	DRG sham+16wk

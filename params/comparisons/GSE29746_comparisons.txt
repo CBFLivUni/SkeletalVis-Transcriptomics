@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+characteristics_ch1.1	disease status: OASF	disease status: HSF
+characteristics_ch1.1	disease status: OASF	disease status: RASF
+characteristics_ch1.1	disease status: RASF	disease status: HSF

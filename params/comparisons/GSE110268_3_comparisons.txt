@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+genotype.variation	ACLT and FOXD1	ACLT and Luciferase
+genotype.variation	ACLT and Luciferase	no treatment
+genotype.variation	ACLT and YAP	ACLT and Luciferase

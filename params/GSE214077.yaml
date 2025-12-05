@@ -1,0 +1,11 @@
+Type: RNAseq
+accessionNumber: GSE214077
+site: ENA
+species: Mouse
+foldChangeOnly: 'FALSE'
+ENA: PRJNA883722
+stranded: false
+batchCorrect: 'TRUE'
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'
+single: false

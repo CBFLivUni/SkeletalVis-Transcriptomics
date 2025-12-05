@@ -1,0 +1,2 @@
+factor	numerator	denominator
+FactorValue..CLINICAL.STATUS.	rheumatoid arthritis	osteoarthritis

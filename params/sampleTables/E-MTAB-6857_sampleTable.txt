@@ -1,0 +1,5 @@
+Sample	File	Phenotype
+FourNucleated1	ERR2612128	Fournuclei
+BAO2	ERR2612129	Fournuclei
+VAO1	ERR2612130	Twonuclei
+VAO2	ERR2612131	Twonuclei

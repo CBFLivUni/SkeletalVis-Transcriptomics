@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+source_name_ch1	PBMC after 56 days of CPN10 treatment	PBMC at baseline

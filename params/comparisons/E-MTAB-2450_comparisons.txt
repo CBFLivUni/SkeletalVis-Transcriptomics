@@ -1,0 +1,5 @@
+Factor1	Factor2	Numerator	Denominator
+Factor.Value.genetic.modification.	Factor.Value.compound.	control.rhBMP2	control.none
+Factor.Value.genetic.modification.	Factor.Value.compound.	miR-195 transfection.rhBMP2	miR-195 transfection.none
+Factor.Value.genetic.modification.	Factor.Value.compound.	miR-195 transfection.rhBMP2	control.rhBMP2
+Factor.Value.genetic.modification.	Factor.Value.compound.	miR-195 transfection.none	control.none

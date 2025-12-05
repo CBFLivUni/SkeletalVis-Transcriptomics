@@ -1,0 +1,7 @@
+Sample	File	treatment
+control_1	SRR13799090	control
+control_2	SRR13799091	control
+control_3	SRR13799092	control
+semaphorin.4D_1	SRR13799093	semaphorin_4D
+semaphorin.4D_2	SRR13799094	semaphorin_4D
+semaphorin.4D_3	SRR13799095	semaphorin_4D

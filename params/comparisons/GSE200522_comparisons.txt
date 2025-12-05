@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+description	ablated_Lef1_levels	normal_Lef1_levels
+description	ablated_Sirt1_levels	normal_Lef1_levels

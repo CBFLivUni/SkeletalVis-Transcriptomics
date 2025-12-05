@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+Genotype	E14.5_Fgf8	E14.5_Ctrl
+Genotype	E16.5_Fgf8	E16.5_Ctrl

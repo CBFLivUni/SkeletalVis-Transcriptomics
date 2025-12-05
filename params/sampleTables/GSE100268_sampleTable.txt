@@ -1,0 +1,3 @@
+Sample	File	Genotype
+Control	SRR5720534	Control
+HPIP_KO	SRR5720536	HPIP_KO

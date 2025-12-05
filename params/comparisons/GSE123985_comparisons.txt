@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	OBs_d14_biological	OBs_d10_biological

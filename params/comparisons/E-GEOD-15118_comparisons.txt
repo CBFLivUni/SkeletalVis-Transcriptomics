@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+source_name_ch1	The CH10T1/2 cell line transfected with the wild type PTHR1 treated with PTHrP	The CH10T1/2 cell line transfected with the wild type PTHR1
+source_name_ch1	The CH10T1/2 cell line transfected with the R150C variant PTHR1 treated for one hour with PTHrP	The CH10T1/2 cell line transfected with the R150C variant PTHR1 treated with carrier
+source_name_ch1	The CH10T1/2 cell line transfected with the R150C variant PTHR1 treated for one hour with PTHrP	The CH10T1/2 cell line transfected with the wild type PTHR1 treated with PTHrP
+source_name_ch1	The CH10T1/2 cell line transfected with the R150C variant PTHR1 treated with carrier	The CH10T1/2 cell line transfected with the wild type PTHR1

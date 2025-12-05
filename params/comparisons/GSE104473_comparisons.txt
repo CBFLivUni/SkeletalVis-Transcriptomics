@@ -1,0 +1,7 @@
+Factor	Numerator	Denominator
+Factor	Mandibular Distraction_10_BCSP	Mandibular Fracture_10_BCSP
+Factor	Mandibular Distraction_10_OP	Mandibular Fracture_10_OP
+Factor	Mandibular Distraction_10_SSC	Mandibular Fracture_10_SSC
+Factor	Mandibular Distraction_15_BCSP	Mandibular Fracture_15_BCSP
+Factor	Mandibular Distraction_15_OP	Mandibular Fracture_15_OP
+Factor	Mandibular Fracture_15_SSC	Mandibular Distraction_15_SSC

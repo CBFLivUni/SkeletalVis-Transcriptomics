@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+source_name_ch1	LY294002-treated embryonic primary chondrocyte cultures, incubated for 24hrs.	DMSO-treated embryonic primary chondrocyte cultures, incubated for 24hrs.
+source_name_ch1	SB202190-treated embryonic primary chondrocyte cultures, incubated for 24hrs.	DMSO-treated embryonic primary chondrocyte cultures, incubated for 24hrs.
+source_name_ch1	TSA-treated embryonic primary chondrocyte cultures, incubated for 24hrs.	DMSO-treated embryonic primary chondrocyte cultures, incubated for 24hrs.
+source_name_ch1	UO126-treated embryonic primary chondrocyte cultures, incubated for 24hrs.	DMSO-treated embryonic primary chondrocyte cultures, incubated for 24hrs.

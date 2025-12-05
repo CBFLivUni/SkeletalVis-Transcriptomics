@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+treated.with	X500.ng.ml.doxycycline	vehicle..control.
+treated.with	X10nM.E2	vehicle..control.
+treated.with	X500.ng.ml.doxycycline.and.10nM.E2	vehicle..control.

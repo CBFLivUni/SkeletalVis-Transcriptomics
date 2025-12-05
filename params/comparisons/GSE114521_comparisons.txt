@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+Genotype	Sox9null_E11.5	Control_E11.5
+Genotype	Sox9null_E12.5	Control_E12.5

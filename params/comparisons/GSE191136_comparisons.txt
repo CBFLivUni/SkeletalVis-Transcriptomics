@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Day	Day28	Day3
+Day	Day16	Day3
+Day	Day9	Day3
+Day	Day6	Day3

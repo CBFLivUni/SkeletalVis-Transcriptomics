@@ -1,0 +1,14 @@
+Type: Microarray
+accessionNumber: GSE155892
+site: GEO
+platform: Illumina
+annotationFile: lumiMouseIDMapping
+species: Mouse
+foldChangeOnly: 'FALSE'
+split: 'TRUE'
+splitField: title
+splitSep: R-|L-
+splitPos: 1
+grepExpression: 'TRUE'
+grepString: 'Signal'
+numberLinesSkip: 0

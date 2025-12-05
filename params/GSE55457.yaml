@@ -1,0 +1,20 @@
+Type: Microarray
+accessionNumber: GSE55457
+annotationFile: hgu133a.db
+foldChangeOnly: 'FALSE'
+grepExpression: 'FALSE'
+grepString: ''
+numberFileRemove: '0'
+numberLinesSkip: '0'
+offset: '0'
+platform: Affy
+remove: 'FALSE'
+removeSample: ''
+site: GEO
+species: Human
+split: 'FALSE'
+splitField: ''
+splitPos: ''
+splitSep: ''
+covariates: "gender, age"
+covariate_types: "factor, continuous"

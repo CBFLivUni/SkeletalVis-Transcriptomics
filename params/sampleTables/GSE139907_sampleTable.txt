@@ -1,0 +1,16 @@
+Sample	File	source_name_ch1
+tail.tip.derived.fibroblast_1	SRR10398969	tail-tip derived fibroblast
+tail.tip.derived.fibroblast_2	SRR10398970	tail-tip derived fibroblast
+tail.tip.derived.fibroblast_3	SRR10398971	tail-tip derived fibroblast
+induced.osteoblast_1	SRR10398972	induced osteoblast
+induced.osteoblast_2	SRR10398973	induced osteoblast
+induced.osteoblast_3	SRR10398974	induced osteoblast
+calvarial.progeniter.cell_1	SRR10398975	calvarial progeniter cell
+calvarial.progeniter.cell_2	SRR10398976	calvarial progeniter cell
+calvarial.progeniter.cell_3	SRR10398977	calvarial progeniter cell
+GFP..sorted.from.induced.osteoblast_1	SRR10398978	GFP sorted from induced osteoblast
+GFP.sorted.from.induced.osteoblast_1	SRR10398979	GFP sorted from induced osteoblast
+GFP.sorted.from.induced.osteoblast_2	SRR10398980	GFP sorted from induced osteoblast
+GFP.sorted.from.bone.chip_1	SRR10398981	GFP sorted from bone chip
+GFP.sorted.from.bone.chip_2	SRR10398982	GFP sorted from bone chip
+GFP.sorted.from.bone.chip_3	SRR10398983	GFP sorted from bone chip

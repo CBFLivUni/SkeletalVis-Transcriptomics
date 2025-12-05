@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	leptin-induced	healthy control

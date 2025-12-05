@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	SR3335	DMSO

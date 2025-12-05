@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	cartilage, exercised for 2 days	cartilage, control
+source_name_ch1	cartilage, exercised for 5 days	cartilage, control
+source_name_ch1	cartilage, exercised for 15 days	cartilage, control

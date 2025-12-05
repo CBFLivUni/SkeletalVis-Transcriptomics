@@ -1,0 +1,9 @@
+Sample	File	Factor
+Runx2fl.fl_none_1	SRR13482748	WT_Control
+Runx2fl.fl_none_2	SRR13482749	WT_Control
+Col2a1.CreERT2.Runx2fl.fl_none_1	SRR13482750	KO_Control
+Col2a1.CreERT2.Runx2fl.fl_none_2	SRR13482751	KO_Control
+Runx2fl.fl_IL.1beta_1	SRR13482752	WT_IL1B
+Runx2fl.fl_IL.1beta_2	SRR13482753	WT_IL1B
+Col2a1.CreERT2.Runx2fl.fl_IL.1beta_1	SRR13482754	KO_IL1B
+Col2a1.CreERT2.Runx2fl.fl_IL.1beta_2	SRR13482755	KO_IL1B

@@ -1,0 +1,7 @@
+Factor	Numerator	Denominator
+Treatment	IFT88_0hr	control_0hr
+Treatment	IFT88_1hr	control_1hr
+Treatment	IFT88_2hr	control_2hr
+Treatment	IFT88_4hr	control_4hr
+Treatment	IFT88_8hr	control_8hr
+Treatment	IFT88_24hr	control_24hr

@@ -1,0 +1,7 @@
+Sample	File	genotype
+wild.type_1	SRR8735394|SRR8735395	wild type
+Col2Cre..Adgrg6f.f_1	SRR8735396|SRR8735397|SRR8735398|SRR8735399	Col2Cre; Adgrg6f/f
+wild.type_2	SRR8735400|SRR8735401|SRR8735402|SRR8735403	wild type
+Col2Cre..Adgrg6f.f_2	SRR8735404|SRR8735405	Col2Cre; Adgrg6f/f
+wild.type_3	SRR8735406|SRR8735407	wild type
+Col2Cre..Adgrg6f.f_3	SRR8735408|SRR8735409	Col2Cre; Adgrg6f/f

@@ -1,0 +1,17 @@
+Sample	File	title
+contralateral.inhibitor.sample.1_1	SRR22938389	contralateral inhibitor
+contralateral.inhibitor.sample.2_1	SRR22938388	contralateral inhibitor
+contralateral.inhibitor.sample.3_1	SRR22938384	contralateral inhibitor
+contralateral.inhibitor.sample.4_1	SRR22938383	contralateral inhibitor
+MIA.inhibitor.sample.1_1	SRR22938385	MIA inhibitor
+MIA.inhibitor.sample.2_1	SRR22938382	MIA inhibitor
+MIA.inhibitor.sample.3_1	SRR22938386	MIA inhibitor
+MIA.inhibitor.sample.4_1	SRR22938381	MIA inhibitor
+contralateral.vehicle.sample.1_1	SRR22938387	contralateral vehicle
+contralateral.vehicle.sample.2_1	SRR22938380	contralateral vehicle
+contralateral.vehicle.sample.3_1	SRR22938376	contralateral vehicle
+contralateral.vehicle.sample.4_1	SRR22938377	contralateral vehicle
+MIA.vehicle.sample.1_1	SRR22938375	MIA vehicle
+MIA.vehicle.sample.2_1	SRR22938378	MIA vehicle
+MIA.vehicle.sample.3_1	SRR22938374	MIA vehicle
+MIA.vehicle.sample.4_1	SRR22938379	MIA vehicle

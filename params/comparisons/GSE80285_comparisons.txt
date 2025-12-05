@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+title	treated with 40ng/ml recombinant a-Klotho for 7 days	untreated
+title	transfected with siRNA against a-Klotho	transfected with siRNA control

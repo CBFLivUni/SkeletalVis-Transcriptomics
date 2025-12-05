@@ -1,0 +1,3 @@
+Sample	File	Genotype
+Osr1Mut	SRR823313	Osr1Mut
+Osr1WT	SRR823312	Osr1WT

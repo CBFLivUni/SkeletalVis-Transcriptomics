@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+condition	synthetic precursor miR-218	scrambled control
+condition	inhibitors of miR-218	Anti-miR Negative Control

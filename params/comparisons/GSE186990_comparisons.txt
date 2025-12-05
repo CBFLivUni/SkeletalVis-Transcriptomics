@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	IL1_treated	untreated

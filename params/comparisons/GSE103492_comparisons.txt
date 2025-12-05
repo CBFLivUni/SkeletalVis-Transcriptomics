@@ -1,0 +1,11 @@
+Factor	Numerator	Denominator
+Condition	WT_Wnt3a	WT
+Condition	Lrp5KO	WT
+Condition	Lrp5KO_Wnt3a	WT
+Condition	Lrp5KO_Wnt3a	Lrp5KO
+Condition	Lrp6_KO	Lrp6_Ctl
+Condition	Lrp6KO_Wnt3a	Lrp6_Ctl
+Condition	Lrp6KO_Wnt3a	Lrp6_KO
+Condition	Lrp5_6_KO	Lrp5_6_Ctl
+Condition	Lrp5_6_KO_Wnt3a	Lrp5_6_Ctl
+Condition	Lrp5_6_KO_Wnt3a	Lrp5_6_KO

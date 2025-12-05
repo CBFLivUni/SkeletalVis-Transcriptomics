@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype.variation	Sost-/-; Sostdc1-/-	wild-type

@@ -1,0 +1,5 @@
+Factor1	Factor2	Numerator	Denominator
+Characteristics.genotype.	Characteristics.age.	wild type.12	wild type.6
+Characteristics.genotype.	Characteristics.age.	mOL-AR knockout.12	mOL-AR knockout.6
+Characteristics.genotype.	Characteristics.age.	mOL-AR knockout.12	wild type.12
+Characteristics.genotype.	Characteristics.age.	mOL-AR knockout.6	wild type.6

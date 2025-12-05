@@ -1,0 +1,9 @@
+Sample	File	tissue
+human.embryonic.chondroprogenitors_1	SRR11057098	human_embryonic_chondroprogenitors
+human.embryonic.chondroprogenitors_2	SRR11057099	human_embryonic_chondroprogenitors
+human.embryonic.chondroprogenitors_3	SRR11057100	human_embryonic_chondroprogenitors
+human.embryonic.chondroprogenitors_4	SRR11057101	human_embryonic_chondroprogenitors
+human.joint.progenitor.like.cells_1	SRR11057102	human_joint_progenitor-like_cells
+human.joint.progenitor.like.cells_2	SRR11057103	human_joint_progenitor-like_cells
+human.joint.progenitor.like.cells_3	SRR11057104	human_joint_progenitor-like_cells
+human.joint.progenitor.like.cells_4	SRR11057105	human_joint_progenitor-like_cells

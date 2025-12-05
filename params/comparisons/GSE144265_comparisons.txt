@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+Factor	Fluid Flow Shear Stress (FFSS)_HDAC4 and HDAC5 deletion cells	Fluid Flow Shear Stress (FFSS)_original cells
+Factor	STATIC_HDAC4 and HDAC5 deletion cells	STATIC_original cells

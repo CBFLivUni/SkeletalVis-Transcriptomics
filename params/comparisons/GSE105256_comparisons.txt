@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	WT Round	WT Columnar/Hypertrophic

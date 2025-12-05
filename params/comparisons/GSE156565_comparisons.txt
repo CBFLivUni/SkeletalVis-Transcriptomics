@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+source_name_ch1	HIF1A siRNA	control siRNA
+source_name_ch1	EPAS1 siRNA	control siRNA

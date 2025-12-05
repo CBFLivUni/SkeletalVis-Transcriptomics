@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+cell.type	Hes1derived CAR cells	Fgfr3derived CAR cells

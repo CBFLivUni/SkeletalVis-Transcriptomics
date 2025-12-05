@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+title	U0126-treated	DMSO-treated
+title	TNF-a treated	DMSO-treated
+title	U0126 and TNF-a-treated	DMSO-treated

@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+treatment	transfected.with.miR.320a.inhibitor..I.	transfected.with.control.inhibitor..CI.
+treatment	transfected.with.miR.320a.mimic..M.	transfected.with.control.mimic..CM.

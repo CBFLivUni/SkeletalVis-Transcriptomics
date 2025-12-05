@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+characteristics_ch1.2	treatment_3_weeks	treatment_1_week

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	Foxc1_2_DKO	wild_type

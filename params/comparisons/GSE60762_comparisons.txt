@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+health.condition	Osteoarthritic	Healthy

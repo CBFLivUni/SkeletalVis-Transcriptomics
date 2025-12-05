@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	Eldr_cKO	control

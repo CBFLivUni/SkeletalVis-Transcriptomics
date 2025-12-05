@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	Bone_marrow_stroma_Dll4	Bone_marrow_stroma_WT

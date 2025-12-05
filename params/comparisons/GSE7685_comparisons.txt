@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	Manually.microdissected.embryonic.tibiae..zone.I.of.growth.plate	Manually.microdissected.embryonic.tibiae..zone.II.of.growth.plate
+source_name_ch1	Manually.microdissected.embryonic.tibiae..zone.II.of.growth.plate	Manually.microdissected.embryonic.tibiae..zone.III.of.growth.plate
+source_name_ch1	Manually.microdissected.embryonic.tibiae..zone.I.of.growth.plate	Manually.microdissected.embryonic.tibiae..zone.III.of.growth.plate

@@ -1,0 +1,7 @@
+Sample	File	treatment
+control_1	SRR14138147	control
+control_2	SRR14138148	control
+control_3	SRR14138149	control
+macrophages.activated.by.cartilage.fragments_1	SRR14138150	macrophages_activated_by_cartilage_fragments
+macrophages.activated.by.cartilage.fragments_2	SRR14138151	macrophages_activated_by_cartilage_fragments
+macrophages.activated.by.cartilage.fragments_3	SRR14138152	macrophages_activated_by_cartilage_fragments

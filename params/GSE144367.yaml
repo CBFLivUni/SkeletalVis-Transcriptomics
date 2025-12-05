@@ -1,0 +1,11 @@
+Type: Microarray
+accessionNumber: GSE144367
+site: GEO
+platform: Illumina
+annotationFile: lumiHumanIDMapping
+species: Human
+foldChangeOnly: 'FALSE'
+split: 'TRUE'
+splitField: characteristics_ch1.1
+splitSep: 'transfected: '
+splitPos: 2

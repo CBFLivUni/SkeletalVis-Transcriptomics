@@ -1,0 +1,5 @@
+Sample	File	cell.type
+Hes1.derived.CAR.cells..GFP.tdTomato.._1	SRR8614144	Hes1derived CAR cells
+Hes1.derived.CAR.cells..GFP.tdTomato.._2	SRR8614145	Hes1derived CAR cells
+Fgfr3.derived.CAR.cells..GFP.tdTomato.._1	SRR8614146	Fgfr3derived CAR cells
+Fgfr3.derived.CAR.cells..GFP.tdTomato.._2	SRR8614147	Fgfr3derived CAR cells

@@ -1,0 +1,9 @@
+Sample	File	condition
+Control_1	SRR18356121	Control
+Control_2	SRR18356120	Control
+Control_3	SRR18356119	Control
+Control_4	SRR18356118	Control
+STZ.injected_1	SRR18356117	STZ_injected
+STZ.injected_2	SRR18356116	STZ_injected
+STZ.injected_3	SRR18356114	STZ_injected
+STZ.injected_4	SRR18356115	STZ_injected

@@ -1,0 +1,13 @@
+Type: Microarray
+accessionNumber: GSE136198
+site: GEO
+platform: 1C-Agilent
+annotationFile: AgilentHuman039494.db
+species: Human
+foldChangeOnly: 'FALSE'
+split: 'TRUE'
+splitField: title
+splitSep: ' '
+splitPos: 1
+covariates: "gender"
+covariate_types: "factor"

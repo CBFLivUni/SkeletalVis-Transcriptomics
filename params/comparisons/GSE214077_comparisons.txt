@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	NG2_CSPG4KO	WT

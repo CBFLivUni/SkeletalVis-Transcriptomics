@@ -1,0 +1,13 @@
+Sample	File	Factor
+Wild.type_1.day_1	SRR8447207	Wild-type_1 day
+Wild.type_1.day_2	SRR8447208	Wild-type_1 day
+Wild.type_1.day_3	SRR8447209	Wild-type_1 day
+Bcl3.knockout_1.day_1	SRR8447210	Bcl3 knockout_1 day
+Bcl3.knockout_1.day_2	SRR8447211	Bcl3 knockout_1 day
+Bcl3.knockout_1.day_3	SRR8447212	Bcl3 knockout_1 day
+Wild.type_3.days_1	SRR8447213	Wild-type_3 days
+Wild.type_3.days_2	SRR8447214	Wild-type_3 days
+Wild.type_3.days_3	SRR8447215	Wild-type_3 days
+Bcl3.knockout_3.days_1	SRR8447216	Bcl3 knockout_3 days
+Bcl3.knockout_3.days_2	SRR8447217	Bcl3 knockout_3 days
+Bcl3.knockout_3.days_3	SRR8447218	Bcl3 knockout_3 days

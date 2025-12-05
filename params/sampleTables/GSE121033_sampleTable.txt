@@ -1,0 +1,10 @@
+Sample	File	treatment
+Non.surgery_1	SRR7989575	Non surgery
+Non.surgery_2	SRR7989576	Non surgery
+Non.surgery_3	SRR7989577	Non surgery
+Lentiviruses.expressing.Luc_1	SRR7989578	Lentiviruses expressing Luc
+Lentiviruses.expressing.Luc_2	SRR7989579	Lentiviruses expressing Luc
+Lentiviruses.expressing.Luc_3	SRR7989580	Lentiviruses expressing Luc
+Lentiviruses.expressing.PC2_1	SRR7989581	Lentiviruses expressing PC2
+Lentiviruses.expressing.PC2_2	SRR7989582	Lentiviruses expressing PC2
+Lentiviruses.expressing.PC2_3	SRR7989583	Lentiviruses expressing PC2

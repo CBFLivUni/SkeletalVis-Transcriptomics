@@ -1,0 +1,10 @@
+Sample	File	Genotype
+Wt_Cranial_Base_1	SRR6907104	WT_Cranial_Base
+Wt_Cranial_Base_2	SRR6907105	WT_Cranial_Base
+Wt_Cranial_Base_3	SRR6907106	WT_Cranial_Base
+Mutant_Skull_1	SRR6907107	Mutant_Skull
+Mutant_Skull_2	SRR6907108	Mutant_Skull
+Mutant_Skull_3	SRR6907109	Mutant_Skull
+WT_Skull_1	SRR6907110	WT_Skull
+WT_Skull_2	SRR6907111	WT_Skull
+WT_Skull_3	SRR6907112	WT_Skull

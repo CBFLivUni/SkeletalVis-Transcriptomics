@@ -1,0 +1,12 @@
+Type: RNAseq
+accessionNumber: GSE181883
+site: ENA
+species: Cow
+foldChangeOnly: 'FALSE'
+ENA: PRJNA753807
+stranded: false
+batchCorrect: 'TRUE'
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'
+single: true
+shrink: 'FALSE'

@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+characteristics_ch1.2	grade: IV	grade: III
+characteristics_ch1.2	grade: IV	grade: II
+characteristics_ch1.2	grade: III	grade: II

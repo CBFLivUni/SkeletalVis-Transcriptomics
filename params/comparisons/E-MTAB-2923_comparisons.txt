@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+CellType	osteoblast	immature_osteoblast
+CellType	immature_osteoblast	osteoprogenitor
+CellType	osteoblast	osteoprogenitor
+CellType	osteoblast	mesenchymal_stem_cell

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	co-cultured with the JJN3 human myeloma cell line	control

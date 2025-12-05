@@ -1,0 +1,5 @@
+Sample	File	genotype
+CLOCK.defecient.hMSCs_1	SRR11051109	CLOCK defecient hMSCs
+CLOCK.defecient.hMSCs_2	SRR11051110	CLOCK defecient hMSCs
+WT.hMSCs_1	SRR11051111	WT hMSCs
+WT.hMSCs_2	SRR11051112	WT hMSCs

@@ -1,0 +1,9 @@
+Factor	Numerator	Denominator
+title	mRNA_4_IL1	mRNA_4_0
+title	mRNA_4_TNF	mRNA_4_0
+title	mRNA_12_IL1	mRNA_12_0
+title	mRNA_12_TNF	mRNA_12_0
+title	mRNA_24_IL1	mRNA_24_0
+title	mRNA_24_TNF	mRNA_24_0
+title	mRNA_72_IL1	mRNA_72_0
+title	mRNA_72_TNF	mRNA_72_0

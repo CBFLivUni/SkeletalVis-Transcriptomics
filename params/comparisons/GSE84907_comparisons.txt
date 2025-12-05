@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	pH7.8	pH7.4
+source_name_ch1	pH8.4	pH7.4
+source_name_ch1	pH8.4	pH7.8

@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+development.stage	Differentiating precursor	Precursor
+development.stage	Osteoclast	Differentiating precursor

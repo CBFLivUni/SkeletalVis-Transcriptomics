@@ -1,0 +1,7 @@
+Sample	File	treatment
+Mouse.chondrocyte.pellet.culture.in.the.absence.of.pterosin.B..sample.1_1	SRR2994336	Mouse chondrocyte pellet culture in the absence of pterosin B
+Mouse.chondrocyte.pellet.culture.in.the.absence.of.pterosin.B..sample.2_1	SRR2994337	Mouse chondrocyte pellet culture in the absence of pterosin B
+Mouse.chondrocyte.pellet.culture.in.the.absence.of.pterosin.B..sample.5_1	SRR2994338	Mouse chondrocyte pellet culture in the absence of pterosin B
+Mouse.chondrocyte.pellet.culture.in.the.presence.of.pterosin.B..sample.1_1	SRR2994339	Mouse chondrocyte pellet culture in the presence of pterosin B
+Mouse.chondrocyte.pellet.culture.in.the.presence.of.pterosin.B..sample.2_1	SRR2994340	Mouse chondrocyte pellet culture in the presence of pterosin B
+Mouse.chondrocyte.pellet.culture.in.the.presence.of.pterosin.B..sample.5_1	SRR2994341	Mouse chondrocyte pellet culture in the presence of pterosin B

@@ -1,0 +1,11 @@
+Factor	Numerator	Denominator
+Treatment	Injury.Day7	Control.Day0
+Treatment	Injury.Day28	Control.Day0
+Treatment	InjuryReconstruct.Day7	Control.Day0
+Treatment	InjuryReconstruct.Day28	Control.Day0
+Treatment	InjuryRepair.Day7	Control.Day0
+Treatment	InjuryRepair.Day28	Control.Day0
+Treatment	InjuryRepair.Day28	Injury.Day28
+Treatment	InjuryReconstruct.Day28	Injury.Day28
+Treatment	InjuryRepair.Day7	Injury.Day7
+Treatment	InjuryReconstruct.Day7	Injury.Day7

@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Condition	WT_RANKL	WT_Basal
+Condition	Mir182Loss_Basal	WT_Basal
+Condition	Mir182Gain_Basal	WT_Basal
+Condition	Mir182Loss_RANKL	WT_RANKL

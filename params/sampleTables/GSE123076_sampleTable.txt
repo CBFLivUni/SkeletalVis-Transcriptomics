@@ -1,0 +1,7 @@
+Sample	File	genotype.variation
+wild.type_1	SRR8258042	wild type
+Adamts17..._1	SRR8258043	Adamts17-/-
+wild.type_2	SRR8258044	wild type
+Adamts17..._2	SRR8258045	Adamts17-/-
+wild.type_3	SRR8258046	wild type
+Adamts17..._3	SRR8258047	Adamts17-/-

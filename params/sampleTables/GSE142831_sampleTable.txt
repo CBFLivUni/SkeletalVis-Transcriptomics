@@ -1,0 +1,7 @@
+Sample	File	tissue
+Adipose.tissue_1	SRR10814935	Adipose tissue
+Adipose.tissue_2	SRR10814936	Adipose tissue
+Adipose.tissue_3	SRR10814937	Adipose tissue
+Adipo.tissue...Cartilage_1	SRR10814938	Adipo tissue_Cartilage
+Adipo.tissue...Cartilage_2	SRR10814939	Adipo tissue_Cartilage
+Adipo.tissue...Cartilage_3	SRR10814940	Adipo tissue_Cartilage

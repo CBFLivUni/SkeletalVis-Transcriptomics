@@ -1,0 +1,11 @@
+Type: RNASeq
+accessionNumber: GSE128093
+site: ENA
+species: Rat
+foldChangeOnly: 'FALSE'
+ENA: PRJNA526447
+stranded: false
+batchCorrect: 'TRUE'
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'
+single: false

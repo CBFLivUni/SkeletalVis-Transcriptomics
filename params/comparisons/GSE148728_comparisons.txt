@@ -1,0 +1,6 @@
+Factor	Numerator	Denominator
+title	COL10A1 G18E mutant	COL10A1 G18E isogenic control
+title	COL10A1 S600P mutant	COL10A1 S600P and MATN3 R209P isogenic control
+title	COL10A1 L614RfsX8 mutant	COL10A1 L614RfsX8 isogenic control
+title	MATN3 T120M mutant	MATN3 T120M isogenic control
+title	MATN3 R209P mutant	COL10A1 S600P and MATN3 R209P isogenic control

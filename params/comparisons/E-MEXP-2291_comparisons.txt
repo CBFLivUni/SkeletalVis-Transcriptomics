@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Factor.Value..ORGANISM_PART.	nucleus pulposus	articular cartilage
+Factor.Value..ORGANISM_PART.	annulus fibrosus	articular cartilage
+Factor.Value..ORGANISM_PART.	nucleus pulposus	annulus fibrosus

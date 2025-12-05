@@ -1,0 +1,7 @@
+Sample	File	genotype
+control_1	SRR12323011	control
+control_2	SRR12323012	control
+control_3	SRR12323013	control
+Sox5.6.9.overexpression_1	SRR12323014	Sox5_6_9_OE
+Sox5.6.9.overexpression_2	SRR12323015	Sox5_6_9_OE
+Sox5.6.9.overexpression_3	SRR12323016	Sox5_6_9_OE

@@ -1,0 +1,6 @@
+Factor	Numerator	Denominator
+title	Cell culture of isolated chondrocytes from growth plate cartilage, day 20 of differentiation	Native growth plate cartilage
+title	Cell culture of isolated chondrocytes from growth plate cartilage, day 10 of differentiation	Native growth plate cartilage
+title	Cell culture of isolated chondrocytes from articular cartilage, day 20 of differentiation	Native articular cartilage
+title	Cell culture of isolated chondrocytes from articular cartilage, day 10 of differentiation	Native articular cartilage
+title	Native articular cartilage	Native growth plate cartilage

@@ -1,0 +1,16 @@
+Sample	File	Factor
+beta.actin.wild.type_Day.4_1	SRR9906431	beta_actin_wild_type_Day_4
+beta.actin.wild.type_Day.4_2	SRR9906432	beta_actin_wild_type_Day_4
+beta.actin.wild.type_Day.4_3	SRR9906433	beta_actin_wild_type_Day_4
+beta.actin.wild.type_Day.14_1	SRR9906434	beta_actin_wild_type_Day_14
+beta.actin.wild.type_Day.14_2	SRR9906435	beta_actin_wild_type_Day_14
+beta.actin.wild.type_Day.14_3	SRR9906436	beta_actin_wild_type_Day_14
+beta.actin.knockout_Day.4_1	SRR9906437	beta_actin_knockout_Day_4
+beta.actin.knockout_Day.4_2	SRR9906438	beta_actin_knockout_Day_4
+beta.actin.knockout_Day.4_3	SRR9906439	beta_actin_knockout_Day_4
+beta.actin.knockout_Day.14_1	SRR9906440	beta_actin_knockout_Day_14
+beta.actin.knockout_Day.14_2	SRR9906441	beta_actin_knockout_Day_14
+beta.actin.knockout_Day.14_3	SRR9906442	beta_actin_knockout_Day_14
+beta.actin.heterozygote_Day.14_1	SRR9906443	beta_actin_heterozygote_Day_14
+beta.actin.heterozygote_Day.14_2	SRR9906444	beta_actin_heterozygote_Day_14
+beta.actin.heterozygote_Day.14_3	SRR9906445	beta_actin_heterozygote_Day_14

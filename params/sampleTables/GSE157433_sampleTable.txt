@@ -1,0 +1,13 @@
+Sample	File	Factor
+Cntl_SFZ.chondrocytes_1	SRR12582674	Cntl_SFZ chondrocytes
+Cntl_SFZ.chondrocytes_2	SRR12582675	Cntl_SFZ chondrocytes
+Cntl_SFZ.chondrocytes_3	SRR12582676	Cntl_SFZ chondrocytes
+Runx3cKO_SFZ.chondrocytes_1	SRR12582677	Runx3cKO_SFZ chondrocytes
+Runx3cKO_SFZ.chondrocytes_2	SRR12582678	Runx3cKO_SFZ chondrocytes
+Runx3cKO_SFZ.chondrocytes_3	SRR12582679	Runx3cKO_SFZ chondrocytes
+Cntl_DZ.chondrocytes_1	SRR12582680	Cntl_DZ chondrocytes
+Cntl_DZ.chondrocytes_2	SRR12582681	Cntl_DZ chondrocytes
+Cntl_DZ.chondrocytes_3	SRR12582682	Cntl_DZ chondrocytes
+Runx3cKO_DZ.chondrocytes_1	SRR12582683	Runx3cKO_DZ chondrocytes
+Runx3cKO_DZ.chondrocytes_2	SRR12582684	Runx3cKO_DZ chondrocytes
+Runx3cKO_DZ.chondrocytes_3	SRR12582685	Runx3cKO_DZ chondrocytes

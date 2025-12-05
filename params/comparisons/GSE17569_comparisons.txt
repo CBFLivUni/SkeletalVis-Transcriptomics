@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+phenotype	ALCAM(+) Sca-1(-)	ALCAM(-) Sca-1(-)
+phenotype	ALCAM(-) Sca-1(+)	ALCAM(-) Sca-1(-)

@@ -1,0 +1,9 @@
+Sample	File	genotype.variation
+miR.Ctrl.transfection_1	SRR8649734	miR-Ctrl transfection
+miR.Ctrl.transfection_2	SRR8649735	miR-Ctrl transfection
+miR.Ctrl.transfection_3	SRR8649736	miR-Ctrl transfection
+miR.Ctrl.transfection_4	SRR8649737	miR-Ctrl transfection
+miR.204.transfection_1	SRR8649738	miR-204 transfection
+miR.204.transfection_2	SRR8649739	miR-204 transfection
+miR.204.transfection_3	SRR8649740	miR-204 transfection
+miR.204.transfection_4	SRR8649741	miR-204 transfection

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+source_name_ch1	X482.cells.Sox2shRNA.	X482.cells.scrambledshRNA

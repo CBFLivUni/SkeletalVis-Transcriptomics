@@ -1,0 +1,11 @@
+Type: Microarray
+accessionNumber: GSE26475
+site: GEO
+platform: Affy-ST
+annotationFile: mogene10sttranscriptcluster.db
+species: Mouse
+foldChangeOnly: 'FALSE'
+split: 'TRUE'
+splitField: title
+splitSep: _rep
+splitPos: 1

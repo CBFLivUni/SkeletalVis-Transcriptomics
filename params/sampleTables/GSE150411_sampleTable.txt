@@ -1,0 +1,19 @@
+Sample	File	Donor	treatment
+FNF..3.hours_1	SRR11778490	One	FNF, 3 hours
+FNF..3.hours_2	SRR11778491	Two	FNF, 3 hours
+FNF..3.hours_3	SRR11778492	Three	FNF, 3 hours
+FNF..6.hours_1	SRR11778493	One	FNF, 6 hours
+FNF..6.hours_2	SRR11778494	Two	FNF, 6 hours
+FNF..6.hours_3	SRR11778495	Three	FNF, 6 hours
+FNF..18.hours_1	SRR11778496	One	FNF, 18 hours
+FNF..18.hours_2	SRR11778497	Two	FNF, 18 hours
+FNF..18.hours_3	SRR11778498	Three	FNF, 18 hours
+PBS..3.hours_1	SRR11778499	One	PBS, 3 hours
+PBS..3.hours_2	SRR11778500	Two	PBS, 3 hours
+PBS..3.hours_3	SRR11778501	Three	PBS, 3 hours
+PBS..6.hours_1	SRR11778502	One	PBS, 6 hours
+PBS..6.hours_2	SRR11778503	Two	PBS, 6 hours
+PBS..6.hours_3	SRR11778504	Three	PBS, 6 hours
+PBS..18.hours_1	SRR11778505	One	PBS, 18 hours
+PBS..18.hours_2	SRR11778506	Two	PBS, 18 hours
+PBS..18.hours_3	SRR11778507	Three	PBS, 18 hours

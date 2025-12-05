@@ -1,0 +1,11 @@
+Sample	File	treatment
+untreated_1	SRR7695247	untreated
+untreated_2	SRR7695248	untreated
+none..OAC._1	SRR7695249	none (OAC)
+none..OAC._2	SRR7695250	none (OAC)
+none..OAC._3	SRR7695251	none (OAC)
+none..SHAM._1	SRR7695252	none (SHAM)
+none..SHAM._2	SRR7695253	none (SHAM)
+none..SHAM._3	SRR7695254	none (SHAM)
+αKlotho.and.sTGFBR2_1	SRR7695255	αKlotho and sTGFBR2
+αKlotho.and.sTGFBR2_2	SRR7695256	αKlotho and sTGFBR2

@@ -1,0 +1,11 @@
+Type: RNASeq
+ENA: PRJEB3153
+accessionNumber: E-ERAD-89
+batchCorrect: 'FALSE'
+foldChangeOnly: 'TRUE'
+single: false
+site: ENA
+species: Mouse
+stranded: false
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'

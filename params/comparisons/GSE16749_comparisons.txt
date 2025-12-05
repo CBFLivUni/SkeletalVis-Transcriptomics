@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	RAW 264.7, RANKL + M-CSF	RAW 264.7, Unstimulated
+source_name_ch1	RAW 264.7, Unstimulated, miR-155	RAW 264.7, Unstimulated
+source_name_ch1	RAW 264.7, RANKL + M-CSF, miR-155	RAW 264.7, Unstimulated, miR-155

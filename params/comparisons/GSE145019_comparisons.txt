@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	joints of aged mice injected with lentivirus expressing CLOCK	joints of aged mice injected with lentivirus expressing Luc

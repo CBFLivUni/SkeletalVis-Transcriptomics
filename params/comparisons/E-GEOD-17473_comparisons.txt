@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+Comment.Sample_characteristics.	tissue: TMJ condyle; developmental stage: embryo; age: E16.5	tissue: TMJ fossa; developmental stage: embryo; age: E16.5

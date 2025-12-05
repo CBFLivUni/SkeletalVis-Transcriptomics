@@ -1,0 +1,16 @@
+Factor	Numerator	Denominator
+disease.state	diffuse systemic sclerosis	Microcrystalline arthritis
+disease.state	diffuse systemic sclerosis	Osteoarthritis
+disease.state	diffuse systemic sclerosis	Rheumatoid arthritis
+disease.state	diffuse systemic sclerosis	Seronegative arthritis
+disease.state	diffuse systemic sclerosis	Systemic lupus erythematosus
+disease.state	Microcrystalline arthritis	Osteoarthritis
+disease.state	Microcrystalline arthritis	Rheumatoid arthritis
+disease.state	Microcrystalline arthritis	Seronegative arthritis
+disease.state	Microcrystalline arthritis	Systemic lupus erythematosus
+disease.state	Osteoarthritis	Rheumatoid arthritis
+disease.state	Osteoarthritis	Seronegative arthritis
+disease.state	Osteoarthritis	Systemic lupus erythematosus
+disease.state	Rheumatoid arthritis	Seronegative arthritis
+disease.state	Rheumatoid arthritis	Systemic lupus erythematosus
+disease.state	Seronegative arthritis	Systemic lupus erythematosus

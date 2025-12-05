@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+source_name_ch1	Bone marrow monocytes treated with M-CSF and sRANKL	Bone marrow monocytes treated with M-CSF alone

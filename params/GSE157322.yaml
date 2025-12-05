@@ -1,0 +1,11 @@
+Type: Microarray
+accessionNumber: GSE157322
+site: GEO
+platform: Affy
+annotationFile: primeview.db
+species: Human
+foldChangeOnly: 'FALSE'
+split: 'TRUE'
+splitField: characteristics_ch1.2
+splitSep: ' '
+splitPos: 2

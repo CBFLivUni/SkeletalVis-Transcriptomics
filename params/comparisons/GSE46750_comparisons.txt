@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+cell.type	cultured.cells.from.synovial.membrane..inflammatory	cultured.cells.from.synovial.membrane.normal.reactive

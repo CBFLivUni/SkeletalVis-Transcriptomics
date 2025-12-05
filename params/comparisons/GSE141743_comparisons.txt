@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+characteristics_ch1.1	ADAM10 flox/flox-Col2a1-Cre	control

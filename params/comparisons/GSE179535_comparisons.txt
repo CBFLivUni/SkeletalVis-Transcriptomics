@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	Sephs1_siRNA_transfection	control_siRNA_transfection

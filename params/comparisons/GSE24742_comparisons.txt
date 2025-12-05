@@ -1,0 +1,4 @@
+Factor1	Factor2	Numerator	Denominator
+response	treatment	EULAR Good-responder.12 weeks of RTX therapy	EULAR Good-responder.baseline
+response	treatment	EULAR Moderate-responder.12 weeks of RTX therapy	EULAR Moderate-responder.baseline
+response	treatment	EULAR Poor-responder.12 weeks of RTX therapy	EULAR Poor-responder.baseline

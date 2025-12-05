@@ -1,0 +1,9 @@
+Sample	File	genotype.variation
+Col2a1Cre.Idh1.fl.._1	SRR8262848	Col2a1Cre;Idh1 fl/+
+Col2a1Cre.Idh1.fl.._2	SRR8262849	Col2a1Cre;Idh1 fl/+
+Col2a1Cre.Idh1.fl.._3	SRR8262850	Col2a1Cre;Idh1 fl/+
+Col2a1Cre_1	SRR8262851	Col2a1Cre
+Col2a1Cre_2	SRR8262852	Col2a1Cre
+Col2a1Cre_3	SRR8262853	Col2a1Cre
+Idh1.fl.._1	SRR8262854	Idh1 fl/+
+Idh1.fl.._2	SRR8262855	Idh1 fl/+

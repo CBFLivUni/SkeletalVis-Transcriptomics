@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+Genotype	Osr1Mut	Osr1WT

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	CA2_shRNA	Scrambled

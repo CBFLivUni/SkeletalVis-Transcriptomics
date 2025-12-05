@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+source_name_ch1	differentiating MC3T3-E1 cells treated with control scramble shRNA	proliferating MC3T3-E1 cells treated with control scramble shRNA
+source_name_ch1	differentiating MC3T3-E1 cells treated with Runx2-specific shRNA	differentiating MC3T3-E1 cells treated with control scramble shRNA

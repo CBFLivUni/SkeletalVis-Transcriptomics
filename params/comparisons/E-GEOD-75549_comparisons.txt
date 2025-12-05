@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+Genotype	hdac3KO	WT

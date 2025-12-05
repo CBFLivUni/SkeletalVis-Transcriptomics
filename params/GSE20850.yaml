@@ -1,0 +1,7 @@
+Type: Microarray
+accessionNumber: GSE20850
+site: GEO
+platform: Affy
+annotationFile: mouse430a2.db
+species: Mouse
+foldChangeOnly: 'TRUE'

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment_protocol_ch1	EPZ.5676.3.µM.4.days	vehicle..DMSO..4.days

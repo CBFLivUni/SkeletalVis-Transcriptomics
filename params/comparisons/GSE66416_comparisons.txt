@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+source_name_ch1	MC3T3-E1_over-expressing_periostin	MC3T3-E1_empty_vector

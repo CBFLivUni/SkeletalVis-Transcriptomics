@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	IL3	none

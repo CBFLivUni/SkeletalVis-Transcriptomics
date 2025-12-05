@@ -1,0 +1,7 @@
+Sample	File	characteristics_ch1.2
+treatment..1.week_1	SRR12301591	treatment_1_week
+treatment..3.weeks_1	SRR12301592	treatment_3_weeks
+treatment..1.week_2	SRR12301593	treatment_1_week
+treatment..3.weeks_2	SRR12301594	treatment_3_weeks
+treatment..1.week_3	SRR12301595	treatment_1_week
+treatment..3.weeks_3	SRR12301596	treatment_3_weeks

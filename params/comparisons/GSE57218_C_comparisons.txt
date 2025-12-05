@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+disease.state	OA	Healthy
+disease.state	Preserved	Healthy

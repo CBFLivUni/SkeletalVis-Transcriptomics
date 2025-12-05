@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+characteristics_ch1	time: 24 h	time: 0 h
+characteristics_ch1	time: 12 h	time: 0 h
+characteristics_ch1	time: 6 h	time: 0 h

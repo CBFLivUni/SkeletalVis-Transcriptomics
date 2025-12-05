@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+genotype.and.drug	miR-140 WT/G hetero	miR-140 WT
+genotype.and.drug	miR-140 G/G	miR-140 WT
+genotype.and.drug	miR-140 KO	miR-140 WT

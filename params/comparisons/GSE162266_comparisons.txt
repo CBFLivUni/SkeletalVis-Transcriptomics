@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+genotype.variation	three.p.seed.region.mutation	wildtype.for.the.CG.mutants
+genotype.variation	CT.base.change	wildtype.for.the.CT.mutant

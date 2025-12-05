@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+outcome.at.one.year	persistent	extended

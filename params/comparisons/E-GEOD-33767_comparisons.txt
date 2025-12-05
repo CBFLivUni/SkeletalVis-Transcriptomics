@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+FactorValue..TREATMENT.	xSox6-MO	CoMO
+FactorValue..TREATMENT.	xMLTK-MO	CoMO

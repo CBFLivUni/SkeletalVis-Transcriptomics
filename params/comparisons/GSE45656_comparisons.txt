@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+cell.type	pre-osteoclasts	Mouse bone marrow macrophage
+cell.type	mature osteoclasts on plate	pre-osteoclasts
+cell.type	mature resorbing osteoclasts on dentin	pre-osteoclasts

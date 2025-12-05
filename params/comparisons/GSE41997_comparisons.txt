@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype.variation	Estrogen Receptor alpha knock-out	control

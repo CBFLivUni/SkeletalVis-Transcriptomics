@@ -1,0 +1,8 @@
+Factor	Numerator	Denominator
+Condition	siCon_FOB_Ob	siCon_FOB_Und
+Condition	siCHD1_FOB_Ob	siCon_FOB_Ob
+Condition	siCon_MSC_Ad	siCon_MSC_Und
+Condition	siCon_MSC_Ob	siCon_MSC_Und
+Condition	siCHD1_MSC_Ad	siCon_MSC_Ad
+Condition	siCHD1_MSC_Und	siCon_MSC_Und
+Condition	siCHD1_MSC_Ob	siCon_MSC_Ob

@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Genotype	KO-5AM	WT-5AM
+Genotype	KO-5PM	WT-5PM
+Genotype	KO-9AM	WT-9AM
+Genotype	KO-9PM	WT-9PM

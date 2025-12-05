@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+cell.type	iPSC differentiated to chondrocyte for 4 days	iPSC
+cell.type	iPSC differentiated to chondrocyte for 9 days	iPSC
+cell.type	iPSC-derived chondrocytes (passage 3)	iPSC
+cell.type	iPSC-derived chondrocytes (passage 3)	adult chondrocyte

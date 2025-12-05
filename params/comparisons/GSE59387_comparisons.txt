@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype.variation	Dnmt3a knockout	wild type

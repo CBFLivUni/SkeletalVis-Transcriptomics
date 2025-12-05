@@ -1,0 +1,25 @@
+Factor1	Factor2	Numerator	Denominator
+title	characteristics_ch1.2	TGF stimulated synovial fibroblasts (1h).rheumatoid arthritis	TGF stimulated synovial fibroblasts (0h).rheumatoid arthritis
+title	characteristics_ch1.2	TGF stimulated synovial fibroblasts (2h).rheumatoid arthritis	TGF stimulated synovial fibroblasts (0h).rheumatoid arthritis
+title	characteristics_ch1.2	TGF stimulated synovial fibroblasts (4h).rheumatoid arthritis	TGF stimulated synovial fibroblasts (0h).rheumatoid arthritis
+title	characteristics_ch1.2	TGF stimulated synovial fibroblasts (12h).rheumatoid arthritis	TGF stimulated synovial fibroblasts (0h).rheumatoid arthritis
+title	characteristics_ch1.2	TGF stimulated synovial fibroblasts (1h).osteoarthritis	TGF stimulated synovial fibroblasts (0h).osteoarthritis
+title	characteristics_ch1.2	TGF stimulated synovial fibroblasts (2h).osteoarthritis	TGF stimulated synovial fibroblasts (0h).osteoarthritis
+title	characteristics_ch1.2	TGF stimulated synovial fibroblasts (4h).osteoarthritis	TGF stimulated synovial fibroblasts (0h).osteoarthritis
+title	characteristics_ch1.2	TGF stimulated synovial fibroblasts (12h).osteoarthritis	TGF stimulated synovial fibroblasts (0h).osteoarthritis
+title	characteristics_ch1.2	TGF stimulated synovial fibroblasts (1h).rheumatoid arthritis	TGF stimulated synovial fibroblasts (1h).osteoarthritis
+title	characteristics_ch1.2	TGF stimulated synovial fibroblasts (2h).rheumatoid arthritis	TGF stimulated synovial fibroblasts (2h).osteoarthritis
+title	characteristics_ch1.2	TGF stimulated synovial fibroblasts (4h).rheumatoid arthritis	TGF stimulated synovial fibroblasts (4h).osteoarthritis
+title	characteristics_ch1.2	TGF stimulated synovial fibroblasts (12h).rheumatoid arthritis	TGF stimulated synovial fibroblasts (12h).osteoarthritis
+title	characteristics_ch1.2	TNF stimulated synovial fibroblasts (1h).rheumatoid arthritis	TNF stimulated synovial fibroblasts (0h).rheumatoid arthritis
+title	characteristics_ch1.2	TNF stimulated synovial fibroblasts (2h).rheumatoid arthritis	TNF stimulated synovial fibroblasts (0h).rheumatoid arthritis
+title	characteristics_ch1.2	TNF stimulated synovial fibroblasts (4h).rheumatoid arthritis	TNF stimulated synovial fibroblasts (0h).rheumatoid arthritis
+title	characteristics_ch1.2	TNF stimulated synovial fibroblasts (12h).rheumatoid arthritis	TNF stimulated synovial fibroblasts (0h).rheumatoid arthritis
+title	characteristics_ch1.2	TNF stimulated synovial fibroblasts (1h).osteoarthritis	TNF stimulated synovial fibroblasts (0h).osteoarthritis
+title	characteristics_ch1.2	TNF stimulated synovial fibroblasts (2h).osteoarthritis	TNF stimulated synovial fibroblasts (0h).osteoarthritis
+title	characteristics_ch1.2	TNF stimulated synovial fibroblasts (4h).osteoarthritis	TNF stimulated synovial fibroblasts (0h).osteoarthritis
+title	characteristics_ch1.2	TNF stimulated synovial fibroblasts (12h).osteoarthritis	TNF stimulated synovial fibroblasts (0h).osteoarthritis
+title	characteristics_ch1.2	TNF stimulated synovial fibroblasts (1h).rheumatoid arthritis	TNF stimulated synovial fibroblasts (1h).osteoarthritis
+title	characteristics_ch1.2	TNF stimulated synovial fibroblasts (2h).rheumatoid arthritis	TNF stimulated synovial fibroblasts (2h).osteoarthritis
+title	characteristics_ch1.2	TNF stimulated synovial fibroblasts (4h).rheumatoid arthritis	TNF stimulated synovial fibroblasts (4h).osteoarthritis
+title	characteristics_ch1.2	TNF stimulated synovial fibroblasts (12h).rheumatoid arthritis	TNF stimulated synovial fibroblasts (12h).osteoarthritis

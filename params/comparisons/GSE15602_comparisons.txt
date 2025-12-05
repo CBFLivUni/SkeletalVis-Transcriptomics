@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+title	RA Synovial biopsy T12 post-adalimumab therapy, Moderate	RA Synovial biopsy T12 post-adalimumab therapy, Poor
+title	RA Synovial biopsy T12 post-adalimumab therapy, Good	RA Synovial biopsy T12 post-adalimumab therapy, Poor
+title	RA Synovial biopsy T12 post-adalimumab therapy, Good	RA Synovial biopsy T12 post-adalimumab therapy, Moderate

@@ -1,0 +1,11 @@
+Type: RNAseq
+accessionNumber: GSE81526
+site: ENA
+species: Human
+foldChangeOnly: 'FALSE'
+ENA: PRJNA321860
+stranded: false
+batchCorrect: 'TRUE'
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'
+single: true

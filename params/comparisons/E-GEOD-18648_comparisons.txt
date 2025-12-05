@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+FactorValue..compound.	TGF.beta1	none
+FactorValue..compound.	BMP4	none

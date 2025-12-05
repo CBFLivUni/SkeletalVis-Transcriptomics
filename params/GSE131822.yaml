@@ -1,0 +1,7 @@
+Type: Microarray
+accessionNumber: GSE131822
+site: GEO
+platform: Affy
+annotationFile: primeview.db
+species: Human
+foldChangeOnly: 'FALSE'

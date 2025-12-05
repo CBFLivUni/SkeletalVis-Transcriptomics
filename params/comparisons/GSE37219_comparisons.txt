@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	NFATc1 fl/fl MxCre+	NFATc1 fl/fl MxCre-

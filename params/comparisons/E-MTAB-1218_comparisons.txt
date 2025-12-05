@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+Factor.Value.ORGANISMPART.	articular cartilage	superficial layer of epiphyseal cartilage
+Factor.Value.ORGANISMPART.	deep layer of epiphyseal cartilage	growth plate cartilage

@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Treatment	Day1	Control
+Treatment	Day5	Control
+Treatment	Day9	Control
+Treatment	Day14	Control

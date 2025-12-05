@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+Stage	after 15 days of differentiation in chondrogenic media	prior to differentiation

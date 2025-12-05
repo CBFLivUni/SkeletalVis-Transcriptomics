@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+Condition	Senp6-Mut	WT

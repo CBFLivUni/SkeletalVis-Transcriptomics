@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+tissue	meniscus	articular cartilage
+tissue	meniscus	cruciate ligament
+tissue	cruciate ligament	articular cartilage

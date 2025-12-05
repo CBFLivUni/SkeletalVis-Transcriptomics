@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype.variation	overexpressing A-CEBP	overexpressing GFP

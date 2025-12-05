@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	PG4P1	WTP1

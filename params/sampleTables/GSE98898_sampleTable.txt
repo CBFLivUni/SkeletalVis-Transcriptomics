@@ -1,0 +1,3 @@
+Sample	File	Phenotype
+Control_1	SRR5558489	Control
+Control_2	SRR5558490	Control

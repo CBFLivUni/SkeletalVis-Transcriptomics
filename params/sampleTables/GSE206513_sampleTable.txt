@@ -1,0 +1,7 @@
+Sample	File	genotype
+wild.type_1	SRR19760776	wild type
+wild.type_2	SRR19760775	wild type
+wild.type_3	SRR19760774	wild type
+Sirt6.cKO_1	SRR19760773	Sirt6 cKO
+Sirt6.cKO_2	SRR19760772	Sirt6 cKO
+Sirt6.cKO_3	SRR19760771	Sirt6 cKO

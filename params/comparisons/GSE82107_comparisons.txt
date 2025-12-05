@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+disease.state	Osteoarthritis	Healthy control

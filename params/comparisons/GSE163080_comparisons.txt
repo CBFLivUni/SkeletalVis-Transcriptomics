@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	mouse_model	mouse_control

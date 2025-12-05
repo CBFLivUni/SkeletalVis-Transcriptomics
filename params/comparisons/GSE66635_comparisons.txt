@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+tissue	injured meniscus	normal articular cartilage

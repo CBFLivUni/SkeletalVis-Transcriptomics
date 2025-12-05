@@ -1,0 +1,7 @@
+Sample	File	genotype.variation
+FOXD1.Knockdown_1	SRR6680318	FOXD1 Knockdown
+FOXD1.Knockdown_2	SRR6680319	FOXD1 Knockdown
+FOXD1.Knockdown_3	SRR6680320	FOXD1 Knockdown
+non.targeting.control_1	SRR6680321	non-targeting control
+non.targeting.control_2	SRR6680322	non-targeting control
+non.targeting.control_3	SRR6680323	non-targeting control

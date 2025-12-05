@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+Factor	WRN_KD_Day_4	WT_Day_4
+Factor	WRN_KD_Day_9	WT_Day_9

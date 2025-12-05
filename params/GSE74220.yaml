@@ -1,0 +1,11 @@
+Type: RNASeq
+ENA: PRJNA299568
+accessionNumber: GSE74220
+batchCorrect: 'TRUE'
+foldChangeOnly: 'FALSE'
+single: false
+site: ENA
+species: Human
+stranded: false
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'

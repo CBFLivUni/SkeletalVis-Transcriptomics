@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype.variation	TBX5 overexpression	vector control

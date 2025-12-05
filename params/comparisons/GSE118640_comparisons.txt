@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	Hox13dKO autopod at E11.25	Wild type autopod at E11.25

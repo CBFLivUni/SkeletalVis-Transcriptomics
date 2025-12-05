@@ -1,0 +1,7 @@
+Sample	File	Animal	Condition
+One_p21	SRR5398152|SRR5398153	One	p21 misexpression
+One_Control	SRR5398154	One	Control
+Two_p21	SRR5398155	Two	p21 misexpression
+Two_Control	SRR5398156	Two	Control
+Three_p21	SRR5398157	Three	p21 misexpression
+Three_Control	SRR5398158	Three	Control

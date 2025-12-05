@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	Col2Cre; Adgrg6f/f	wild type

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+source_name_ch1	MG-63, mineralized bone	MG-63, demineralized bone

@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+biopsy	ankylosing spondylitis	normal control
+biopsy	seronegative spondyloarthropy	normal control
+biopsy	osteoarthritis	normal control

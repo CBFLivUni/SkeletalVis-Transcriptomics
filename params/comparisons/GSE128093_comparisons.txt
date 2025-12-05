@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+source_name_ch1	rat knee joints treated with BNTA	rat knee joints treated with normal saline

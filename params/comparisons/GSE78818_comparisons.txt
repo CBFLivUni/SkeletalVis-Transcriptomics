@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+characteristics_ch1.2	treatment stage: Doxycycline, 3 days	treatment stage: Control
+characteristics_ch1.2	treatment stage: Recovery, 3 days post doxycycline	treatment stage: Doxycycline, 3 days

@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+source_name_ch1	iPSC_MC_Ch	Chondrocyte
+source_name_ch1	iPSC_NCC_Ch	iPSC_MC_Ch

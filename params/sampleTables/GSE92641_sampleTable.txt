@@ -1,0 +1,7 @@
+Sample	File	Genotype
+Control_1	SRR5122362	Control
+Control_2	SRR5122363	Control
+Control_3	SRR5122364	Control
+Uhrf1KO_1	SRR5122365	Uhrf1KO
+Uhrf1KO_2	SRR5122366	Uhrf1KO
+Uhrf1KO_3	SRR5122367	Uhrf1KO

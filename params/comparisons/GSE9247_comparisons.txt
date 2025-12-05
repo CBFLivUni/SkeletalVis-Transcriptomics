@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	MS-275 treated MC3T3 mice	DMSO treated MC3T3 mice
+source_name_ch1	TSA treated MC3T3 mice	DMSO treated MC3T3 mice
+source_name_ch1	VPA treated MC3T3 mice	DMSO treated MC3T3 mice

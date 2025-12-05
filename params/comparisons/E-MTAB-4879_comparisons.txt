@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Treatment	osteocyte_old	osteocyte_young
+Treatment	chondrocyte_old	chondrocyte_young
+Treatment	tendon_old	tendon_young
+Treatment	msc_old	msc_young

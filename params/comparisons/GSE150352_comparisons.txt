@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Factor	control_midshaft	control_end
+Factor	H3.3K36M_midshaft	H3.3K36M_end
+Factor	H3.3K36M_midshaft	control_midshaft
+Factor	H3.3K36M_end	control_end

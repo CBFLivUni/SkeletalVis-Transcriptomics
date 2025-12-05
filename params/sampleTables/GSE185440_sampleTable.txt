@@ -1,0 +1,7 @@
+Sample	File	treatment
+transfected.with.Gapmer.Hotair_1	SRR16219833	transfected with Gapmer Hotair
+transfected.with.Gapmer.control_1	SRR16219832	transfected with Gapmer control
+transfected.with.Gapmer.Hotair_2	SRR16219831	transfected with Gapmer Hotair
+transfected.with.Gapmer.control_2	SRR16219830	transfected with Gapmer control
+transfected.with.Gapmer.Hotair_3	SRR16219829	transfected with Gapmer Hotair
+transfected.with.Gapmer.control_3	SRR16219828	transfected with Gapmer control

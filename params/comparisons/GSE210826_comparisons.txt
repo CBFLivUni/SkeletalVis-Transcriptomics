@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+treatment	48hr HU308	untreated
+treatment	4hr HU308	untreated

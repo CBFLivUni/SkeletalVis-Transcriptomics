@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	Articular Chondrocytes 12w MLIII	Articular Chondrocytes 12w WT

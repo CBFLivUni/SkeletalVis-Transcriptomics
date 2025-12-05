@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Hybridization.Name	chondrocyte	iliac
+Hybridization.Name	osteoblast	iliac
+Hybridization.Name	fibroblast	iliac
+Hybridization.Name	adipocyte	iliac

@@ -1,0 +1,8 @@
+Factor	Numerator	Denominator
+title	Murine knee joint_Operated (DMM)_6hr	Murine knee joint_Operated (Sham)_6hr
+title	Murine knee joint_Operated (DMM)_7days	Murine knee joint_Operated (Sham)_7days
+title	Murine knee joint_Operated (DMM)_3day	Murine knee joint_Operated (Sham)_3day
+title	Murine knee joint_Operated (DMM)_6hr	Murine knee joint_Naive_0hr
+title	Murine knee joint_Operated (DMM)_3day	Murine knee joint_Naive_0hr
+title	Murine knee joint_Operated (DMM)_7days	Murine knee joint_Naive_0hr
+title	Murine knee joint_Operated (Sham)_7days	Murine knee joint_Naive_0hr

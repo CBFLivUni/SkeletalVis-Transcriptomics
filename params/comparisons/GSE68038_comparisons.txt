@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+tissue	cartilage from knee (tibial plateau)	cartilage from proximal interphalangeal joint (PIP)

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+source_name_ch1	Mc3T3 cells_treated with AA_5 days	Mc3T3_untreated_5 days

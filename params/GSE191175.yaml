@@ -1,0 +1,11 @@
+Type: RNAseq
+accessionNumber: GSE191175
+site: ENA
+species: Pig
+foldChangeOnly: 'FALSE'
+ENA: PRJNA789924
+stranded: false
+batchCorrect: 'FALSE'
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'
+single: true

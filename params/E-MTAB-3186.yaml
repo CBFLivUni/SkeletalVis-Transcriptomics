@@ -1,0 +1,11 @@
+Type: RNASeq
+ENA: PRJEB8085
+accessionNumber: E-MTAB-3186
+batchCorrect: 'TRUE'
+foldChangeOnly: 'FALSE'
+single: false
+site: ENA
+species: Pig
+stranded: false
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'

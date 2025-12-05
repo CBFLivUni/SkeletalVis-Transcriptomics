@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Comment..Sample_source_name.	SZ	MZ
+Comment..Sample_source_name.	SZ	DZ
+Comment..Sample_source_name.	MZ	DZ

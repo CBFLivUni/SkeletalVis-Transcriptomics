@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	X100.ng.ml.rGDF11	Vehicle.control

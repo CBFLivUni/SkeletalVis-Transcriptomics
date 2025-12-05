@@ -7,8 +7,8 @@ process RNASeqDiffExp {
    path txiData
 
    output:
-   path "foldChangeTable.txt"
-
+   path "foldChangeTable.txt" , emit: diffTables
+   path "sampleSizes.txt"	
 
    script:
    """

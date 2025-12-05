@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Factor.Value..clinical.information.	contralateral osteoarthritis induction	ipsilateral osteoarthritic induction
+Factor.Value..clinical.information.	contralateral osteoarthritis induction	sham surgery
+Factor.Value..clinical.information.	ipsilateral osteoarthritic induction	sham surgery

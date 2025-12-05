@@ -1,0 +1,6 @@
+Sample	File	treatment
+Growth.medium_1	SRR18556140	Growth_medium
+Growth.medium_2	SRR18556139	Growth_medium
+Hypertrophic.medium_1	SRR18556138	Hypertrophic_medium
+Hypertrophic.medium_2	SRR18556137	Hypertrophic_medium
+Hypertrophic.medium_3	SRR18556136	Hypertrophic_medium

@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+characteristics_ch1	cell type: stable transfected with MET oncogene	cell type: osteoblasts
+characteristics_ch1	cell type: stable transfected with wt and DominatNegative MET oncogene	cell type: osteoblasts

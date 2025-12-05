@@ -1,0 +1,3 @@
+Sample	File	treatment
+control_1	SRR20962860	control
+Recombinant.Sparcl1.protein_1	SRR20962859	Recombinant Sparcl1 protein

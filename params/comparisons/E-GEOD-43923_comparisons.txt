@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+FactorValue..ORGANISM.PART.	osteophytic cartilage	articular cartilage

@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+title	p62_wild_type	p62_empty_vector
+title	p62_P392L	p62_wild_type

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	osteoblast Slc39a13 knockout	osteoblast wild type

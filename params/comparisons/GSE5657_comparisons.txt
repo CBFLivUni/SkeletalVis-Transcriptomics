@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+title	Hyp male	Normal male
+title	Hyp female	Normal female

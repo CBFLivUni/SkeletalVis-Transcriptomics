@@ -1,0 +1,11 @@
+Type: RNASeq
+ENA: PRJNA454873
+accessionNumber: GSE112415
+batchCorrect: 'TRUE'
+foldChangeOnly: 'FALSE'
+single: 'TRUE'
+site: ENA
+species: Horse
+stranded: 'FALSE'
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'

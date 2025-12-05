@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	shGpx4	shNC

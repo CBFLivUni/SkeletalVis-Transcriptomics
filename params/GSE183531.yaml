@@ -1,0 +1,12 @@
+accessionNumber: GSE183531
+Type: Microarray
+site: GEO
+platform: Affy
+annotationFile: primeview.db
+species: Human
+foldChangeOnly: 'FALSE'
+split: 'TRUE'
+splitField: title
+splitSep: _
+splitPos: 1,3
+newColumns: "patient,condition"

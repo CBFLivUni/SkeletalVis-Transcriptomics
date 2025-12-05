@@ -1,0 +1,7 @@
+Sample	File	genotype
+control_1	SRR14803699	control
+control_2	SRR14803700	control
+control_3	SRR14803701	control
+Eldr.cKO_1	SRR14803702	Eldr_cKO
+Eldr.cKO_2	SRR14803703	Eldr_cKO
+Eldr.cKO_3	SRR14803704	Eldr_cKO

@@ -1,0 +1,7 @@
+Sample	File	genotype
+Wnt7b.overexpression_1	SRR7472323	Wnt7b overexpression
+Wnt7b.overexpression_2	SRR7472324	Wnt7b overexpression
+Wnt7b.overexpression_3	SRR7472325	Wnt7b overexpression
+control_1	SRR7472326	control
+control_2	SRR7472327	control
+control_3	SRR7472328	control

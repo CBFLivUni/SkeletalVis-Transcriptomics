@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+Condition	NU7441	DMSO

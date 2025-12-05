@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	Sirt6 cKO	wild type

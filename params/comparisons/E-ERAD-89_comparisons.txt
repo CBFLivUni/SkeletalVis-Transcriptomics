@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Treatment	MELATONIN_6	DMSO_6
+Treatment	MELATONIN_24	DMSO_24
+Treatment	SEROTONIN_24	DMSO_24
+Treatment	MELATONIN_48	DMSO_48

@@ -1,0 +1,8 @@
+Type: Microarray
+accessionNumber: GSE174323
+site: GEO
+platform: 1C-Agilent
+annotationFile: AgilentMouse074809.db
+species: Mouse
+foldChangeOnly: 'TRUE'
+numberFileRemove: '1'

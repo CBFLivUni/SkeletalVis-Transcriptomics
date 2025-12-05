@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+treatment	CTGF_TGF treatment	Control
+treatment	Docetaxel treatment	Control

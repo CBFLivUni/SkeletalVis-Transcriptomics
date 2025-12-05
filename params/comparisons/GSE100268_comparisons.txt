@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+Genotype	HPIP_KO	Control

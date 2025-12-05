@@ -1,0 +1,13 @@
+Sample	File	title
+Sox9fl.fl.AC.7days..Articular.cartilage._1	SRR12214766|SRR12214767	Sox9fl_flAC7days__Articular_cartilage
+Sox9fl.fl.GP.7days..Growth.plate.cartilage._1	SRR12214768|SRR12214769	Sox9fl_flGP7days__Growth_plate_cartilage
+Sox9fl.flAcanCreER.AC.7days..Articular.cartilage._1	SRR12214770|SRR12214771	Sox9fl_flAcanCreERAC7days__Articular_cartilage
+Sox9fl.flAcanCreER.GP.7days..Growth.plate.cartilage._1	SRR12214772|SRR12214773	Sox9fl_flAcanCreERGP7days__Growth_plate_cartilage
+Sox9fl.fl.AC.14days..Articular.cartilage._1	SRR12214774|SRR12214775	Sox9fl_flAC14days__Articular_cartilage
+Sox9fl.fl.GP.14days..Growth.plate.cartilage._1	SRR12214776|SRR12214777	Sox9fl_flGP14days__Growth_plate_cartilage
+Sox9fl.flAcanCreER.AC.14days..Articular.cartilage._1	SRR12214778|SRR12214779	Sox9fl_flAcanCreERAC14days__Articular_cartilage
+Sox9fl.flAcanCreER.GP.14days..Growth.plate.cartilage._1	SRR12214780|SRR12214781	Sox9fl_flAcanCreERGP14days__Growth_plate_cartilage
+Sox8fl.flSox9fl.fl.AC.14days..Articular.cartilage._1	SRR12214782|SRR12214783	Sox8fl_flSox9fl_flAC14days__Articular_cartilage
+Sox8fl.flSox9fl.fl.GP.14days..Growth.plate.cartilage._1	SRR12214784|SRR12214785	Sox8fl_flSox9fl_flGP14days__Growth_plate_cartilage
+Sox8fl.flSox9fl.flAcanCreER.AC.14days..Articular.cartilage._1	SRR12214786|SRR12214787	Sox8fl_flSox9fl_flAcanCreERAC14days__Articular_cartilage
+Sox8fl.flSox9fl.flAcanCreER.GP.14days..Growth.plate.cartilage._1	SRR12214788|SRR12214789	Sox8fl_flSox9fl_flAcanCreERGP14days__Growth_plate_cartilage

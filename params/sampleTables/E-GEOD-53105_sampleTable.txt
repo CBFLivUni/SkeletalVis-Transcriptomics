@@ -1,0 +1,13 @@
+Sample	File	Genotype
+diaphysis_WT_1	SRR1044980	diaphysis_WT
+diaphysis_WT_2	SRR1044979	diaphysis_WT
+diaphysis_KO_1	SRR1044978	diaphysis_KO
+diaphysis_KO_2	SRR1044977	diaphysis_KO
+diaphysis_KO_3	SRR1044976	diaphysis_KO
+diaphysis_WT_3	SRR1044975	diaphysis_WT
+metaphysis_KO_1	SRR1044974	metaphysis_KO
+metaphysis_KO_2	SRR1044973	metaphysis_KO
+metaphysis_WT_1	SRR1044972	metaphysis_WT
+metaphysis_KO_3	SRR1044971	metaphysis_KO
+metaphysis_WT_2	SRR1044970	metaphysis_WT
+metaphysis_WT_3	SRR1044969	metaphysis_WT

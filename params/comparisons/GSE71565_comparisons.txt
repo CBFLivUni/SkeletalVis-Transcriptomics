@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	differentiated for 12 days	differentiated for 5 days

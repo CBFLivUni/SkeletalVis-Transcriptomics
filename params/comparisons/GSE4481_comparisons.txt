@@ -1,0 +1,4 @@
+Factor1	Factor2	Numerator	Denominator
+title	treatment_protocol_ch1	R/P.CNP at 10exp(-6) M	R/P.vehicle: BSA/HCL 1.0 Mm
+title	treatment_protocol_ch1	H.CNP at 10exp(-6) M	H.vehicle: BSA/HCL 1.0 Mm
+title	treatment_protocol_ch1	M.CNP at 10exp(-6) M	M.vehicle: BSA/HCL 1.0 Mm

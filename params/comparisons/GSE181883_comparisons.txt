@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Factor	Creb5_TGFalpha_and_TGFβ2	Scramble_shRNA_TGFalpha_and_TGFβ2
+Factor	Scramble_shRNA_TGFalpha_and_TGFβ2	Scramble_shRNA_TGFalpha
+Factor	Creb5_TGFalpha	Scramble_shRNA_TGFalpha

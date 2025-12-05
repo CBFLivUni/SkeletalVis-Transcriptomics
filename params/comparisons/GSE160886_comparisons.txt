@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	Chondrogenic progenitor cell culture	Mesenchymal stem cell culture

@@ -1,0 +1,13 @@
+Sample	File	Factor
+STATIC_original.cells_1	SRR10969104	STATIC_original cells
+STATIC_original.cells_2	SRR10969105	STATIC_original cells
+STATIC_original.cells_3	SRR10969106	STATIC_original cells
+STATIC_HDAC4.and.HDAC5.deletion.cells_1	SRR10969107	STATIC_HDAC4 and HDAC5 deletion cells
+STATIC_HDAC4.and.HDAC5.deletion.cells_2	SRR10969108	STATIC_HDAC4 and HDAC5 deletion cells
+STATIC_HDAC4.and.HDAC5.deletion.cells_3	SRR10969109	STATIC_HDAC4 and HDAC5 deletion cells
+Fluid.Flow.Shear.Stress..FFSS._original.cells_1	SRR10969110	Fluid Flow Shear Stress (FFSS)_original cells
+Fluid.Flow.Shear.Stress..FFSS._original.cells_2	SRR10969111	Fluid Flow Shear Stress (FFSS)_original cells
+Fluid.Flow.Shear.Stress..FFSS._original.cells_3	SRR10969112	Fluid Flow Shear Stress (FFSS)_original cells
+Fluid.Flow.Shear.Stress..FFSS._HDAC4.and.HDAC5.deletion.cells_1	SRR10969113	Fluid Flow Shear Stress (FFSS)_HDAC4 and HDAC5 deletion cells
+Fluid.Flow.Shear.Stress..FFSS._HDAC4.and.HDAC5.deletion.cells_2	SRR10969114	Fluid Flow Shear Stress (FFSS)_HDAC4 and HDAC5 deletion cells
+Fluid.Flow.Shear.Stress..FFSS._HDAC4.and.HDAC5.deletion.cells_3	SRR10969115	Fluid Flow Shear Stress (FFSS)_HDAC4 and HDAC5 deletion cells

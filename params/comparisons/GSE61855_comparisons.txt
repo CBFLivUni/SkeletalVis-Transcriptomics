@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	ATDC5 day 15 Tet1	ATDC5 day 15 NT

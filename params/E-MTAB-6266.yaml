@@ -1,0 +1,11 @@
+Type: RNASeq
+accessionNumber: E-MTAB-6266
+site: ENA
+species: Human
+foldChangeOnly: 'FALSE'
+ENA: ERP105501
+stranded: true
+batchCorrect: 'FALSE'
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'
+single: false

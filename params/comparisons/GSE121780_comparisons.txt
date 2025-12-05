@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Factor	Apert syndrome_mandibular bone	control_mandibular bone
+Factor	Apert syndrome_Meckel's cartilage	control_Meckel's cartilage
+Factor	Apert syndrome_mandibular condylar cartilage	control_mandibular condylar cartilage

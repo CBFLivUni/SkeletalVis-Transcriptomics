@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+treatment	ovariectomized	sham surgery
+treatment	ovariectomized mice with treadmill training	ovariectomized
+treatment	ovariectomized mice with treadmill training	sham surgery

@@ -1,0 +1,9 @@
+Sample	File	description
+normal.Lef1.levels..WT._1	SRR18689871	normal_Lef1_levels
+normal.Lef1.levels..WT._2	SRR18689870	normal_Lef1_levels
+normal.Lef1.levels..WT._3	SRR18689869	normal_Lef1_levels
+ablated.Lef1.levels..TG._1	SRR18689868	ablated_Lef1_levels
+ablated.Lef1.levels..TG._2	SRR18689867	ablated_Lef1_levels
+ablated.Lef1.levels..TG._3	SRR18689866	ablated_Lef1_levels
+ablated.Sirt1.levels..TG._1	SRR18689865	ablated_Sirt1_levels
+ablated.Sirt1.levels..TG._2	SRR18689864	ablated_Sirt1_levels

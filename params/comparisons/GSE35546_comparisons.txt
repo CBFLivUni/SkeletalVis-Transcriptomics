@@ -1,0 +1,7 @@
+Factor	Numerator	Denominator
+source_name_ch1	Kartogenin_1nM_6h	DMSO
+source_name_ch1	Kartogenin_10nM_6h	DMSO
+source_name_ch1	Kartogenin_100nM_6h	DMSO
+source_name_ch1	Kartogenin_1nM_24h	DMSO
+source_name_ch1	Kartogenin_10nM_24h	DMSO
+source_name_ch1	Kartogenin_100nM_24h	DMSO

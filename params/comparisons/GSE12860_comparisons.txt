@@ -1,0 +1,9 @@
+Factor	Numerator	Denominator
+title	RASF stimulated chondrocytes	NDSF stimulated chondrocytes
+title	Chondrocytes stimulated with prednisolone (solu-decortin) treated RASF	NDSF stimulated chondrocytes
+title	Chondrocytes stimulated with prioxicam treated RASF	NDSF stimulated chondrocytes
+title	Chondrocytes stimulated with azathioprine (imurek) treated RASF	NDSF stimulated chondrocytes
+title	Chondrocytes stimulated with diclofenac treated RASF	NDSF stimulated chondrocytes
+title	Chondrocytes stimulated with methylprednisolone (urbason) treated RASF	NDSF stimulated chondrocytes
+title	Chondrocytes stimulated with sodium aurothiomalate (tauredon) treated RASF	NDSF stimulated chondrocytes
+title	Chondrocytes stimulated with chloroquine phosphate (resochin) treated RASF	NDSF stimulated chondrocytes

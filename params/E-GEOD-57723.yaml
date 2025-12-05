@@ -1,0 +1,11 @@
+Type: RNASeq
+ENA: PRJNA247937
+accessionNumber: E-GEOD-57723
+batchCorrect: 'FALSE'
+foldChangeOnly: 'TRUE'
+single: 'FALSE'
+site: ENA
+species: Human
+stranded: 'FALSE'
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'

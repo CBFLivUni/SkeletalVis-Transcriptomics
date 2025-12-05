@@ -25,14 +25,14 @@ process kallistoQuant {
   if (params.single) {
      '''
      mkdir !{sampleId}
-     kallisto quant --plaintext -i !{index} --single -l 200 -s 20 -t 4 -o !{sampleId} $(echo !{reads}|tr " " "\n"|sort|tr "\n" " ") &>  !{sampleId}/!{sampleId}_kallisto.log
+     kallisto quant --plaintext -i !{index} --single -l 200 -s 20 -t 12 -o !{sampleId} $(echo !{reads}|tr " " "\n"|sort|tr "\n" " ") &>  !{sampleId}/!{sampleId}_kallisto.log
      mv !{sampleId}/abundance.tsv !{sampleId}/!{sampleId}.abundances
 
      '''
      } else {
        '''
        mkdir !{sampleId}
-       kallisto quant --plaintext -i !{index} !{stranded} -t 4 -o !{sampleId} $(echo !{reads}|tr " " "\n"|sort|tr "\n" " ") &> !{sampleId}/!{sampleId}_kallisto.log
+       kallisto quant --plaintext -i !{index} !{stranded} -t 12 -o !{sampleId} $(echo !{reads}|tr " " "\n"|sort|tr "\n" " ") &> !{sampleId}/!{sampleId}_kallisto.log
        mv !{sampleId}/abundance.tsv !{sampleId}/!{sampleId}.abundances
        '''
     }

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	treated with IL-17A _4h	non-treated control_4h

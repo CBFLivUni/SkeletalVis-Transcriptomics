@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	ANP32A KO	Wild.type

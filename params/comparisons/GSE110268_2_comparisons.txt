@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Factor	YAP KO_ESC	WT_ESC
+Factor	TAZ KO_ESC	WT_ESC
+Factor	TAZ KO_MSC	WT_MSC
+Factor	YAP KO_MSC	WT_ESC

@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Genotype	Zfp384KO_3Day	WT_3Days
+Genotype	Zfp384KO_7Day	WT_7Days
+Genotype	WT_7Days	WT_3Days
+Genotype	Zfp384KO_7Day	Zfp384KO_3Day

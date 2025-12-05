@@ -1,0 +1,13 @@
+Sample	File	Factor
+Vehicle_day.1_1	SRR10003689	Vehicle_day 1
+X10ng_per_ml_BMP2_day.1_1	SRR10003690	X10ng_per_ml_BMP2_day 1
+X50ng_per_ml_BMP2_day.1_1	SRR10003691	X50ng_per_ml_BMP2_day 1
+X5microM_GSK126_day.1_1	SRR10003692	X5microM_GSK126_day 1
+X10ng_per_ml_BMP2_._5microM_GSK126_day.1_1	SRR10003693	X10ng_per_ml_BMP2__5microM_GSK126_day 1
+X50ng_per_ml_BMP2_._5microM_GSK126_day.1_1	SRR10003694	X50ng_per_ml_BMP2__5microM_GSK126_day 1
+Vehicle_day.6_1	SRR10003695	Vehicle_day 6
+X10ng_per_ml_BMP2_day.6_1	SRR10003696	X10ng_per_ml_BMP2_day 6
+X50ng_per_ml_BMP2_day.6_1	SRR10003697	X50ng_per_ml_BMP2_day 6
+X5microM_GSK126_day.6_1	SRR10003698	X5microM_GSK126_day 6
+X10ng_per_ml_BMP2_._5microM_GSK126_day.6_1	SRR10003699	X10ng_per_ml_BMP2__5microM_GSK126_day 6
+X50ng_per_ml_BMP2_._5microM_GSK126_day.6_1	SRR10003700	X50ng_per_ml_BMP2__5microM_GSK126_day 6

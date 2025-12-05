@@ -1,0 +1,7 @@
+Sample	File	title
+Cartilage...Ossification..45.day.1_1	SRR21315244	Day45
+Cartilage...Ossification..45.day.2_1	SRR21315243	Day45
+Cartilage...Ossification..45.day.3_1	SRR21315242	Day45
+Cartilage...Ossification..85.day.1_1	SRR21315241	Day85
+Cartilage...Ossification..85.day.2_1	SRR21315240	Day85
+Cartilage...Ossification..85.day.3_1	SRR21315239	Day85

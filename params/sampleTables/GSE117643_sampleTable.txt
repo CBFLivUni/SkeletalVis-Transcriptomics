@@ -1,0 +1,7 @@
+Sample	File	cell.type
+Wild.type.mice_1	SRR7591307	WT
+Wild.type.mice_2	SRR7591308	WT
+Wild.type.mice_3	SRR7591309	WT
+Irx5.knockout.mice_1	SRR7591310	Irx5KO
+Irx5.knockout.mice_2	SRR7591311	Irx5KO
+Irx5.knockout.mice_3	SRR7591312	Irx5KO

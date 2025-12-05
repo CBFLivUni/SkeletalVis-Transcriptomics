@@ -1,0 +1,3 @@
+Factor1	Factor2	Numerator	Denominator
+tissue	status.of.osteochondrosis.disoder	cartilage tissue from the condylus medialis femoris.affected	cartilage tissue from the condylus medialis femoris.non-affected
+tissue	status.of.osteochondrosis.disoder	cartilage tissue from the medial part of condylus humeri.affected	cartilage tissue from the medial part of condylus humeri.non-affected

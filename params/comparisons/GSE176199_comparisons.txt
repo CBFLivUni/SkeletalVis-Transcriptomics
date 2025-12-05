@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+cell.type	senescent_mesenchymal_stromal_cells	mesenchymal_stromal_cells

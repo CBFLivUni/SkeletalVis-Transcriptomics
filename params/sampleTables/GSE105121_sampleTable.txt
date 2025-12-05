@@ -1,0 +1,7 @@
+Sample	File	characteristics_ch1
+genotype..TET1WT..._1	SRR6187432	TET1WT
+genotype..TET1WT..._2	SRR6187433	TET1WT
+genotype..TET1WT..._3	SRR6187434	TET1WT
+genotype..TET1KO..._1	SRR6187435	TET1KO
+genotype..TET1KO..._2	SRR6187436	TET1KO
+genotype..TET1KO..._3	SRR6187437	TET1KO

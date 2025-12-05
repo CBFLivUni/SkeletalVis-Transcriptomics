@@ -1,0 +1,7 @@
+Sample	File	phenotype
+Control_1	SRR21521670	Control
+Control_2	SRR21521665	Control
+Control_3	SRR21521664	Control
+Inflamed_1	SRR21521663	Inflamed
+Inflamed_2	SRR21521662	Inflamed
+Inflamed_3	SRR21521661	Inflamed

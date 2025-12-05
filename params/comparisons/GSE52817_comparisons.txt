@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+cell.type	dOB (osteoblasts)	gingival fibroblasts
+cell.type	dOB (osteoblasts)	osteoblasts (OB)
+cell.type	dOB (osteoblasts)	mesenchymal stem cells (MSC)
+cell.type	osteoblasts (OB)	gingival fibroblasts

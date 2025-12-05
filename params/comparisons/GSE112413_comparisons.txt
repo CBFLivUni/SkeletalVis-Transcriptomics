@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+Genotype	Mutant_Skull	WT_Skull
+Genotype	WT_Cranial_Base	WT_Skull

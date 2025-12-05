@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	Flcn targeted siRNA transfected	scramble siRNA transfected

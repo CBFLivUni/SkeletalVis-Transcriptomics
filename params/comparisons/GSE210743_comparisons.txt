@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	Recombinant Sparcl1 protein	control

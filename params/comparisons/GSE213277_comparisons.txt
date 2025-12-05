@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	CTR9 Knockdown	Control Knockdown

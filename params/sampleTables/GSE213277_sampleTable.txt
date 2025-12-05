@@ -1,0 +1,10 @@
+Sample	File	genotype
+Control.Knockdown_1	SRR21553611	Control Knockdown
+Control.Knockdown_2	SRR21553610	Control Knockdown
+Control.Knockdown_3	SRR21553609	Control Knockdown
+CTR9.Knockdown_1	SRR21553608	CTR9 Knockdown
+CTR9.Knockdown_2	SRR21553607	CTR9 Knockdown
+CTR9.Knockdown_3	SRR21553606	CTR9 Knockdown
+CTR9.Knockdown_4	SRR21553605	CTR9 Knockdown
+CTR9.Knockdown_5	SRR21553604	CTR9 Knockdown
+CTR9.Knockdown_6	SRR21553603	CTR9 Knockdown

@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+Hybridization.Name	NDSF stimulated chondrocytes	unstimulated chondrocytes
+Hybridization.Name	RASF stimulated chondrocytes	unstimulated chondrocytes

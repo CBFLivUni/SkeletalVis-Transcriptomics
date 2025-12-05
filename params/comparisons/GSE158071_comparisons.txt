@@ -1,0 +1,7 @@
+Factor	Numerator	Denominator
+treatment	Irradiation 3Gy 1h	Control 1h
+treatment	Irradiation 2Gy 1h	Control 1h
+treatment	Irradiation 1Gy 1h	Control 1h
+treatment	Irradiation 3Gy 24h	Control 24h
+treatment	Irradiation 2Gy 24h	Control 24h
+treatment	Irradiation 1Gy 24h	Control 24h

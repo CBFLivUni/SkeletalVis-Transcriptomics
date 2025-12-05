@@ -1,0 +1,3 @@
+Sample	File	treatment
+untreated_1	SRR16694272	untreated
+IL.1β.treated_1	SRR16694273	IL1_treated

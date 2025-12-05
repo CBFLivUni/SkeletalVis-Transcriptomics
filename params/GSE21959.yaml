@@ -1,0 +1,14 @@
+Type: Microarray
+accessionNumber: GSE21959
+annotationFile: hgug4112a.db
+foldChangeOnly: 'FALSE'
+grepExpression: 'FALSE'
+grepString: ''
+numberFileRemove: '1'
+numberLinesSkip: '0'
+offset: '0'
+platform: 1C-Agilent
+remove: 'FALSE'
+removeSample: ''
+site: GEO
+species: Human

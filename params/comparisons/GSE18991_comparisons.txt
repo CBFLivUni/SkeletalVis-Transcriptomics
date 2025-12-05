@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genome.variation	Hoxd4 transgenic	wild type

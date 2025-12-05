@@ -1,0 +1,5 @@
+Sample	File	genotype
+Runx2_cHet_KO_1	SRR14827233	Runx2_cHet_KO
+Runx2_cHet_KO_2	SRR14827234	Runx2_cHet_KO
+Runx2_cHom_KO_1	SRR14827235	Runx2_cHom_KO
+Runx2_cHom_KO_2	SRR14827236	Runx2_cHom_KO

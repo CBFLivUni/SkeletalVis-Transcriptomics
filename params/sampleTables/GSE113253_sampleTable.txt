@@ -1,0 +1,19 @@
+Sample	File	source_name_ch1
+BM.hMSC.TERT4.osteAdlast.diff.14d_1	SRR7014547	BM-hMSC-TERT4 osteoblast diff 14d
+BM.hMSC.TERT4.osteAdlast.diff.14d_2	SRR7014548|SRR7014549	BM-hMSC-TERT4 osteobdlast diff 14d
+BM.hMSC.TERT4.osteAdlast.diff.14d_3	SRR7014550|SRR7014551	BM-hMSC-TERT4 osteoblast diff 14d
+BM.hMSC.TERT4.osteoblast.diff.7d_1	SRR7014552	BM-hMSC-TERT4 osteoblast diff 7d
+BM.hMSC.TERT4.osteoblast.diff.7d_2	SRR7014553|SRR7014554	BM-hMSC-TERT4 osteoblast diff 7d
+BM.hMSC.TERT4.osteoblast.diff.7d_3	SRR7014555|SRR7014556	BM-hMSC-TERT4 osteoblast diff 7d
+BM.hMSC.TERT4.osteoblast.diff.3d_1	SRR7014557	BM-hMSC-TERT4 osteoblast diff 3d
+BM.hMSC.TERT4.osteoblast.diff.3d_2	SRR7014558|SRR7014559	BM-hMSC-TERT4 osteoblast diff 3d
+BM.hMSC.TERT4.osteoblast.diff.3d_3	SRR7014560|SRR7014561	BM-hMSC-TERT4 osteoblast diff 3d
+BM.hMSC.TERT4.osteoblast.diff.1d_1	SRR7014562	BM-hMSC-TERT4 osteoblast diff 1d
+BM.hMSC.TERT4.osteoblast.diff.1d_2	SRR7014563|SRR7014564|SRR7014565	BM-hMSC-TERT4 osteoblast diff 1d
+BM.hMSC.TERT4.osteoblast.diff.1d_3	SRR7014566|SRR7014567	BM-hMSC-TERT4 osteoblast diff 1d
+BM.hMSC.TERT4.osteoblast.diff.4h_1	SRR7014568	BM-hMSC-TERT4 osteoblast diff 4h
+BM.hMSC.TERT4.osteoblast.diff.4h_2	SRR7014569|SRR7014570	BM-hMSC-TERT4 osteoblast diff 4h
+BM.hMSC.TERT4.osteoblast.diff.4h_3	SRR7014571|SRR7014572	BM-hMSC-TERT4 osteoblast diff 4h
+BM.hMSC.TERT4.osteoblast.undiff_1	SRR7014573	BM-hMSC-TERT4 undifferentiated
+BM.hMSC.TERT4.osteoblast.undiff_2	SRR7014574|SRR7014575	BM-hMSC-TERT4 undifferentiated
+BM.hMSC.TERT4.osteoblast.undiff_3	SRR7014576|SRR7014577	BM-hMSC-TERT4 undifferentiated

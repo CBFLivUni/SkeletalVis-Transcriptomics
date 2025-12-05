@@ -1,0 +1,17 @@
+Sample	File	Factor
+Ctrl_non.loaded.L.side_1	SRR9588949	Ctrl_non-loaded L side
+Ctrl_non.loaded.L.side_2	SRR9588950	Ctrl_non-loaded L side
+Ctrl_non.loaded.L.side_3	SRR9588951	Ctrl_non-loaded L side
+Ctrl_non.loaded.L.side_4	SRR9588952	Ctrl_non-loaded L side
+Ctrl_loaded.R.side_1	SRR9588953	Ctrl_loaded R side
+Ctrl_loaded.R.side_2	SRR9588954	Ctrl_loaded R side
+Ctrl_loaded.R.side_3	SRR9588955	Ctrl_loaded R side
+Ctrl_loaded.R.side_4	SRR9588956	Ctrl_loaded R side
+NT3.Cre._non.loaded.L.side_1	SRR9588957	NT3-Cre+_non-loaded L side
+NT3.Cre._non.loaded.L.side_2	SRR9588958	NT3-Cre+_non-loaded L side
+NT3.Cre._non.loaded.L.side_3	SRR9588959	NT3-Cre+_non-loaded L side
+NT3.Cre._non.loaded.L.side_4	SRR9588960	NT3-Cre+_non-loaded L side
+NT3.Cre._loaded.R.side_1	SRR9588961	NT3-Cre+_loaded R side
+NT3.Cre._loaded.R.side_2	SRR9588962	NT3-Cre+_loaded R side
+NT3.Cre._loaded.R.side_3	SRR9588963	NT3-Cre+_loaded R side
+NT3.Cre._loaded.R.side_4	SRR9588964	NT3-Cre+_loaded R side

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+Factor.Value.cell.type.	CD14-positive macrophage	CD14-positive monocyte

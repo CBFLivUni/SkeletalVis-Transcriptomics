@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+transfected.with	shRNA specific for CHADL	scrambled negative control shRNA

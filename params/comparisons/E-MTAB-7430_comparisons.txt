@@ -1,0 +1,6 @@
+Factor	Numerator	Denominator
+Factor.Value.stimulus.	TNF-alpha (0.6 nanomole per liter)	none
+Factor.Value.stimulus.	recombinant human CCL25 (5 nanomole per liter)	none
+Factor.Value.stimulus.	recombinant human CCL25 (500 nanomole per liter)	none
+Factor.Value.stimulus.	recombinant human CCL25 (5 nanomole per liter); TNF-alpha (0.6 nanomole per liter)	none
+Factor.Value.stimulus.	recombinant human CCL25 (500 nanomole per liter); TNF-alpha (0.6 nanomole per liter)	none

@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+genotype	AhsgHET	AhsgWT
+genotype	AhsgKO	AhsgWT
+genotype	AhsgKO	AhsgHET

@@ -1,0 +1,13 @@
+accessionNumber: GSE198049
+Type: Microarray
+site: GEO
+platform: 1C-Agilent
+annotationFile: AgilentHuman039494.db
+species: Human
+foldChangeOnly: 'FALSE'
+split: 'TRUE'
+splitField: characteristics_ch1.2
+splitSep: CD271pos/
+splitPos: 2
+covariates: "individual"
+covariate_types: "factor"

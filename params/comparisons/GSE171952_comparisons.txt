@@ -1,0 +1,7 @@
+Factor	Numerator	Denominator
+Factor	Cartilage_IL_17AF	Cartilage_Control
+Factor	Cartilage_IL_17A	Cartilage_Control
+Factor	Cartilage_IL_17F	Cartilage_Control
+Factor	Synovium_IL_17AF	Synovium_Control
+Factor	Synovium_IL_17A	Synovium_Control
+Factor	Synovium_IL_17F	Synovium_Control

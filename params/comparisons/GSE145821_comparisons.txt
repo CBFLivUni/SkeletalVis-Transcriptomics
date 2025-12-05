@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+title	Mutant mouse at 4wk	Control littermate mouse at 4wk
+title	Mutant mouse at 3wk	Control littermate mouse at 3wk
+title	Mutant mouse at 2wk	Control littermate mouse at 2wk
+title	Mutant mouse at 1wk	Control littermate mouse at 1wk

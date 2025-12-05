@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+treatment	B-Catenin siRNA and 5uM GSK126	non-targeting siRNA and 5uM GSK126
+treatment	non-targeting siRNA and 5uM GSK126	non-targeting siRNA
+treatment	B-Catenin siRNA and 5uM GSK126	non-targeting siRNA

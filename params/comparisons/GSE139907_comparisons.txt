@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+source_name_ch1	induced osteoblast	calvarial progeniter cell
+source_name_ch1	GFP sorted from induced osteoblast	GFP sorted from bone chip

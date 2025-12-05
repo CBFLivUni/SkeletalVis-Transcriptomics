@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	human TNF transgenic and knockout in Rsk2 gene (Rsk2-/y FLS)	human TNF transgenic without knockout (Rsk2+/y FLS)

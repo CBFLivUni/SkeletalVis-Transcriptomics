@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+source_name_ch1	DEX-treated embryonic primary chondrocyte cultures, incubated for 6	DMSO-treated embryonic primary chondrocyte cultures, incubated for 6
+source_name_ch1	DEX-treated embryonic primary chondrocyte cultures, incubated for 24	DMSO-treated embryonic primary chondrocyte cultures, incubated for 24

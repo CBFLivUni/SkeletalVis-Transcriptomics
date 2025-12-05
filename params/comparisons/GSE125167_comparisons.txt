@@ -1,0 +1,8 @@
+Factor	Numerator	Denominator
+Condition	Control_10_days_dif	Control_2_days_dif
+Condition	Control_2_days_dif	NaiveControl
+Condition	PLZF_10_days_diff	PLZF_2_days_diff
+Condition	PLZF_2_days_diff	NaivePLZF
+Condition	PLZF_10_days_diff	Control_10_days_dif
+Condition	PLZF_2_days_diff	Control_2_days_dif
+Condition	NaivePLZF	NaiveControl

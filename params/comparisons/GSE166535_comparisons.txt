@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+culture.surface	cartilage_from_OA_patient	No_substrate
+culture.surface	dentine	No_substrate

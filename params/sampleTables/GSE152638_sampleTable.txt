@@ -1,0 +1,6 @@
+Sample	File	treatment
+X5.nM.Cel.miR.39.3p..control..mimic.for.48.h_1	SRR12030830	control
+X5.nM.hsa.miR.27b.3p.mimic.for.48.h_1	SRR12030831	hsa-miR-27b-3p_mimic
+X5.nM.Cel.miR.39.3p..control..mimic.for.48.h_2	SRR12030832	control
+X5.nM.Cel.miR.39.3p..control..mimic.for.48.h_3	SRR12030834	control
+X5.nM.hsa.miR.27b.3p.mimic.for.48.h_3	SRR12030835	hsa-miR-27b-3p_mimic

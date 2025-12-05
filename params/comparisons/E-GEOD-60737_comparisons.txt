@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+source_name_ch1	ATDC5 overexpressing HES1	ATDC5 overexpressing GFP

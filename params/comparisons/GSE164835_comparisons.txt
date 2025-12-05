@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+treatment	FMK	DMSO
+treatment	OPH	DMSO

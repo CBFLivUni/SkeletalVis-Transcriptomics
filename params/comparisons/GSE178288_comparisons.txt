@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	Runx2_cHom_KO	Runx2_cHet_KO

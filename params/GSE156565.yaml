@@ -1,0 +1,11 @@
+Type: Microarray
+accessionNumber: GSE156565
+site: GEO
+platform: Affy-ST
+annotationFile: hugene20sttranscriptcluster.db
+species: Human
+foldChangeOnly: 'FALSE'
+split: 'TRUE'
+splitField: source_name_ch1
+splitSep: SW1353 cells transfected with
+splitPos: 2

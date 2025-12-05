@@ -1,0 +1,11 @@
+Type: Microarray
+accessionNumber: GSE141743
+site: GEO
+platform: 1C-Agilent
+annotationFile: AgilentMouse028005.db
+species: Mouse
+foldChangeOnly: 'FALSE'
+split: 'TRUE'
+splitField: characteristics_ch1.1
+splitSep: 'genotype/variation: '
+splitPos: 2

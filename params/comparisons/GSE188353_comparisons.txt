@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	STAT3_shRNA_lentiviral_particles	scrambled_lentiviral_particles

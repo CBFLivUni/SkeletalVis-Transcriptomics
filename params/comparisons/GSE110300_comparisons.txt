@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Genotype	WT_Plb	WT_E2
+Genotype	KO_Plb	WT_Plb
+Genotype	KO_E2	WT_E2

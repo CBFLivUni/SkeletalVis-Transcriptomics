@@ -1,0 +1,10 @@
+Sample	File	treatment
+Non.surgery_1	SRR8454622	Non surgery
+Non.surgery_2	SRR8454623	Non surgery
+Non.surgery_3	SRR8454624	Non surgery
+Lentiviruses.expressing.Luc_1	SRR8454625	Lentiviruses expressing Luc
+Lentiviruses.expressing.Luc_2	SRR8454626	Lentiviruses expressing Luc
+Lentiviruses.expressing.Luc_3	SRR8454627	Lentiviruses expressing Luc
+Lentiviruses.expressing.CBX4_1	SRR8454628	Lentiviruses expressing CBX4
+Lentiviruses.expressing.CBX4_2	SRR8454629	Lentiviruses expressing CBX4
+Lentiviruses.expressing.CBX4_3	SRR8454630	Lentiviruses expressing CBX4

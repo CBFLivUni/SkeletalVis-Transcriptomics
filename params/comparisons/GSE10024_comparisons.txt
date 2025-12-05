@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+source_name_ch1	NDSF stimulated chondrocytes	unstimulated chondrocytes
+source_name_ch1	RASF stimulated chondrocytes	unstimulated chondrocytes

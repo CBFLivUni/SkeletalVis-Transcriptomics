@@ -1,0 +1,14 @@
+Factor	Numerator	Denominator
+title	X13delChopKO_LHZ	WT_LHZ
+title	X13delChopKO_LHZ	X13del_LHZ
+title	X13del_LHZ	WT_LHZ
+title	X13delChopKO_MHZ	X13del_MHZ
+title	X13delChopKO_pHZ	WT_pHZ
+title	X13delChopKO_pHZ	X13del_pHZ
+title	X13del_pHZ	WT_pHZ
+title	X13delChopKO_PZ	WT_PZ
+title	X13delChopKO_PZ	X13del_PZ
+title	X13del_PZ	WT_PZ
+title	X13delChopKO_UHZ	WT_UHZ
+title	X13delChopKO_UHZ	X13del_UHZ
+title	X13del_UHZ	WT_UHZ

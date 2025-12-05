@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+FactorValue..ORGANISM.PART.	cartilage, superficial zone	cartilage, middle zone
+FactorValue..ORGANISM.PART.	cartilage, deep zone	cartilage, middle zone
+FactorValue..ORGANISM.PART.	cartilage, superficial zone	cartilage, deep zone

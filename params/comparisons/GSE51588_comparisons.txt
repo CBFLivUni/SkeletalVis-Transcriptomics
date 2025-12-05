@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	OA-Subchondral bone from medial tibial	Normal-Subchondral bone from medial tibial
+source_name_ch1	OA-Subchondral bone from lateral tibial	Normal-Subchondral bone from lateral tibial
+source_name_ch1	OA-Subchondral bone from medial tibial	OA-Subchondral bone from lateral tibial

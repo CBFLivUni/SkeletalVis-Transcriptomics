@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Comment..Sample_title.	Murine knee joint_Operated (DMM)_6hr	Murine knee joint_Operated (Sham)_6hr
+Comment..Sample_title.	Murine knee joint_Operated (DMM)_3day	Murine knee joint_Operated (Sham)_3day
+Comment..Sample_title.	Murine knee joint_Operated (DMM)_7days	Murine knee joint_Operated (Sham)_7days

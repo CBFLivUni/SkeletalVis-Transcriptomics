@@ -1,0 +1,10 @@
+Sample	File	Tissue
+Immature_cartilage_1	SRR6666076	Immature_cartilage
+Immature_cartilage_2	SRR6666077	Immature_cartilage
+Immature_cartilage_3	SRR6666078	Immature_cartilage
+Mature_cartilage_1	SRR6666079	Mature_cartilage
+Mature_cartilage_2	SRR6666080	Mature_cartilage
+Mature_cartilage_3	SRR6666081	Mature_cartilage
+Bone_1	SRR6666082	Bone
+Bone_2	SRR6666083	Bone
+Bone_3	SRR6666084	Bone

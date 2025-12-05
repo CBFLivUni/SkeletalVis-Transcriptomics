@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+title	P5 Xbp1 KO	P5 Xbp1 WT
+title	P5 Xbp1 WT Matn3 MUT	P5 Xbp1 KO Matn3 MUT
+title	P5 Xbp1 KO Matn3 MUT	P5 Xbp1 KO
+title	P5 Xbp1 WT Matn3 MUT	P5 Xbp1 WT

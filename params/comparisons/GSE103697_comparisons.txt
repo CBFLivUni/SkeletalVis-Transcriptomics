@@ -1,0 +1,4 @@
+Factor1	Factor2	Numerator	Denominator
+cell.line	treatment	ARP-1.5 ug/ml CRP for 24 hours	ARP-1.Control
+cell.line	treatment	MM.1S.5 ug/ml CRP for 24 hours	MM.1S.Control
+cell.line	treatment	U266.5 ug/ml CRP for 24 hours	U266.Control

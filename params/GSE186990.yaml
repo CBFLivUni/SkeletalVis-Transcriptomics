@@ -1,0 +1,11 @@
+Type: RNAseq
+accessionNumber: GSE186990
+site: ENA
+species: Rat
+foldChangeOnly: 'TRUE'
+ENA: PRJNA777233
+stranded: false
+batchCorrect: 'FALSE'
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'
+single: false

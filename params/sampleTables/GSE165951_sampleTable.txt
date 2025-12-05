@@ -1,0 +1,7 @@
+Sample	File	genotype
+wild.type_1	SRR13606099	wild_type
+wild.type_2	SRR13606100	wild_type
+wild.type_3	SRR13606101	wild_type
+Col2.cre.Foxc1....Foxc2..._1	SRR13606102	Foxc1_2_DKO
+Col2.cre.Foxc1....Foxc2..._2	SRR13606103	Foxc1_2_DKO
+Col2.cre.Foxc1....Foxc2..._3	SRR13606104	Foxc1_2_DKO

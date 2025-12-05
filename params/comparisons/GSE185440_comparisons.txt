@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	transfected with Gapmer Hotair	transfected with Gapmer control

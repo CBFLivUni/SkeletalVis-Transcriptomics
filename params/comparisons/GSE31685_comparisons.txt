@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	Interleukin.1beta.pre.stimulated.and.resveratrol.treated	NK..Interleukin.1beta.pre.stimulated

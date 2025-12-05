@@ -1,0 +1,5 @@
+Sample	File	CellType
+osteoblast	ERR599396	osteoblast
+immature_osteoblast	ERR599394	immature_osteoblast
+osteoprogenitor	ERR599393	osteoprogenitor
+mesenchymal_stem_cell	ERR599386	mesenchymal_stem_cell

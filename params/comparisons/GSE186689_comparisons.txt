@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+title	IL1	Con
+title	IL1_TSA	Con
+title	Con_TSA	Con

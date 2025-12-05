@@ -1,0 +1,3 @@
+Sample	File	disease.state
+normal.control_1	SRR14369462	control
+Animal.model.of.Developmental.Dysplasia.of.the.Hip_1	SRR14369463	Dysplasia

@@ -1,0 +1,1 @@
+Factor	Numerator	DenominatorStatus	Mutated	Wild_type

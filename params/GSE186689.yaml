@@ -1,0 +1,15 @@
+accessionNumber: GSE186689
+Type: Microarray
+site: GEO
+platform: Illumina
+annotationFile: lumiHumanIDMapping
+species: Human
+foldChangeOnly: 'TRUE'
+split: 'TRUE'
+splitField: title
+splitSep: SW_
+splitPos: 2
+grepExpression: 'FALSE'
+grepString: ''
+numberFileRemove: '0'
+numberLinesSkip: '0'

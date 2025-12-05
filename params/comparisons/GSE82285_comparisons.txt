@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+source_name_ch1	WT Osteoblasts from 8 week old mice	WT Osteo-progenitors from 8 week old mice
+source_name_ch1	WT Osteoblasts from 5 week old mice	WT Osteo-progenitors from 5 week old mice
+source_name_ch1	WT Osteo-progenitors from 8 week old mice	WT Osteo-progenitors from 5 week old mice
+source_name_ch1	WT Osteoblasts from 8 week old mice	WT Osteoblasts from 5 week old mice

@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+treatment.group	untreated + IL1	untreated
+treatment.group	neg vehicle control + IL1	untreated
+treatment.group	Lama4 + IL1	untreated

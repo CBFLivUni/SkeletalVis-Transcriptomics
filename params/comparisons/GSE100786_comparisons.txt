@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+source_name_ch1	Bone.marrow.Monocytes.from.RA.patient	Bone.marrow.Monocytes.from.OA.patient
+source_name_ch1	Peripheral.blood.Monocytes.from.RA.patient	Peripheral.blood.Monocytes.from.OA.patient

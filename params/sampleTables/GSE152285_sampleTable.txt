@@ -1,0 +1,3 @@
+Sample	File	title
+Bone.marrow.stroma.WT_1	SRR11997188	Bone_marrow_stroma_WT
+Bone.marrow.stroma.Dll4.E12._1	SRR11997189	Bone_marrow_stroma_Dll4

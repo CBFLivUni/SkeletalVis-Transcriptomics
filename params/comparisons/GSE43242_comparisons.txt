@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+genotype.variation	Osteoblast specific beta-catenin constitutively expressed	wild type
+genotype.variation	Osteoblast specific FoxO1 deleted	wild type

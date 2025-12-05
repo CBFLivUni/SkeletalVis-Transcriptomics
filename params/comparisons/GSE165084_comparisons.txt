@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Factor	KO_Control	WT_Control
+Factor	WT_IL1B	WT_Control
+Factor	KO_IL1B	KO_Control

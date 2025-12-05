@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+developmental.stage	newborn	adult
+developmental.stage	youth	adult
+developmental.stage	early-stage elderly	adult
+developmental.stage	latter-stage elderly	adult

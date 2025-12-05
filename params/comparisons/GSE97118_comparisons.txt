@@ -1,0 +1,8 @@
+Factor	Numerator	Denominator
+Condition	WT_D7	WT_D3
+Condition	WT_D14	WT_D7
+Condition	Ezh2_cKO_D7	Ezh2_cKO_D3
+Condition	Ezh2_cKO_D14	Ezh2_cKO_D7
+Condition	Ezh2_cKO_D7	WT_D7
+Condition	Ezh2_cKO_D14	WT_D14
+Condition	Ezh2_cKO_D3	WT_D3

@@ -1,0 +1,5 @@
+Sample	File	Treatment
+none	SRR1289650	none
+culture_fibroblast	SRR1289651	co-culture with fibroblast
+TNF	SRR1289652	TNF
+TNF_culture_fibroblast	SRR1289653	TNF and co-culture with fibroblast

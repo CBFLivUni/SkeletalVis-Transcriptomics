@@ -1,0 +1,9 @@
+Sample	File	genotype
+WT_1	SRR9888167	WT
+WT_2	SRR9888168	WT
+WT_3	SRR9888169	WT
+WT_4	SRR9888170	WT
+Prx1Cre..Piezo1fl.fl_1	SRR9888171	Piezo1KO
+Prx1Cre..Piezo1fl.fl_2	SRR9888172	Piezo1KO
+Prx1Cre..Piezo1fl.fl_3	SRR9888173	Piezo1KO
+Prx1Cre..Piezo1fl.fl_4	SRR9888174	Piezo1KO

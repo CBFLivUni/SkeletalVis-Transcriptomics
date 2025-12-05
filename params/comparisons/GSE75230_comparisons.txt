@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	OIM treated, grow at 39oC	untreated, grow at 39oC in BM

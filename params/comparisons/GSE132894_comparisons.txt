@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	CRY2-KO	WT

@@ -1,0 +1,3 @@
+Sample	File	title
+hBMSC_0_week_1	SRR6895900	hBMSC_0_week
+hBMSC_2_week_1	SRR6895901	hBMSC_2_week

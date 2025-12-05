@@ -1,0 +1,5 @@
+Factor1	Factor2	Numerator	Denominator
+Factor.Value.organism.part.	Characteristics.injury.	bone marrow.fracture	bone marrow.none
+Factor.Value.organism.part.	Characteristics.injury.	periosteum.fracture	periosteum.none
+Factor.Value.organism.part.	Characteristics.injury.	periosteum.fracture	bone marrow.fracture
+Factor.Value.organism.part.	Characteristics.injury.	periosteum.none	bone marrow.none

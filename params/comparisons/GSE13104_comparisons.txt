@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+characteristics_ch1	c2984, osteosarcoma from p53+/- mouse. Non-treated.	Cell type: mc3T3 mouse osteoblast, non-tumorigenic. Non-treated.
+characteristics_ch1	Osteosarcoma arisen from p53+/- mouse. Non-treated.	Cell type: mc3T3 mouse osteoblast, non-tumorigenic. Non-treated.
+characteristics_ch1	Rhabdomyosarcoma arisen from p53+/- mouse. Non-treated.	Cell type: mc3T3 mouse osteoblast, non-tumorigenic. Non-treated.

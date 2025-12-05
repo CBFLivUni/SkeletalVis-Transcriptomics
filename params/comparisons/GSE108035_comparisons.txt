@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+title	chondrocyte-like cells (ChiPS)	human induced pluripotent stem cells (GPCCi001-A)
+title	chondrocyte-like cells (ChiPS)	chondrocyte cell line:  HC-402-05a
+title	chondrocyte-like cells (ChiPS)	primary articular cartilage chondrocyte cell culture

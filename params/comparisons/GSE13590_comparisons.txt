@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+title	siRNA-140	siRNA-96
+title	antimicroRNA-140	antimicroRNA-449

@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Factor	Ctrl_loaded R side	Ctrl_non-loaded L side
+Factor	NT3-Cre+_non-loaded L side	Ctrl_non-loaded L side
+Factor	NT3-Cre+_loaded R side	Ctrl_loaded R side

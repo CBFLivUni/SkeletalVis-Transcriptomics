@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+source_name_ch1	FACS sorted Dmp1-Cre targeted CAR cells from mouse bone marrow	FACS sorted Dmp1-Cre non-targeted CAR cells from mouse bone marrow

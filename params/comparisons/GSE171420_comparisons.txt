@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	macrophages_activated_by_cartilage_fragments	control

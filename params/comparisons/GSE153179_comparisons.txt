@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+treatment	Ad-shRegnase-1 infected	Ad-null infected
+treatment	Ad-Regnase-1 infected	Ad-null infected

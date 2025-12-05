@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+treatment	Lentiviruses expressing Luc	Non surgery
+treatment	Lentiviruses expressing PC2	Non surgery
+treatment	Lentiviruses expressing PC2	Lentiviruses expressing Luc

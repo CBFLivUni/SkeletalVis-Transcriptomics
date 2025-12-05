@@ -1,0 +1,7 @@
+Type: Microarray
+accessionNumber: GSE168303
+site: GEO
+platform: Illumina
+annotationFile: lumiHumanIDMapping
+species: Human
+foldChangeOnly: 'FALSE'

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+title	24 hrs after the loading	before the loading

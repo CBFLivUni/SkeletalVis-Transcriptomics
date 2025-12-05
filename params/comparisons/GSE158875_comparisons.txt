@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	IL1B_TNF_4hrs	PBS

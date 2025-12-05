@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genome.variation	Hoxc8 transgenic	wild type

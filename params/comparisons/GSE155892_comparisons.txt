@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+title	K9-4H	WT-4H
+title	WT-4H	WT-CTR
+title	K9-4H	K9-CTR
+title	K9-CTR	WT-CTR

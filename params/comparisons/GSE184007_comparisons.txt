@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+developmental.stage	Week_15	Week_8
+developmental.stage	Week_11	Week_8

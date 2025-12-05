@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+agent	Galectin-8	control

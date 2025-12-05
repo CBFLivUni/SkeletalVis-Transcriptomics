@@ -1,0 +1,11 @@
+Type: Microarray
+accessionNumber: GSE127956
+site: GEO
+platform: Affy-ST
+annotationFile: mta10transcriptcluster.db
+species: Mouse
+foldChangeOnly: 'TRUE'
+split: 'TRUE'
+splitField: characteristics_ch1.2
+splitSep: 'genotype: '
+splitPos: 2

@@ -1,0 +1,7 @@
+Sample	File	genotype
+mutant_1	SRR9822584	mutant
+control_1	SRR9822585	control
+control_2	SRR9822586	control
+mutant_2	SRR9822587	mutant
+control_3	SRR9822588	control
+mutant_3	SRR9822589	mutant

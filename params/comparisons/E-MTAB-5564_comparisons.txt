@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+Factor.Value.disease.	osteoarthritis	normal

@@ -1,0 +1,11 @@
+Type: RNASeq
+ENA: PRJNA309183
+accessionNumber: E-GEOD-76988
+batchCorrect: 'FALSE'
+foldChangeOnly: 'TRUE'
+single: false
+site: ENA
+species: Mouse
+stranded: false
+supervised: 'FALSE'
+technicalReplicates: 'FALSE'

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	CRELD2_overexpression	Control

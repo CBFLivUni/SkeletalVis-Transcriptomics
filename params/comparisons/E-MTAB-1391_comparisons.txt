@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Factor.Value.time.	X27	X9
+Factor.Value.time.	X27	X0
+Factor.Value.time.	X9	X0

@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	cocultured_with_BMSCs	cultured_alone

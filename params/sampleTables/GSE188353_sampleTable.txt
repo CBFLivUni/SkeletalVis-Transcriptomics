@@ -1,0 +1,7 @@
+Sample	File	treatment
+STAT3.shRNA.lentiviral.particles_1	SRR16842762	STAT3_shRNA_lentiviral_particles
+STAT3.shRNA.lentiviral.particles_2	SRR16842761	STAT3_shRNA_lentiviral_particles
+STAT3.shRNA.lentiviral.particles_3	SRR16842760	STAT3_shRNA_lentiviral_particles
+scrambled.lentiviral.particles_1	SRR16842759	scrambled_lentiviral_particles
+scrambled.lentiviral.particles_2	SRR16842758	scrambled_lentiviral_particles
+scrambled.lentiviral.particles_3	SRR16842757	scrambled_lentiviral_particles

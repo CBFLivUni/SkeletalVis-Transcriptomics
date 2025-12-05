@@ -1,0 +1,7 @@
+Sample	File	title
+OBs_d10_biological_rep1_1	SRR8333717	OBs_d10_biological
+OBs_d10_biological_rep2_1	SRR8333718	OBs_d10_biological
+OBs_d10_biological_rep3_1	SRR8333719	OBs_d10_biological
+OBs_d14_biological_rep1_1	SRR8333720	OBs_d14_biological
+OBs_d14_biological_rep2_1	SRR8333721	OBs_d14_biological
+OBs_d14_biological_rep3_1	SRR8333722	OBs_d14_biological

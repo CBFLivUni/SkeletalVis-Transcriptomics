@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+phenotype	Scl-tTA::TRE-BCR/ABL	Control

@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+title	Miglustat	Control
+title	D-PDMP	Control
+title	D-PPMP	Control

@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+geneotype	Pax1KO	WT
+geneotype	Pax1HET	WT
+geneotype	Pax1KOPax9KO	WT
+geneotype	Pax1KOPax9HET	WT

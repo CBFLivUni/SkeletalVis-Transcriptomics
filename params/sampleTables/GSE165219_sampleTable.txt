@@ -1,0 +1,7 @@
+Sample	File	genotype.variation
+Transfection.of.adenovirus.expressing.vector.control_1	SRR14054974	control
+Transfection.of.adenovirus.expressing.vector.control_2	SRR14054975	control
+Transfection.of.adenovirus.expressing.vector.control_3	SRR14054976	control
+Transfection.of.adenovirus.expressing.RIP1_1	SRR14054977	RIP1
+Transfection.of.adenovirus.expressing.RIP1_2	SRR14054978	RIP1
+Transfection.of.adenovirus.expressing.RIP1_3	SRR14054979	RIP1

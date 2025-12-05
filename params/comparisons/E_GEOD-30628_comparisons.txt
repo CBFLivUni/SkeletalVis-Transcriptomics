@@ -1,0 +1,2 @@
+"Factor"	"Numerator"	"Denominator"
+"FactorValue..GENOTYPE.VARIATION."	"ColXTgcog"	"wild type"

@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+title	MIA vehicle	contralateral vehicle
+title	MIA inhibitor	MIA vehicle
+title	contralateral inhibitor	contralateral vehicle

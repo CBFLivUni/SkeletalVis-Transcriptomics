@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+title	monolayer chondrocytes from OA	monolayer chondrocytes from normal
+title	3D-cultured chondrocytes from OA	monolayer chondrocytes from OA

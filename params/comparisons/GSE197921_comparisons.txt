@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+treatment	SDF1a_SKHS	DMSO
+treatment	SDF1a_Astragaloside	DMSO
+treatment	SDF1a	DMSO

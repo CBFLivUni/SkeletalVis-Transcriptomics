@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+title	PF sutures of Runx2+/+ at P7	PF sutures of Runx2+/+ at P5
+title	PF sutures of Runx2+/– at P7	PF sutures of Runx2+/+ at P7

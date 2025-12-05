@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Treatment	synovitis	Control
+Treatment	synovitis_with_corticosteroid	Control
+Treatment	synovitis_with_corticosteroid	synovitis

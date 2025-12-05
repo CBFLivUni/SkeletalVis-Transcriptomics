@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	Mir140-null	wild-type control

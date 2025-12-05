@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+source_name_ch1	chondrocytes, Gal-3, 50 µg/ml	chondrocytes, untreated

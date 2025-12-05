@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+Comment..Sample_title.	Chondrocyte_condensation_6wks_LCM	Articular_chondrocytes_17wks
+Comment..Sample_title.	Remaining limb cells_6wks_LCM	Articular_chondrocytes_17wks

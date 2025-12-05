@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+condition	Gal4	Ctrl

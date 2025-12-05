@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+source_name_ch1	subchondral bone,operation,1 week postsurgery	subchondral bone,sham operation,1 week postsurgery
+source_name_ch1	subchondral bone,operation,2 weeks postsurgery	subchondral bone,sham operation,2 weeks postsurgery
+source_name_ch1	subchondral bone,operation,4 weeks postsurgery	subchondral bone,sham operation,4 weeks postsurgery

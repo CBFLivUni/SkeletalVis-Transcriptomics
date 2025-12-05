@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+characteristics_ch1	cell line: H10	cell line: C8

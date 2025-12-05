@@ -1,0 +1,10 @@
+Sample	File	treatment
+non.targeting.siRNA_1	SRR10294211	non-targeting siRNA
+non.targeting.siRNA_2	SRR10294212	non-targeting siRNA
+non.targeting.siRNA_3	SRR10294213	non-targeting siRNA
+non.targeting.siRNA.and.5uM.GSK126_1	SRR10294214	non-targeting siRNA and 5uM GSK126
+non.targeting.siRNA.and.5uM.GSK126_2	SRR10294215	non-targeting siRNA and 5uM GSK126
+non.targeting.siRNA.and.5uM.GSK126_3	SRR10294216	non-targeting siRNA and 5uM GSK126
+B.Catenin.siRNA.and.5uM.GSK126_1	SRR10294217	B-Catenin siRNA and 5uM GSK126
+B.Catenin.siRNA.and.5uM.GSK126_2	SRR10294218	B-Catenin siRNA and 5uM GSK126
+B.Catenin.siRNA.and.5uM.GSK126_3	SRR10294219	B-Catenin siRNA and 5uM GSK126

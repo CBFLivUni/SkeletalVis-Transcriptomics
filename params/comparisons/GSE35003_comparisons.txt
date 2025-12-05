@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype.variation	Ift88-deleted	wild-type

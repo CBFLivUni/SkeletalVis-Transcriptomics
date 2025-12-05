@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+characteristics_ch1.1	CreTW	Cre

@@ -1,0 +1,7 @@
+Sample	File	genotype
+MiR.34a...._1	SRR9640987	MiR34aKO
+MiR.34a...._2	SRR9640988	MiR34aKO
+MiR.34a...._3	SRR9640989	MiR34aKO
+wild.type_1	SRR9640990	wild_type
+wild.type_2	SRR9640991	wild_type
+wild.type_3	SRR9640992	wild_type

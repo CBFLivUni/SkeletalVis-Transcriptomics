@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+FactorValue..PROTOCOL.	microRNA-140 depletion	control

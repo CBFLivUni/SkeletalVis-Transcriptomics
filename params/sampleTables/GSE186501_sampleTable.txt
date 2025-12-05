@@ -1,0 +1,7 @@
+Sample	File	treatment
+untreated_1	SRR16560810	untreated
+untreated_2	SRR16560809	untreated
+untreated_3	SRR16560813	untreated
+high.shear.stress.treatment_1	SRR16560812	high_shear_stress_treatment
+high.shear.stress.treatment_2	SRR16560814	high_shear_stress_treatment
+high.shear.stress.treatment_3	SRR16560811	high_shear_stress_treatment

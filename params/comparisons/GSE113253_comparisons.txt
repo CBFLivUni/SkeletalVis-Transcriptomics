@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+source_name_ch1	BM-hMSC-TERT4 osteoblast diff 7d	BM-hMSC-TERT4 undifferentiated
+source_name_ch1	BM-hMSC-TERT4 osteoblast diff 3d	BM-hMSC-TERT4 undifferentiated
+source_name_ch1	BM-hMSC-TERT4 osteoblast diff 1d	BM-hMSC-TERT4 undifferentiated
+source_name_ch1	BM-hMSC-TERT4 osteoblast diff 4h	BM-hMSC-TERT4 undifferentiated

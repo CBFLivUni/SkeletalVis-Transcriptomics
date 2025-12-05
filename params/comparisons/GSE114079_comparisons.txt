@@ -1,0 +1,5 @@
+Factor	Numerator	Denominator
+Condition	SMAD3KO_E11.5	WT_E11.5
+Condition	SMAD3KO_E12.5	WT_E12.5
+Condition	SMAD3KO_E13.5	WT_E13.5
+Condition	SMAD3KO_E14.5	WT_E14.5

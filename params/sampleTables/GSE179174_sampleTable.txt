@@ -1,0 +1,7 @@
+Sample	File	group
+Tomato_1	SRR14999740	Tomato
+Tomato_2	SRR14999741	Tomato
+Tomato_3	SRR14999742	Tomato
+NonTomato_1	SRR14999743	NonTomato
+NonTomato_2	SRR14999744	NonTomato
+NonTomato_3	SRR14999745	NonTomato

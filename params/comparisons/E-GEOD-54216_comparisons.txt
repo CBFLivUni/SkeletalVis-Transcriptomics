@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+FactorValue..ZONE.	superficial zone	intermediate/deep zone
+FactorValue..ZONE.	superficial zone	resting zone
+FactorValue..ZONE.	intermediate/deep zone	resting zone

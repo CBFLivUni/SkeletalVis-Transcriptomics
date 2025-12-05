@@ -1,0 +1,13 @@
+Sample	File	genotype.variation
+no.treatment_1	SRR7182599	no treatment
+no.treatment_2	SRR7182600	no treatment
+no.treatment_3	SRR7182601	no treatment
+ACLT.and.FOXD1_1	SRR7182602	ACLT and FOXD1
+ACLT.and.FOXD1_2	SRR7182603	ACLT and FOXD1
+ACLT.and.FOXD1_3	SRR7182604	ACLT and FOXD1
+ACLT.and.Luciferase_1	SRR7182605	ACLT and Luciferase
+ACLT.and.Luciferase_2	SRR7182606	ACLT and Luciferase
+ACLT.and.Luciferase_3	SRR7182607	ACLT and Luciferase
+ACLT.and.YAP_1	SRR7182608	ACLT and YAP
+ACLT.and.YAP_2	SRR7182609	ACLT and YAP
+ACLT.and.YAP_3	SRR7182610	ACLT and YAP

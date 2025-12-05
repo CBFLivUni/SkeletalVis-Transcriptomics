@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+Factor.Value.clinical.information.	conventional ostosarcoma tissue	Non-neoplastic primary osteoblast cells with limited live span in vitro
+Factor.Value.clinical.information.	 metastatis tissue	Non-neoplastic primary osteoblast cells with limited live span in vitro

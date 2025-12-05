@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+Genotype	E12.5_Pitx_KO	E12.5WT
+Genotype	E11.5_Pitx_KO	E11.5WT
+Genotype	E9.5_Pitx_KO	E9.5WT

@@ -1,0 +1,7 @@
+Sample	File	tissue
+Embryonic.Cartilage_1	SRR6337815	Embryonic Cartilage
+Embryonic.Cartilage_2	SRR6337816	Embryonic Cartilage
+Embryonic.Cartilage_3	SRR6337817	Embryonic Cartilage
+Adult.Cartilage_1	SRR6337818	Adult Cartilage
+Adult.Cartilage_2	SRR6337819	Adult Cartilage
+Adult.Cartilage_3	SRR6337820	Adult Cartilage

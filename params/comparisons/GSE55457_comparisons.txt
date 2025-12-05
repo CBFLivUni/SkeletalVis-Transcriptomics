@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+clinical.status	rheumatoid arthritis	osteoarthritis
+clinical.status	rheumatoid arthritis	normal control

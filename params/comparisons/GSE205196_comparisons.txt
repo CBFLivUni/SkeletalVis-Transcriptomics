@@ -1,0 +1,3 @@
+Factor	Numerator	Denominator
+treatment	high_frequency_strain	static_control
+treatment	low_frequency_strain	static_control

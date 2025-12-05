@@ -1,0 +1,13 @@
+Sample	File	source_name_ch1
+Mesenchymal.stem.cells.not.subjected.to.TGF.β.induced.chondrogenic.differentiation.replicate.1_1	SRR21009235	Mesenchymal stem cells MSC
+Mesenchymal.stem.cells.not.subjected.to.TGF.β.induced.chondrogenic.differentiation.replicate.2_1	SRR21009234	Mesenchymal stem cells MSC
+Mesenchymal.stem.cells.not.subjected.to.TGF.β.induced.chondrogenic.differentiation.replicate.3_1	SRR21009233	Mesenchymal stem cells MSC
+Mesenchymal.stem.cells.subjected.to.TGF.β.induced.micromass.chondrogenic.differentiation.for.7.days.replicate.1_1	SRR21009232	Day7_Diff
+Mesenchymal.stem.cells.subjected.to.TGF.β.induced.micromass.chondrogenic.differentiation.for.7.days.replicate.2_1	SRR21009231	Day7_Diff
+Mesenchymal.stem.cells.subjected.to.TGF.β.induced.micromass.chondrogenic.differentiation.for.7.days.replicate.3_1	SRR21009230	Day7_Diff
+Mesenchymal.stem.cells.subjected.to.TGF.β.induced.micromass.chondrogenic.differentiation.for.14.days.replicate.1_1	SRR21009229	Day14_Diff
+Mesenchymal.stem.cells.subjected.to.TGF.β.induced.micromass.chondrogenic.differentiation.for.14.days.replicate.2_1	SRR21009228	Day14_Diff
+Mesenchymal.stem.cells.subjected.to.TGF.β.induced.micromass.chondrogenic.differentiation.for.14.days.replicate.3_1	SRR21009227	Day14_Diff
+Mesenchymal.stem.cells.subjected.to.TGF.β.induced.micromass.chondrogenic.differentiation.for.21.days.replicate.1_1	SRR21009226	Day21_Diff
+Mesenchymal.stem.cells.subjected.to.TGF.β.induced.micromass.chondrogenic.differentiation.for.21.days.replicate.2_1	SRR21009225	Day21_Diff
+Mesenchymal.stem.cells.subjected.to.TGF.β.induced.micromass.chondrogenic.differentiation.for.21.days.replicate.3_1	SRR21009224	Day21_Diff

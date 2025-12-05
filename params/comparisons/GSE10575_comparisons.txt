@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+characteristics_ch1	migratory cells only found in diseased OA tissue with stem cell characteristics	healthy chondrocytes
+characteristics_ch1	Osteocytes/-blasts in P2 from human bone chips of patients with OA	healthy chondrocytes
+characteristics_ch1	T/C-28 cells (fetal human sternal chondrocytes, immortalized, M.Goldring)	healthy chondrocytes

@@ -1,0 +1,10 @@
+Factor	Numerator	Denominator
+Timepoint	Day21	Day14
+Timepoint	Day14	Day7
+Timepoint	Day7	Day3
+Timepoint	Day3	Day1
+Timepoint	Day1	Day0
+Timepoint	Day21	Day0
+Timepoint	Day14	Day0
+Timepoint	Day7	Day0
+Timepoint	Day3	Day0

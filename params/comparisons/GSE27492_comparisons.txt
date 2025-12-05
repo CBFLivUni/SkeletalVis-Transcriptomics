@@ -1,0 +1,9 @@
+Factor1	Factor2	Numerator	Denominator
+source_name_ch1	time	Ankle.D01	Ankle.D00
+source_name_ch1	time	Ankle.D03	Ankle.D00
+source_name_ch1	time	Ankle.D07	Ankle.D00
+source_name_ch1	time	Ankle.D12	Ankle.D00
+source_name_ch1	time	Ankle.D18	Ankle.D00
+source_name_ch1	time	Synovial fluid.D07	Synovial fluid.D03
+source_name_ch1	time	Synovial fluid.D12	Synovial fluid.D03
+source_name_ch1	time	Synovial fluid.D18	Synovial fluid.D03

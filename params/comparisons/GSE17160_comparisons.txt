@@ -1,0 +1,13 @@
+Factor1	Factor2	Numerator	Denominator
+type.1	treatment	Wild-type.LPS-treated	Wild-type.none
+type.1	treatment	Wild-type.HA-treated	Wild-type.none
+type.1	treatment	Wild-type.TSG6-treated	Wild-type.none
+type.1	treatment	Wild-type.TNFa-treated	Wild-type.none
+type.1	treatment	TSG-6 knockout.LPS-treated	TSG-6 knockout.none
+type.1	treatment	TSG-6 knockout.HA-treated	TSG-6 knockout.none
+type.1	treatment	TSG-6 knockout.TSG6-treated	TSG-6 knockout.none
+type.1	treatment	TSG-6 knockout.TNFa-treated	TSG-6 knockout.none
+type.1	treatment	TSG-6 knockout.LPS-treated	Wild-type.LPS-treated
+type.1	treatment	TSG-6 knockout.HA-treated	Wild-type.HA-treated
+type.1	treatment	TSG-6 knockout.TSG6-treated	Wild-type.TSG6-treated
+type.1	treatment	TSG-6 knockout.TNFa-treated	Wild-type.TNFa-treated

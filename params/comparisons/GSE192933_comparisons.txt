@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+genotype	Girk3_KO	WT

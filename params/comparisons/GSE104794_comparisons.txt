@@ -1,0 +1,2 @@
+Factor	Numerator	Denominator
+treatment	Ad-Epas1(HIF-2a) infected	Ad-null infected

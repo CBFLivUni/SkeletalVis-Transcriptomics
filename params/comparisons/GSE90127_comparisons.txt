@@ -1,0 +1,4 @@
+Factor	Numerator	Denominator
+description	osteoblasts in differentiation medium and cabozantinib for 30 days	undifferentiated mouse osteoblasts
+description	osteoblasts in differentiation medium and cabozantinib for 30 days	differentiated 30 day mouse osteoblasts
+description	differentiated 30 day mouse osteoblasts	undifferentiated mouse osteoblasts
